@@ -1,0 +1,67 @@
+2015-02-26 16:08:31	laeti	laeti has joined the group
+2015-02-26 16:08:31	alexandre	alexandre has joined the group
+2015-02-26 16:08:31	chloe	chloe has joined the group
+2015-02-26 16:08:31	pati	pati has joined the group
+2015-02-26 16:08:31	mathieu	mathieu has joined the group
+2015-02-26 16:08:31	eloise	eloise has joined the group
+2015-02-26 16:08:31	xaverie	xaverie has joined the group
+2015-02-26 16:09:52	laeti	Bienvenue ! (edited)
+2015-02-26 16:10:03	eloise	Et voilà un endroit parfait pour poster vos suggestions d'actions qu'il faudrait que l'on puisse faire côté support sans avoir besoin de contacter à chaque fois la TK :simple_smile:
+2015-02-26 16:10:38	⤷	- possibilité de lancer un import/une récupération des commandes marketplaces sur plusieurs jours (10, 30 jours, etc.)  (edited)
+2015-02-26 16:11:21	laeti	- importer une commande à l'ID
+2015-02-26 16:11:40	⤷	- intégration des thésaurus
+2015-02-26 16:14:58	jeff	jeff has joined the group
+2015-02-26 16:14:58	younes	younes has joined the group
+2015-02-26 16:14:58	linda	linda has joined the group
+2015-02-26 16:15:43	laeti	- supprimer ou ajouter des champs dans une structure
+2015-02-26 16:15:55	⤷	- changer le nom d'une structure
+2015-02-26 16:16:12	xaverie	- possibilité d'injecter plusieurs champs en injection de valeurs à partir de l'id_produit
+2015-02-26 16:17:57	⤷	- suppression des produits virtuels sur un compte complet
+2015-02-26 16:33:31	eloise	ah ouaaiiis carrément pour les produits virtuels !!!
+2015-02-26 16:33:43	⤷	ça serait une révolution :smile:
+2015-03-02 17:41:22	mathieu	c'est top ce groupe :wink:
+2015-03-02 17:41:40	⤷	par contre, qqun fait une synthèse de tout et renvoie vers la technique
+2015-03-02 17:41:44	⤷	ou c'est pas encore fait ?
+2015-03-02 17:42:19	⤷	pour info, voici ce qui avait été envoyé le 20/11 :
+2015-03-02 17:42:21	⤷	- dans l'outil Actions MP, plus de possibilité sur les import des commandes  : sur X jours ou sur une période donnée
+2015-03-02 17:42:21		- pour les produits virtuels, possibilité également  de les supprimer sur un compte entier 
+2015-03-02 17:42:21		- supprimer le last modified des flux d'un compte entier en plus de pouvoir le faire flux par flux
+2015-03-02 17:42:21		- dupliquer les champs perso d'un flux a un autre
+2015-03-02 17:42:21		- dupliquer facilement les règles /segmentation/rechercher remplacer d'un flux a un autre
+2015-03-02 17:42:21		- lancer les routines de retraitements des flux et les récupérations sur les ftp des marchands
+2015-03-02 17:42:21		- Lancer indexations debug = si possible pour tout le monde
+2015-03-02 17:42:21		- Changer tous les flux sources d'un groupe en masse
+2015-03-02 17:42:21		- Possibilité de lancer des back ups sur tout un compte en plus du flux par flux
+2015-03-02 17:42:21		- Créer une structure via csv avec intégration des descriptifs des champs également
+2015-03-02 17:42:21		- Intégration des thesaurus via csv
+2015-03-02 17:42:21		- Accès aux logs des mails envoyés (si possibilité de mettre ça en place...)
+2015-03-04 12:03:11	laeti	La modif' au niveau de la suppression des valeurs perso a été faite > http://toolbox.lengow.com/fields_perso.html
+2015-03-05 11:35:25	pati	je ne sais plus si c'était dit : est-ce qu'on pourrait ajouter aussi la modif de certaines infos d'une commande (ID produit, numéro tél, pays) ?
+2015-03-05 11:35:32	⤷	et puis : injection des attributs pour LR
+2015-03-05 16:11:36	ludo	ludo has joined the group
+2015-03-19 21:37:32	andrea.previtera	andrea.previtera has joined the group
+2015-04-07 15:02:44	eloise	outil pour pouvoir extraire la liste des produits pour lesquels une donnée de l'un des champs importants (titre, id, description, category ou prix) est manquante
+2015-04-14 12:10:58	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-08-18 12:16:57	magdi	magdi has joined the group
+2015-08-18 12:16:57	carlos	carlos has joined the group
+2015-09-11 14:23:28	tangifravalo	tangifravalo has joined the group
+2015-09-11 14:26:29	loic_lengow	loic_lengow has joined the group
+2015-09-11 14:29:35	aurelie	aurelie has joined the group
+2015-09-29 14:51:21	sylvain	sylvain has joined the group
+2015-09-30 10:57:02	fabien	fabien has joined the group
+2015-10-20 11:07:37	zahradeschard	zahradeschard has joined the group
+2015-10-20 11:07:37	aymeric.milcent	aymeric.milcent has joined the group
+2016-01-19 17:12:05	julian	julian has joined the group
+2016-01-26 16:06:51	nunus	nunus has joined the group
+2016-01-26 16:06:51	gilleslegall	gilleslegall has joined the group
+2016-01-27 12:34:30	nunus	Hey les copains, y’a moyen de me filer un accès à ToolBox siouplé ? :simple_smile:
+2016-01-27 12:34:39	⤷	ça : http://toolbox.lengow.com/
+2016-01-27 12:35:07	⤷	parcequ’avec mon compte, ben j’ai une belle page vide :smile:
+2016-01-27 12:37:20	⤷	KORDIALMEN.
+2016-01-27 14:23:25	mathieu	déjà t’as 2 comptes :stuck_out_tongue:
+2016-01-27 14:23:36	⤷	c’est good là ?
+2016-01-27 15:27:11	nunus	ca marche !
+2016-01-27 15:27:13	⤷	merci :simple_smile:
+2016-02-16 18:13:54	annabelleperis	annabelleperis has joined the group
+2016-02-16 18:14:20	darioleggiero	darioleggiero has joined the group
+2016-03-08 17:30:05	leyi.chai-gerard	leyi.chai-gerard has joined the group

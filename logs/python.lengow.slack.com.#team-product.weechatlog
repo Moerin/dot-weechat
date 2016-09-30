@@ -1,0 +1,625 @@
+2016-04-04 12:32:57	-Connector-	*Jérémie QUINSON* commented on Issue https://lengow.atlassian.net/browse/AV-2247?focusedCommentId=48272 (AV-2247)
+2016-04-04 13:53:06	-Connector-	*Mickaël LEBAILLIF* commented on Issue https://lengow.atlassian.net/browse/AV-2246?focusedCommentId=48275 (AV-2246)
+2016-04-04 14:07:32	-Connector-	*Jérémie QUINSON* commented on Issue https://lengow.atlassian.net/browse/AV-2246?focusedCommentId=48282 (AV-2246)
+2016-04-04 15:07:32	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 15:07:32		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 15:07:32		Description * "clics" ne semble pas être internationalisé
+2016-04-04 15:07:32		* -Les devises ne sont pas bien positionnées...
+2016-04-04 16:14:14	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1706 (AV-1706)
+2016-04-04 16:14:14		API_account data : moyenne et pic indexation (https://lengow.atlassian.net/browse/AV-1706)
+2016-04-04 16:14:14		Status Revue & Tests → Done
+2016-04-04 16:34:17	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-2246 (AV-2246)
+2016-04-04 16:34:17		Urgent : droplist pre-matching KO (https://lengow.atlassian.net/browse/AV-2246)
+2016-04-04 16:34:17		Assignee Mickaël LEBAILLIF → Jérémie QUINSON
+2016-04-04 16:35:13	-Connector-	*Mickaël LEBAILLIF* commented on Issue https://lengow.atlassian.net/browse/AV-2246?focusedCommentId=48306 (AV-2246)
+2016-04-04 16:53:17	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 16:53:17		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 16:53:17		Description * "clics" ne semble pas être internationalisé
+2016-04-04 16:53:17		* -Les devises ne sont pas bien positionnées...
+2016-04-04 17:16:13	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-04 17:16:13		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-04 17:16:13		Status Revue & Tests → In Progress
+2016-04-04 17:16:13		Assignee Ludovic DRIN → Gilles LE GALL
+2016-04-04 17:16:16	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-04 17:16:16		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-04 17:16:16		Status In Progress → To Do
+2016-04-04 17:16:30	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-04 17:16:30		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-04 17:16:30		Assignee Gilles LE GALL → Jérémie QUINSON
+2016-04-04 17:17:19	-Connector-	ludo commented on Issue https://lengow.atlassian.net/browse/AV-1832?focusedCommentId=48318 (AV-1832)
+2016-04-04 17:18:24	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2216 (AV-2216)
+2016-04-04 17:18:24		Indexation : Masquer la mise en forme des liens sur doublons et erreurs (https://lengow.atlassian.net/browse/AV-2216)
+2016-04-04 17:18:24		Status Revue & Tests → Done
+2016-04-04 17:25:19	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1793 (AV-1793)
+2016-04-04 17:25:19		Organiser les holders/structures/thésaurus (https://lengow.atlassian.net/browse/AV-1793)
+2016-04-04 17:25:19		Status In Progress → Code review
+2016-04-04 17:25:24	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1793 (AV-1793)
+2016-04-04 17:25:24		Organiser les holders/structures/thésaurus (https://lengow.atlassian.net/browse/AV-1793)
+2016-04-04 17:25:24		Status Code review → Revue & Tests
+2016-04-04 17:25:26	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1793 (AV-1793)
+2016-04-04 17:25:26		Organiser les holders/structures/thésaurus (https://lengow.atlassian.net/browse/AV-1793)
+2016-04-04 17:25:26		Status Revue & Tests → Done
+2016-04-04 17:30:51	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-04 17:30:51		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-04 17:30:51		Type Integration/wording
+2016-04-04 17:30:51		Priority Majeur
+2016-04-04 17:30:51		Assignee *vincent.coquen*
+2016-04-04 17:40:28	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2153 (AV-2153)
+2016-04-04 17:40:28		FRONT - Blocage de la plate-forme (https://lengow.atlassian.net/browse/AV-2153)
+2016-04-04 17:40:28		Description * Bloquer complètement la plate-forme tant que le mec n'est pas passé sur un mode "client"...
+2016-04-04 17:44:01	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1965 (AV-1965)
+2016-04-04 17:44:01		[Core] : stopper l'indexation (https://lengow.atlassian.net/browse/AV-1965)
+2016-04-04 17:44:01		Status Revue & Tests → Done
+2016-04-04 17:45:05	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1955 (AV-1955)
+2016-04-04 17:45:05		[FRONT] : Apparition du message d'upgrade (https://lengow.atlassian.net/browse/AV-1955)
+2016-04-04 17:45:05		Status In Progress → To Do
+2016-04-04 17:45:07	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1955 (AV-1955)
+2016-04-04 17:45:07		[FRONT] : Apparition du message d'upgrade (https://lengow.atlassian.net/browse/AV-1955)
+2016-04-04 17:45:07		Status To Do → Abandonné
+2016-04-04 17:45:43	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1966 (AV-1966)
+2016-04-04 17:45:43		Utiliser un plan TRIAL pour limiter le nb de produit (https://lengow.atlassian.net/browse/AV-1966)
+2016-04-04 17:45:43		Status To Do → Abandonné
+2016-04-04 17:45:59	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-1951 (AV-1951)
+2016-04-04 17:45:59		Expiration du trial (https://lengow.atlassian.net/browse/AV-1951)
+2016-04-04 17:45:59		Status To Do → Done
+2016-04-04 17:46:56	-Connector-	*Yann LECHEVALLIER* commented on Issue https://lengow.atlassian.net/browse/AV-2215?focusedCommentId=48323 (AV-2215)
+2016-04-04 17:49:59	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 17:49:59		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 17:49:59		Status In Progress → Code review
+2016-04-04 17:51:29	-Connector-	*Maël LAIGLE* created an Issue  https://lengow.atlassian.net/browse/AV-2259 (AV-2259)
+2016-04-04 17:51:29		CRASSE - Brancher filtres stats/reporting (https://lengow.atlassian.net/browse/AV-2259)
+2016-04-04 17:51:29		Type Tâche technique
+2016-04-04 17:51:29		Priority Majeur
+2016-04-04 17:51:29		Assignee gilleslegall
+2016-04-04 17:51:47	-Connector-	*Maël LAIGLE* commented on Issue https://lengow.atlassian.net/browse/AV-2235?focusedCommentId=48324 (AV-2235)
+2016-04-04 17:51:57	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 17:51:57		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 17:51:57		Description * -"clics" ne semble pas être internationalisé-
+2016-04-04 17:51:57		* -Les devises ne sont pas bien positionnées...
+2016-04-04 18:05:24	-Connector-	*Yann LECHEVALLIER* commented on Issue https://lengow.atlassian.net/browse/AV-2217?focusedCommentId=48332 (AV-2217)
+2016-04-04 18:20:46	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 18:20:46		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 18:20:46		Status Code review → Revue & Tests
+2016-04-04 18:20:46		Assignee Maël LAIGLE → Gilles LE GALL
+2016-04-04 18:29:57	-Connector-	gilleslegall edited an Issue  https://lengow.atlassian.net/browse/AV-2259 (AV-2259)
+2016-04-04 18:29:57		CRASSE - Brancher filtres stats/reporting (https://lengow.atlassian.net/browse/AV-2259)
+2016-04-04 18:29:57		Assignee Gilles LE GALL → Yann LECHEVALLIER
+2016-04-04 18:34:48	-Connector-	gilleslegall edited an Issue  https://lengow.atlassian.net/browse/AV-2259 (AV-2259)
+2016-04-04 18:34:48		CRASSE - Brancher filtres stats/reporting (https://lengow.atlassian.net/browse/AV-2259)
+2016-04-04 18:34:48		Sprint Sprint 19
+2016-04-04 18:35:34	-Connector-	gilleslegall edited an Issue  https://lengow.atlassian.net/browse/AV-2235 (AV-2235)
+2016-04-04 18:35:34		Dashboard (https://lengow.atlassian.net/browse/AV-2235)
+2016-04-04 18:35:34		Assignee Gilles LE GALL → Yann LECHEVALLIER
+2016-04-05 09:21:59	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-1821 (AV-1821)
+2016-04-05 09:21:59		[FRONT] brancher le nouveau switch (https://lengow.atlassian.net/browse/AV-1821)
+2016-04-05 09:21:59		Status In Progress → Revue & Tests
+2016-04-05 09:21:59		Assignee Yon MELLADO → Matthieu DAVIERE
+2016-04-05 09:23:42	-Connector-	*Yann LECHEVALLIER* commented on Issue https://lengow.atlassian.net/browse/AV-2235?focusedCommentId=48405 (AV-2235)
+2016-04-05 09:56:47	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-05 09:56:47		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-05 09:56:47		Status In Progress → Code review
+2016-04-05 09:56:53	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-05 09:56:53		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-05 09:56:53		Status Code review → Revue & Tests
+2016-04-05 09:56:53		Assignee Jérémie BIRON → Yann LECHEVALLIER
+2016-04-05 09:58:21	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2152?focusedCommentId=48410 (AV-2152)
+2016-04-05 09:59:52	-Connector-	*Gautier ZIMMERMANN* edited an Issue  https://lengow.atlassian.net/browse/AV-1821 (AV-1821)
+2016-04-05 09:59:52		[FRONT] brancher le nouveau switch (https://lengow.atlassian.net/browse/AV-1821)
+2016-04-05 09:59:52		Status Revue & Tests → Done
+2016-04-05 09:59:58	-Connector-	*Gautier ZIMMERMANN* edited an Issue  https://lengow.atlassian.net/browse/AV-1754 (AV-1754)
+2016-04-05 09:59:58		Nouveau switch multi-comptes (https://lengow.atlassian.net/browse/AV-1754)
+2016-04-05 09:59:58		Status To Do → Done
+2016-04-05 10:03:31	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2220 (AV-2220)
+2016-04-05 10:03:31		UI - Checkout personnalisé (https://lengow.atlassian.net/browse/AV-2220)
+2016-04-05 10:03:31		Status To Do → In Progress
+2016-04-05 10:12:12	-Connector-	*Yann LECHEVALLIER* commented on Issue https://lengow.atlassian.net/browse/AV-2152?focusedCommentId=48417 (AV-2152)
+2016-04-05 10:12:15	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-05 10:12:15		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-05 10:12:15		Status Revue & Tests → In Progress
+2016-04-05 10:12:15		Assignee Yann LECHEVALLIER → Jérémie BIRON
+2016-04-05 10:12:26	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-05 10:12:26		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-05 10:12:26		Status In Progress → To Do
+2016-04-05 10:50:42	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2260 (AV-2260)
+2016-04-05 10:50:42		GLOBAL # Moteur de recherche - Focus (https://lengow.atlassian.net/browse/AV-2260)
+2016-04-05 10:50:42		Type Integration/wording
+2016-04-05 10:50:42		Priority Majeur
+2016-04-05 10:50:42		Assignee *matthieu.daviere*
+2016-04-05 11:05:23	-Connector-	*Gautier ZIMMERMANN* created an Issue  https://lengow.atlassian.net/browse/AV-2261 (AV-2261)
+2016-04-05 11:05:23		Décalage texte écran d'accueil (https://lengow.atlassian.net/browse/AV-2261)
+2016-04-05 11:05:23		Type Bug
+2016-04-05 11:05:23		Priority Majeur
+2016-04-05 11:05:23		Assignee *jeremie.biron*
+2016-04-05 11:13:21	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2160 (AV-2160)
+2016-04-05 11:13:21		UI - Template de mail (https://lengow.atlassian.net/browse/AV-2160)
+2016-04-05 11:13:21		Status To Do → In Progress
+2016-04-05 11:32:35	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2153 (AV-2153)
+2016-04-05 11:32:35		FRONT - Blocage de la plate-forme (https://lengow.atlassian.net/browse/AV-2153)
+2016-04-05 11:32:35		Description * Bloquer complètement la plate-forme tant que le mec n'est pas passé sur un mode "client"...
+2016-04-05 12:00:49	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2153 (AV-2153)
+2016-04-05 12:00:49		FRONT - Blocage de la plate-forme (https://lengow.atlassian.net/browse/AV-2153)
+2016-04-05 12:00:49		Status To Do → In Progress
+2016-04-05 12:10:36	-Connector-	*Arthur BOURGEOIS* created an Issue  https://lengow.atlassian.net/browse/AV-2262 (AV-2262)
+2016-04-05 12:10:36		Faire une règle : 2 chiffres après la virgule arrondi au centième supérieur (https://lengow.atlassian.net/browse/AV-2262)
+2016-04-05 12:10:36		Type Bug
+2016-04-05 12:10:36		Priority Majeur
+2016-04-05 12:10:36		Assignee *vincent.coquen*
+2016-04-05 12:38:01	-Connector-	*Arthur BOURGEOIS* created an Issue  https://lengow.atlassian.net/browse/AV-2263 (AV-2263)
+2016-04-05 12:38:01		Dans navigation Preview, il faut figer 3 colonnes et 1 ligne (https://lengow.atlassian.net/browse/AV-2263)
+2016-04-05 12:38:01		Type Tâche technique
+2016-04-05 12:38:01		Priority Majeur
+2016-04-05 12:38:01		Assignee *vincent.coquen*
+2016-04-05 14:04:31	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2264 (AV-2264)
+2016-04-05 14:04:31		UPGRADES & PLANS # Access denied - Not owner (https://lengow.atlassian.net/browse/AV-2264)
+2016-04-05 14:04:31		Type User story
+2016-04-05 14:04:31		Priority Majeur
+2016-04-05 14:04:53	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2265 (AV-2265)
+2016-04-05 14:04:53		UI - Global (https://lengow.atlassian.net/browse/AV-2265)
+2016-04-05 14:04:53		Type Sous-tâche
+2016-04-05 14:04:53		Priority Majeur
+2016-04-05 14:05:06	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2266 (AV-2266)
+2016-04-05 14:05:06		FRONT - Changement affichage page (https://lengow.atlassian.net/browse/AV-2266)
+2016-04-05 14:05:06		Type Sous-tâche
+2016-04-05 14:05:06		Priority Majeur
+2016-04-05 14:08:40	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2266 (AV-2266)
+2016-04-05 14:08:40		FRONT - Changement affichage page (https://lengow.atlassian.net/browse/AV-2266)
+2016-04-05 14:08:40		Description Au clic sur le bouton, faire un lien en HREF vers le mail du owner de la plate-forme
+2016-04-05 14:08:52	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2264 (AV-2264)
+2016-04-05 14:08:52		UPGRADES & PLANS # Access denied - Not owner (https://lengow.atlassian.net/browse/AV-2264)
+2016-04-05 14:08:52		Attachment stats_general 2 copy 34.png
+2016-04-05 14:20:11	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2266 (AV-2266)
+2016-04-05 14:20:11		FRONT - Changement affichage page (https://lengow.atlassian.net/browse/AV-2266)
+2016-04-05 14:20:11		Description Au clic sur le bouton, faire un lien en HREF vers le mail du owner de la plate-forme
+2016-04-05 14:20:11		Sur la page...
+2016-04-05 14:20:36	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2265 (AV-2265)
+2016-04-05 14:20:36		UI - Global (https://lengow.atlassian.net/browse/AV-2265)
+2016-04-05 14:20:36		Description Sur la page de liste des accounts, ne pas oublier également le tag à mettre sur une plate-forme...
+2016-04-05 14:40:10	-Connector-	*Yann LECHEVALLIER* created an Issue  https://lengow.atlassian.net/browse/AV-2267 (AV-2267)
+2016-04-05 14:40:10		MATCHING CATEGORIES # Moteur de recherche en contains (https://lengow.atlassian.net/browse/AV-2267)
+2016-04-05 14:40:10		Type User story
+2016-04-05 14:40:10		Priority Majeur
+2016-04-05 14:40:10		Assignee *vincent.coquen*
+2016-04-05 15:41:58	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-1983 (AV-1983)
+2016-04-05 15:41:58		FRONT (https://lengow.atlassian.net/browse/AV-1983)
+2016-04-05 15:41:58		Status To Do → In Progress
+2016-04-05 17:35:52	-Connector-	*Matthieu DAVIERE* created an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-05 17:35:52		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-05 17:35:52		Type Bug
+2016-04-05 17:35:52		Priority Majeur
+2016-04-05 17:35:52		Assignee *matthieu.daviere*
+2016-04-05 17:35:58	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-05 17:35:58		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-05 17:35:58		Status To Do → In Progress
+2016-04-06 10:13:03	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-06 10:13:03		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-06 10:13:03		Status In Progress → Code review
+2016-04-06 10:13:15	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-06 10:13:15		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-06 10:13:15		Assignee Matthieu DAVIERE → Jérémie BIRON
+2016-04-06 10:19:33	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2251 (AV-2251)
+2016-04-06 10:19:33		UI - Illus  (https://lengow.atlassian.net/browse/AV-2251)
+2016-04-06 10:19:33		Status To Do → In Progress
+2016-04-06 11:47:31	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2220 (AV-2220)
+2016-04-06 11:47:31		UI - Checkout personnalisé (https://lengow.atlassian.net/browse/AV-2220)
+2016-04-06 11:47:31		Status In Progress → Code review
+2016-04-06 11:49:25	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2220?focusedCommentId=48627 (AV-2220)
+2016-04-06 11:54:22	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-06 11:54:22		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-06 11:54:22		Status Code review → Revue & Tests
+2016-04-06 11:54:22		Assignee Jérémie BIRON → Matthieu DAVIERE
+2016-04-06 12:54:20	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2220 (AV-2220)
+2016-04-06 12:54:20		UI - Checkout personnalisé (https://lengow.atlassian.net/browse/AV-2220)
+2016-04-06 12:54:20		Status Code review → Revue & Tests
+2016-04-06 12:54:20		Assignee Jérémie BIRON → Yann LECHEVALLIER
+2016-04-06 14:35:00	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-06 14:35:00		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-06 14:35:00		Status To Do → In Progress
+2016-04-06 14:35:42	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2152?focusedCommentId=48653 (AV-2152)
+2016-04-06 14:36:36	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-06 14:36:36		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-06 14:36:36		Status In Progress → Code review
+2016-04-06 14:57:44	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-1859 (AV-1859)
+2016-04-06 14:57:44		[MODULES ]Indexation par lot (https://lengow.atlassian.net/browse/AV-1859)
+2016-04-06 14:57:44		Status In Progress → Code review
+2016-04-06 14:57:51	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-1859 (AV-1859)
+2016-04-06 14:57:51		[MODULES ]Indexation par lot (https://lengow.atlassian.net/browse/AV-1859)
+2016-04-06 14:57:51		Assignee Mickaël LEBAILLIF → Jean-Baptiste MARTIN
+2016-04-06 15:01:29	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-1634 (AV-1634)
+2016-04-06 15:01:29		CORE (https://lengow.atlassian.net/browse/AV-1634)
+2016-04-06 15:01:29		Status To Do → In Progress
+2016-04-06 15:07:38	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2170?focusedCommentId=48657 (AV-2170)
+2016-04-06 15:07:41	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2170 (AV-2170)
+2016-04-06 15:07:41		UI (https://lengow.atlassian.net/browse/AV-2170)
+2016-04-06 15:07:41		Status To Do → Done
+2016-04-06 15:29:30	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2177 (AV-2177)
+2016-04-06 15:29:30		UI (https://lengow.atlassian.net/browse/AV-2177)
+2016-04-06 15:29:30		Status To Do → In Progress
+2016-04-06 15:35:47	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-06 15:35:47		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-06 15:35:47		Description On en recause avant de commencer, on fait un état de l'art tous les 3 avec [~ludovic]
+2016-04-06 15:35:47		On voit...
+2016-04-06 15:37:43	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-1859 (AV-1859)
+2016-04-06 15:37:43		[MODULES ]Indexation par lot (https://lengow.atlassian.net/browse/AV-1859)
+2016-04-06 15:37:43		Status Code review → Revue & Tests
+2016-04-06 15:37:43		Assignee Jean-Baptiste MARTIN → Gilles LE GALL
+2016-04-06 15:42:36	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-06 15:42:36		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-06 15:42:36		Description On en recause avant de commencer, on fait un état de l'art tous les 3 avec [~ludovic]
+2016-04-06 15:42:36		On voit...
+2016-04-06 15:45:27	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-06 15:45:27		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-06 15:45:27		Description On en recause avant de commencer, on fait un état de l'art tous les 3 avec [~ludovic]
+2016-04-06 15:45:27		On voit...
+2016-04-06 15:46:55	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-06 15:46:55		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-06 15:46:55		Description On en recause avant de commencer, on fait un état de l'art tous les 3 avec [~ludovic]
+2016-04-06 15:46:55		On voit...
+2016-04-06 15:54:27	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2152 (AV-2152)
+2016-04-06 15:54:27		UI (https://lengow.atlassian.net/browse/AV-2152)
+2016-04-06 15:54:27		Status Code review → Revue & Tests
+2016-04-06 15:54:27		Assignee Jérémie BIRON → Yann LECHEVALLIER
+2016-04-06 15:58:55	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-06 15:58:55		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-06 15:58:55		Description *Bloc générique*
+2016-04-06 15:58:55		- SIREN (éditable après coup?)
+2016-04-06 15:58:55		- type client : Marchand / Agence / Grand...
+2016-04-06 16:01:35	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1321 (AV-1321)
+2016-04-06 16:01:35		[ROCKET] : Pouvoir ajouter/éditer une structure (https://lengow.atlassian.net/browse/AV-1321)
+2016-04-06 16:01:35		Status To Do → In Progress
+2016-04-06 16:01:38	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1321 (AV-1321)
+2016-04-06 16:01:38		[ROCKET] : Pouvoir ajouter/éditer une structure (https://lengow.atlassian.net/browse/AV-1321)
+2016-04-06 16:01:38		Status In Progress → Code review
+2016-04-06 16:02:06	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1321 (AV-1321)
+2016-04-06 16:02:06		[ROCKET] : Pouvoir ajouter/éditer une structure (https://lengow.atlassian.net/browse/AV-1321)
+2016-04-06 16:02:06		Status Code review → In Progress
+2016-04-06 16:02:06		Assignee Jérémie QUINSON → Fabien DOSSE
+2016-04-06 16:24:50	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1321 (AV-1321)
+2016-04-06 16:24:50		[ROCKET] : Pouvoir ajouter/éditer une structure (https://lengow.atlassian.net/browse/AV-1321)
+2016-04-06 16:24:50		Status In Progress → Code review
+2016-04-06 16:25:59	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2238 (AV-2238)
+2016-04-06 16:25:59		TRAD # Registration - Etape 1 (https://lengow.atlassian.net/browse/AV-2238)
+2016-04-06 16:25:59		Status Code review → Revue & Tests
+2016-04-06 16:25:59		Assignee Jérémie QUINSON → Yann LECHEVALLIER
+2016-04-06 16:26:25	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1321 (AV-1321)
+2016-04-06 16:26:25		[ROCKET] : Pouvoir ajouter/éditer une structure (https://lengow.atlassian.net/browse/AV-1321)
+2016-04-06 16:26:25		Assignee Fabien DOSSE → Jérémie QUINSON
+2016-04-06 16:26:50	-Connector-	*Jérémie QUINSON* commented on Issue https://lengow.atlassian.net/browse/AV-1832?focusedCommentId=48687 (AV-1832)
+2016-04-06 16:26:54	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-06 16:26:54		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-06 16:26:54		Status To Do → In Progress
+2016-04-06 16:26:57	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-06 16:26:57		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-06 16:26:57		Status In Progress → Code review
+2016-04-06 16:29:13	-Connector-	*Jérémie QUINSON* commented on Issue https://lengow.atlassian.net/browse/AV-2246?focusedCommentId=48689 (AV-2246)
+2016-04-06 16:29:16	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2246 (AV-2246)
+2016-04-06 16:29:16		Urgent : droplist pre-matching KO (https://lengow.atlassian.net/browse/AV-2246)
+2016-04-06 16:29:16		Status To Do → In Progress
+2016-04-06 16:29:21	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2246 (AV-2246)
+2016-04-06 16:29:21		Urgent : droplist pre-matching KO (https://lengow.atlassian.net/browse/AV-2246)
+2016-04-06 16:29:21		Status In Progress → Revue & Tests
+2016-04-06 16:29:21		Assignee Jérémie QUINSON → Gilles LE GALL
+2016-04-06 16:30:00	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2131 (AV-2131)
+2016-04-06 16:30:00		Remplacer par vide dans RR (https://lengow.atlassian.net/browse/AV-2131)
+2016-04-06 16:30:00		Assignee Vincent COQUEN → Jérémie QUINSON
+2016-04-06 16:38:41	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2131 (AV-2131)
+2016-04-06 16:38:41		Remplacer par vide dans RR (https://lengow.atlassian.net/browse/AV-2131)
+2016-04-06 16:38:41		Status To Do → In Progress
+2016-04-06 16:38:43	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2131 (AV-2131)
+2016-04-06 16:38:43		Remplacer par vide dans RR (https://lengow.atlassian.net/browse/AV-2131)
+2016-04-06 16:38:43		Status In Progress → Code review
+2016-04-06 16:40:47	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-1983 (AV-1983)
+2016-04-06 16:40:47		FRONT (https://lengow.atlassian.net/browse/AV-1983)
+2016-04-06 16:40:47		Story Points 3 → 0.25
+2016-04-06 16:41:07	nunus	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0YEG3LQZ/img_1322.jpg (Tra long)
+2016-04-06 16:42:18	-Connector-	*Maël LAIGLE* commented on Issue https://lengow.atlassian.net/browse/AV-1983?focusedCommentId=48696 (AV-1983)
+2016-04-06 16:47:06	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-1983 (AV-1983)
+2016-04-06 16:47:06		FRONT (https://lengow.atlassian.net/browse/AV-1983)
+2016-04-06 16:47:06		Status In Progress → To Do
+2016-04-06 17:15:54	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2183 (AV-2183)
+2016-04-06 17:15:54		FRONT - Appel des C.G.V & Validation (https://lengow.atlassian.net/browse/AV-2183)
+2016-04-06 17:15:54		Assignee Maël LAIGLE
+2016-04-06 17:16:17	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2209 (AV-2209)
+2016-04-06 17:16:17		FRONT - Appel API societe.com (https://lengow.atlassian.net/browse/AV-2209)
+2016-04-06 17:16:17		Assignee Maël LAIGLE
+2016-04-06 18:06:38	-Connector-	*Fabien DOSSE* edited an Issue  https://lengow.atlassian.net/browse/AV-1835 (AV-1835)
+2016-04-06 18:06:38		Modifier le front pour sélectionner le thésaurus à matcher si plusieurs thésaurus. (https://lengow.atlassian.net/browse/AV-1835)
+2016-04-06 18:06:38		Status To Do → In Progress
+2016-04-07 09:37:22	-Connector-	ludo commented on Issue https://lengow.atlassian.net/browse/AV-1832?focusedCommentId=48804 (AV-1832)
+2016-04-07 09:37:25	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-07 09:37:25		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-07 09:37:25		Status Code review → In Progress
+2016-04-07 09:37:25		Assignee Jérémie QUINSON → Gilles LE GALL
+2016-04-07 09:37:27	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-07 09:37:27		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-07 09:37:27		Status In Progress → To Do
+2016-04-07 09:37:55	-Connector-	ludo edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-07 09:37:55		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-07 09:37:55		Assignee Gilles LE GALL → Jérémie QUINSON
+2016-04-07 09:42:04	-Connector-	*Jérémie QUINSON* commented on Issue https://lengow.atlassian.net/browse/AV-1832?focusedCommentId=48805 (AV-1832)
+2016-04-07 09:42:08	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-07 09:42:08		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-07 09:42:08		Status To Do → In Progress
+2016-04-07 09:42:11	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1832 (AV-1832)
+2016-04-07 09:42:11		Modifier le formulaire de rocket pour ajouter les descriptions dans une table de surcharge (https://lengow.atlassian.net/browse/AV-1832)
+2016-04-07 09:42:11		Status In Progress → Code review
+2016-04-07 11:19:38	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2176?focusedCommentId=48824 (AV-2176)
+2016-04-07 11:19:46	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2177 (AV-2177)
+2016-04-07 11:19:46		UI (https://lengow.atlassian.net/browse/AV-2177)
+2016-04-07 11:19:46		Status In Progress → Code review
+2016-04-07 11:40:25	-Connector-	*Yann LECHEVALLIER* commented on Issue https://lengow.atlassian.net/browse/AV-1859?focusedCommentId=48837 (AV-1859)
+2016-04-07 14:32:55	-Connector-	ludo created an Issue  https://lengow.atlassian.net/browse/AV-2269 (AV-2269)
+2016-04-07 14:32:55		tuto JS tracking (https://lengow.atlassian.net/browse/AV-2269)
+2016-04-07 14:32:55		Type Integration/wording
+2016-04-07 14:32:55		Priority Majeur
+2016-04-07 14:32:55		Assignee *vincent.coquen*
+2016-04-07 14:54:19	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2177 (AV-2177)
+2016-04-07 14:54:19		UI (https://lengow.atlassian.net/browse/AV-2177)
+2016-04-07 14:54:19		Status Code review → Revue & Tests
+2016-04-07 14:54:19		Assignee Jérémie BIRON → Yann LECHEVALLIER
+2016-04-07 15:01:56	-Connector-	*Gautier ZIMMERMANN* created an Issue  https://lengow.atlassian.net/browse/AV-2270 (AV-2270)
+2016-04-07 15:01:56		EBAY # Verrouillage custom fields (https://lengow.atlassian.net/browse/AV-2270)
+2016-04-07 15:01:56		Type Bug
+2016-04-07 15:01:56		Priority Majeur
+2016-04-07 15:01:56		Assignee *mael.laigle*
+2016-04-07 15:15:32	-Connector-	*Gautier ZIMMERMANN* edited an Issue  https://lengow.atlassian.net/browse/AV-2270 (AV-2270)
+2016-04-07 15:15:32		EBAY # Verrouillage custom fields (https://lengow.atlassian.net/browse/AV-2270)
+2016-04-07 15:15:32		Sprint Sprint 20 → Sprint 19
+2016-04-07 15:31:10	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2249?focusedCommentId=48870 (AV-2249)
+2016-04-07 15:31:33	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2181 (AV-2181)
+2016-04-07 15:31:33		UI - Globale (https://lengow.atlassian.net/browse/AV-2181)
+2016-04-07 15:31:33		Status To Do → In Progress
+2016-04-07 15:36:54	-Connector-	*Gautier ZIMMERMANN* created an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-07 15:36:54		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-07 15:36:54		Type Bug
+2016-04-07 15:36:54		Priority Majeur
+2016-04-07 15:36:54		Assignee *vincent.coquen*
+2016-04-07 15:36:55	-Connector-	*Gautier ZIMMERMANN* edited an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-07 15:36:55		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-07 15:36:55		Rank Classé plus haut
+2016-04-07 18:03:28	-Connector-	*Maël LAIGLE* edited an Issue  https://lengow.atlassian.net/browse/AV-2183 (AV-2183)
+2016-04-07 18:03:28		FRONT - Appel des C.G.V & Validation (https://lengow.atlassian.net/browse/AV-2183)
+2016-04-07 18:03:28		Status To Do → In Progress
+2016-04-07 22:07:42	-Connector-	gilleslegall edited an Issue  https://lengow.atlassian.net/browse/AV-1996 (AV-1996)
+2016-04-07 22:07:42		Ajouter info si une catégorie est sélectionnable (matching) (https://lengow.atlassian.net/browse/AV-1996)
+2016-04-07 22:07:42		Rank Classé plus haut
+2016-04-07 22:09:02	-Connector-	gilleslegall edited an Issue  https://lengow.atlassian.net/browse/AV-2110 (AV-2110)
+2016-04-07 22:09:02		Lien du Knotwledgeowl dans le header n'ouvre pas un nouvel onglet (https://lengow.atlassian.net/browse/AV-2110)
+2016-04-07 22:09:02		Rank Classé plus haut
+2016-04-08 12:13:41	-Connector-	*Raphaëlle VASSEUR* created an Issue  https://lengow.atlassian.net/browse/AV-2272 (AV-2272)
+2016-04-08 12:13:41		Mise à jour des fonctions: wording FR & proper (https://lengow.atlassian.net/browse/AV-2272)
+2016-04-08 12:13:41		Type Tâche technique
+2016-04-08 12:13:41		Priority Majeur
+2016-04-08 12:16:46	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-08 12:16:46		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-08 12:16:46		Status To Do → In Progress
+2016-04-08 12:16:48	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-08 12:16:48		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-08 12:16:48		Assignee Vincent COQUEN → Jérémie QUINSON
+2016-04-08 12:24:31	-Connector-	*Guillaume STOFFER* edited an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-08 12:24:31		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-08 12:24:31		Status In Progress → Revue & Tests
+2016-04-08 12:24:31		Assignee Jérémie QUINSON → Gautier ZIMMERMANN
+2016-04-08 14:31:44	nunus	https://www.linkedin.com/in/nathanbaronpro
+2016-04-08 14:35:56	-Connector-	*Intégration Diffuseur* created an Issue  https://lengow.atlassian.net/browse/AV-2273 (AV-2273)
+2016-04-08 14:35:56		Définition des champs non visible quand menu déroulant (https://lengow.atlassian.net/browse/AV-2273)
+2016-04-08 14:35:56		Type Bug
+2016-04-08 14:35:56		Priority Majeur
+2016-04-08 14:38:31	-Connector-	*Gautier ZIMMERMANN* edited an Issue  https://lengow.atlassian.net/browse/AV-2271 (AV-2271)
+2016-04-08 14:38:31		PREVIEW # Erreur injection valeur (https://lengow.atlassian.net/browse/AV-2271)
+2016-04-08 14:38:31		Status Revue & Tests → Done
+2016-04-08 15:05:51	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2237 (AV-2237)
+2016-04-08 15:05:51		Load more sur reporting indexation produit (https://lengow.atlassian.net/browse/AV-2237)
+2016-04-08 15:05:51		Assignee Vincent COQUEN → Jérémie QUINSON
+2016-04-08 15:05:53	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2237 (AV-2237)
+2016-04-08 15:05:53		Load more sur reporting indexation produit (https://lengow.atlassian.net/browse/AV-2237)
+2016-04-08 15:05:53		Status To Do → In Progress
+2016-04-08 15:10:32	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2237 (AV-2237)
+2016-04-08 15:10:32		Load more sur reporting indexation produit (https://lengow.atlassian.net/browse/AV-2237)
+2016-04-08 15:10:32		Status In Progress → Code review
+2016-04-08 15:45:20	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1741 (AV-1741)
+2016-04-08 15:45:20		Brancher #login-back (https://lengow.atlassian.net/browse/AV-1741)
+2016-04-08 15:45:20		Status To Do → In Progress
+2016-04-08 15:45:22	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1741 (AV-1741)
+2016-04-08 15:45:22		Brancher #login-back (https://lengow.atlassian.net/browse/AV-1741)
+2016-04-08 15:45:22		Assignee Vincent COQUEN → Jérémie QUINSON
+2016-04-08 17:50:59	-Connector-	*Yann LECHEVALLIER* edited an Issue  https://lengow.atlassian.net/browse/AV-2258 (AV-2258)
+2016-04-08 17:50:59		ROCKET # Champs manquant (https://lengow.atlassian.net/browse/AV-2258)
+2016-04-08 17:50:59		Description *Bloc générique*
+2016-04-08 17:50:59		- -SIREN (éditable après coup?)-
+2016-04-08 17:50:59		- -type client : Marchand / Agence /...
+2016-04-11 09:38:54	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2153 (AV-2153)
+2016-04-11 09:38:54		FRONT - Blocage de la plate-forme (https://lengow.atlassian.net/browse/AV-2153)
+2016-04-11 09:38:54		Description (/)* Bloquer complètement la plate-forme tant que le mec n'est pas passé sur un mode "client"...
+2016-04-11 09:41:47	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2171 (AV-2171)
+2016-04-11 09:41:47		FRONT - Intégration du système de palliers (https://lengow.atlassian.net/browse/AV-2171)
+2016-04-11 09:41:47		Description (/)* Le système de pallier en pièce jointe
+2016-04-11 09:41:47		(/)* Le nombre de produits global est déterminé...
+2016-04-11 09:41:55	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2171 (AV-2171)
+2016-04-11 09:41:55		FRONT - Intégration du système de palliers (https://lengow.atlassian.net/browse/AV-2171)
+2016-04-11 09:41:55		Assignee Yon MELLADO
+2016-04-11 09:51:40	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2251 (AV-2251)
+2016-04-11 09:51:40		UI - Illus  (https://lengow.atlassian.net/browse/AV-2251)
+2016-04-11 09:51:40		Attachment acquisition-manuelle.jpg
+2016-04-11 10:10:13	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2251 (AV-2251)
+2016-04-11 10:10:13		UI - Illus  (https://lengow.atlassian.net/browse/AV-2251)
+2016-04-11 10:10:13		Status In Progress → Revue & Tests
+2016-04-11 10:10:13		Assignee Matthieu DAVIERE → Yann LECHEVALLIER
+2016-04-11 10:39:11	-Connector-	*Matthieu DAVIERE* created an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-11 10:39:11		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-11 10:39:11		Type Sous-tâche
+2016-04-11 10:39:11		Priority Majeur
+2016-04-11 10:39:11		Assignee *matthieu.daviere*
+2016-04-11 10:42:05	-Connector-	*Gautier ZIMMERMANN* created an Issue  https://lengow.atlassian.net/browse/AV-2275 (AV-2275)
+2016-04-11 10:42:05		ORDERS # Disparition boutons (https://lengow.atlassian.net/browse/AV-2275)
+2016-04-11 10:42:05		Type Bug
+2016-04-11 10:42:05		Priority Majeur
+2016-04-11 10:42:05		Assignee *vincent.coquen*
+2016-04-11 10:42:13	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2249 (AV-2249)
+2016-04-11 10:42:13		UI - Illustration (https://lengow.atlassian.net/browse/AV-2249)
+2016-04-11 10:42:13		Status To Do → In Progress
+2016-04-11 10:59:34	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2155?focusedCommentId=49058 (AV-2155)
+2016-04-11 11:00:41	-Connector-	*Jérémie BIRON* commented on Issue https://lengow.atlassian.net/browse/AV-2155?focusedCommentId=49058 (AV-2155)
+2016-04-11 11:04:21	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2181 (AV-2181)
+2016-04-11 11:04:21		UI - Globale (https://lengow.atlassian.net/browse/AV-2181)
+2016-04-11 11:04:21		Status In Progress → Code review
+2016-04-11 11:10:18	-Connector-	*Matthieu DAVIERE* commented on Issue https://lengow.atlassian.net/browse/AV-2249?focusedCommentId=48870 (AV-2249)
+2016-04-11 11:10:30	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2249 (AV-2249)
+2016-04-11 11:10:30		UI - Illustration (https://lengow.atlassian.net/browse/AV-2249)
+2016-04-11 11:10:30		Attachment free-trial.jpg
+2016-04-11 11:10:33	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2249 (AV-2249)
+2016-04-11 11:10:33		UI - Illustration (https://lengow.atlassian.net/browse/AV-2249)
+2016-04-11 11:10:33		Status In Progress → Revue & Tests
+2016-04-11 11:10:33		Assignee Matthieu DAVIERE → Yann LECHEVALLIER
+2016-04-11 11:11:01	-Connector-	*Jérémie BIRON* created an Issue  https://lengow.atlassian.net/browse/AV-2276 (AV-2276)
+2016-04-11 11:11:01		UI - Style Zuora (https://lengow.atlassian.net/browse/AV-2276)
+2016-04-11 11:11:01		Type Sous-tâche
+2016-04-11 11:11:01		Priority Majeur
+2016-04-11 11:11:01		Assignee *jeremie.biron*
+2016-04-11 11:13:00	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-11 11:13:00		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-11 11:13:00		Status To Do → In Progress
+2016-04-11 11:18:00	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2115 (AV-2115)
+2016-04-11 11:18:00		UI - Création écrans (https://lengow.atlassian.net/browse/AV-2115)
+2016-04-11 11:18:00		Status To Do → In Progress
+2016-04-11 11:54:24	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2181 (AV-2181)
+2016-04-11 11:54:24		UI - Globale (https://lengow.atlassian.net/browse/AV-2181)
+2016-04-11 11:54:24		Status Code review → Revue & Tests
+2016-04-11 11:54:24		Assignee Jérémie BIRON → Yann LECHEVALLIER
+2016-04-11 11:57:11	-Connector-	ludo created an Issue  https://lengow.atlassian.net/browse/AV-2277 (AV-2277)
+2016-04-11 11:57:11		Pb d'indexation de catalogue (https://lengow.atlassian.net/browse/AV-2277)
+2016-04-11 11:57:11		Type Bug
+2016-04-11 11:57:11		Priority Mineur
+2016-04-11 11:57:11		Assignee *mickael.lebaillif*
+2016-04-11 12:54:34	-Connector-	*Vincent COQUEN* edited an Issue  https://lengow.atlassian.net/browse/AV-2217 (AV-2217)
+2016-04-11 12:54:34		Perte du nom du holder & univers (https://lengow.atlassian.net/browse/AV-2217)
+2016-04-11 12:54:34		Status Code review → Revue & Tests
+2016-04-11 12:54:34		Assignee Jérémie QUINSON → Gilles LE GALL
+2016-04-11 16:00:05	-Connector-	*Arthur BOURGEOIS* created an Issue  https://lengow.atlassian.net/browse/AV-2278 (AV-2278)
+2016-04-11 16:00:05		#Partner_app (https://lengow.atlassian.net/browse/AV-2278)
+2016-04-11 16:00:05		Type Epic
+2016-04-11 16:00:05		Priority Majeur
+2016-04-11 16:01:12	-Connector-	*Arthur BOURGEOIS* created an Issue  https://lengow.atlassian.net/browse/AV-2279 (AV-2279)
+2016-04-11 16:01:12		#Tout ce qui concerne l'installation d'une app côté marchand (https://lengow.atlassian.net/browse/AV-2279)
+2016-04-11 16:01:12		Type Epic
+2016-04-11 16:01:12		Priority Majeur
+2016-04-11 16:02:46	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-2278 (AV-2278)
+2016-04-11 16:02:46		#App_workflow_partner (https://lengow.atlassian.net/browse/AV-2278)
+2016-04-11 16:02:46		Description Tout ce qui concerne la création d'une app côté partenaire
+2016-04-11 16:02:46		Summary #Partner_app → #App_workflow_partner
+2016-04-11 16:03:37	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-2279 (AV-2279)
+2016-04-11 16:03:37		#App_workflow_merchant (https://lengow.atlassian.net/browse/AV-2279)
+2016-04-11 16:03:37		Description Tout ce qui concerne l'installation d'une app côté marchand
+2016-04-11 16:03:37		Summary #Tout ce qui concerne l'installation d'une app côté marchand → #App_workflow_merchant
+2016-04-11 17:36:56	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-1268 (AV-1268)
+2016-04-11 17:36:56		APPS # Questions en l'air - A discuter (https://lengow.atlassian.net/browse/AV-1268)
+2016-04-11 17:36:56		Status To Do → Done
+2016-04-11 17:39:02	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-1989 (AV-1989)
+2016-04-11 17:39:02		Apps # Petits fignolages des familles (https://lengow.atlassian.net/browse/AV-1989)
+2016-04-11 17:39:02		Description Plein de petits fignolages pour améliorer la vie de l'utilisateur et du staff Rocket:
+2016-04-11 17:39:02		(/)...
+2016-04-11 17:39:45	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-1989 (AV-1989)
+2016-04-11 17:39:45		Apps # Petits fignolages des familles (https://lengow.atlassian.net/browse/AV-1989)
+2016-04-11 17:39:45		Status To Do → Done
+2016-04-11 17:50:20	-Connector-	*Arthur BOURGEOIS* created an Issue  https://lengow.atlassian.net/browse/AV-2280 (AV-2280)
+2016-04-11 17:50:20		Wording + réflexion Manage app (https://lengow.atlassian.net/browse/AV-2280)
+2016-04-11 17:50:20		Type User story
+2016-04-11 17:50:20		Priority Majeur
+2016-04-11 17:50:21	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-2280 (AV-2280)
+2016-04-11 17:50:21		Wording + réflexion Manage app (https://lengow.atlassian.net/browse/AV-2280)
+2016-04-11 17:50:21		Rank Classé plus haut
+2016-04-11 17:51:17	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-2126 (AV-2126)
+2016-04-11 17:51:17		APPS # Fignolages pour le 28 avril (https://lengow.atlassian.net/browse/AV-2126)
+2016-04-11 17:51:17		Description
+2016-04-11 17:51:19	-Connector-	*Arthur BOURGEOIS* edited an Issue  https://lengow.atlassian.net/browse/AV-2126 (AV-2126)
+2016-04-11 17:51:19		APPS # Fignolages pour le 28 avril (https://lengow.atlassian.net/browse/AV-2126)
+2016-04-11 17:51:19		Status To Do → Done
+2016-04-11 17:52:08	-Connector-	ludo created an Issue  https://lengow.atlassian.net/browse/AV-2281 (AV-2281)
+2016-04-11 17:52:08		Erreurs d'indexation (https://lengow.atlassian.net/browse/AV-2281)
+2016-04-11 17:52:08		Type Bug
+2016-04-11 17:52:08		Priority Majeur
+2016-04-11 17:52:08		Assignee *mickael.lebaillif*
+2016-04-11 18:15:23	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2153 (AV-2153)
+2016-04-11 18:15:23		FRONT - Blocage de la plate-forme (https://lengow.atlassian.net/browse/AV-2153)
+2016-04-11 18:15:23		Description (/)* Bloquer complètement la plate-forme tant que le mec n'est pas passé sur un mode "client"...
+2016-04-12 09:39:20	-Connector-	*Yon MELLADO* created an Issue  https://lengow.atlassian.net/browse/AV-2282 (AV-2282)
+2016-04-12 09:39:20		Création de la table "discount" d'offres globales (https://lengow.atlassian.net/browse/AV-2282)
+2016-04-12 09:39:20		Type Tâche technique
+2016-04-12 09:39:20		Priority Majeur
+2016-04-12 09:39:20		Assignee *guillaume*
+2016-04-12 11:19:51	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-12 11:19:51		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-12 11:19:51		Attachment Capture d’écran 2016-04-12 à 11.19.17.png
+2016-04-12 11:20:02	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-12 11:20:02		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-12 11:20:02		Status In Progress → Code review
+2016-04-12 11:20:11	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-12 11:20:11		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-12 11:20:11		Assignee Matthieu DAVIERE → Jérémie BIRON
+2016-04-12 11:29:48	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2268 (AV-2268)
+2016-04-12 11:29:48		Upgrade button - breakpoint (https://lengow.atlassian.net/browse/AV-2268)
+2016-04-12 11:29:48		Assignee Matthieu DAVIERE → Gilles LE GALL
+2016-04-12 11:34:26	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2179 (AV-2179)
+2016-04-12 11:34:26		UI - Template de mail + illus moitié page (https://lengow.atlassian.net/browse/AV-2179)
+2016-04-12 11:34:26		Attachment acquisition-manuelle.jpg
+2016-04-12 11:34:26	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2179 (AV-2179)
+2016-04-12 11:34:26		UI - Template de mail + illus moitié page (https://lengow.atlassian.net/browse/AV-2179)
+2016-04-12 11:34:26		Status To Do → In Progress
+2016-04-12 11:34:28	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2179 (AV-2179)
+2016-04-12 11:34:28		UI - Template de mail + illus moitié page (https://lengow.atlassian.net/browse/AV-2179)
+2016-04-12 11:34:28		Status In Progress → Revue & Tests
+2016-04-12 11:34:28		Assignee Matthieu DAVIERE → Yann LECHEVALLIER
+2016-04-12 11:35:05	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2160 (AV-2160)
+2016-04-12 11:35:05		UI - Template de mail (https://lengow.atlassian.net/browse/AV-2160)
+2016-04-12 11:35:05		Status In Progress → Revue & Tests
+2016-04-12 11:35:05		Assignee Matthieu DAVIERE → Yann LECHEVALLIER
+2016-04-12 11:36:45	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2160 (AV-2160)
+2016-04-12 11:36:45		UI - Template de mail (https://lengow.atlassian.net/browse/AV-2160)
+2016-04-12 11:36:45		Attachment template-de-mail.jpg
+2016-04-12 11:38:17	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2114 (AV-2114)
+2016-04-12 11:38:17		UI - Création images / gifs (https://lengow.atlassian.net/browse/AV-2114)
+2016-04-12 11:38:17		Status To Do → In Progress
+2016-04-12 11:54:23	-Connector-	*Jérémie BIRON* edited an Issue  https://lengow.atlassian.net/browse/AV-2274 (AV-2274)
+2016-04-12 11:54:23		Illu de fond - end trial (https://lengow.atlassian.net/browse/AV-2274)
+2016-04-12 11:54:23		Status Code review → Revue & Tests
+2016-04-12 11:54:23		Assignee Jérémie BIRON → Matthieu DAVIERE
+2016-04-12 15:27:07	-Connector-	*Yon MELLADO* edited an Issue  https://lengow.atlassian.net/browse/AV-2171 (AV-2171)
+2016-04-12 15:27:07		FRONT - Intégration du système de palliers (https://lengow.atlassian.net/browse/AV-2171)
+2016-04-12 15:27:07		Description (/)* Le système de pallier en pièce jointe
+2016-04-12 15:27:07		(/)* Le nombre de produits global est déterminé...
+2016-04-12 15:31:05	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2114 (AV-2114)
+2016-04-12 15:31:05		UI - Création images / gifs (https://lengow.atlassian.net/browse/AV-2114)
+2016-04-12 15:31:05		Attachment onboarding-matching.jpg
+2016-04-12 15:57:12	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-1741 (AV-1741)
+2016-04-12 15:57:12		Brancher #login-back (https://lengow.atlassian.net/browse/AV-1741)
+2016-04-12 15:57:12		Status In Progress → Code review
+2016-04-12 15:57:25	-Connector-	*Vincent COQUEN* created an Issue  https://lengow.atlassian.net/browse/AV-2283 (AV-2283)
+2016-04-12 15:57:25		"Erreur pendant l'évaluation de la règle" (https://lengow.atlassian.net/browse/AV-2283)
+2016-04-12 15:57:25		Type Bug
+2016-04-12 15:57:25		Priority Majeur
+2016-04-12 15:57:25		Assignee *mickael.lebaillif*
+2016-04-12 16:05:20	-Connector-	*Vincent COQUEN* edited an Issue  https://lengow.atlassian.net/browse/AV-2283 (AV-2283)
+2016-04-12 16:05:20		"Erreur pendant l'évaluation de la règle" (https://lengow.atlassian.net/browse/AV-2283)
+2016-04-12 16:05:20		Description Lors de l'évaluation de la règle : $poids < 10 OR $poids > 15
+2016-04-12 16:05:20		se produit sur :...
+2016-04-12 17:12:05	-Connector-	*Matthieu DAVIERE* edited an Issue  https://lengow.atlassian.net/browse/AV-2114 (AV-2114)
+2016-04-12 17:12:05		UI - Création images / gifs (https://lengow.atlassian.net/browse/AV-2114)
+2016-04-12 17:12:05		Attachment onboarding-gear.png
+2016-04-12 17:14:05	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2134 (AV-2134)
+2016-04-12 17:14:05		Front # Branche le caca (avec un max de SWAG) (https://lengow.atlassian.net/browse/AV-2134)
+2016-04-12 17:14:05		Status Code review → Revue & Tests
+2016-04-13 10:24:39	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2134 (AV-2134)
+2016-04-13 10:24:39		Front # Branche le caca (avec un max de SWAG) (https://lengow.atlassian.net/browse/AV-2134)
+2016-04-13 10:24:39		Status Revue & Tests → In Progress
+2016-04-13 10:24:43	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2134 (AV-2134)
+2016-04-13 10:24:43		Front # Branche le caca (avec un max de SWAG) (https://lengow.atlassian.net/browse/AV-2134)
+2016-04-13 10:24:43		Status In Progress → Code review
+2016-04-13 10:24:46	-Connector-	*Jérémie QUINSON* edited an Issue  https://lengow.atlassian.net/browse/AV-2134 (AV-2134)
+2016-04-13 10:24:46		Front # Branche le caca (avec un max de SWAG) (https://lengow.atlassian.net/browse/AV-2134)
+2016-04-13 10:24:46		Status Code review → In Progress
+2016-04-13 10:54:25	gilleslegall	https://youtu.be/P08B_lBUL0E
+2016-04-13 10:54:25		РИА Новости: Russian police — Get lucky cover (Daft Punk) (https://youtu.be/P08B_lBUL0E)
+2016-04-13 11:19:11	-Connector-	*Mickaël LEBAILLIF* edited an Issue  https://lengow.atlassian.net/browse/AV-2277 (AV-2277)
+2016-04-13 11:19:11		Pb d'indexation de catalogue (https://lengow.atlassian.net/browse/AV-2277)
+2016-04-13 11:19:11		Status To Do → Abandonné
+2016-04-13 11:20:44	-Connector-	*Mickaël LEBAILLIF* commented on Issue https://lengow.atlassian.net/browse/AV-2277?focusedCommentId=49303 (AV-2277)
+2016-04-13 11:21:36	-Connector-	*Mickaël LEBAILLIF* commented on Issue https://lengow.atlassian.net/browse/AV-2277?focusedCommentId=49304 (AV-2277)

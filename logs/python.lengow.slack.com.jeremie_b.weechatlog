@@ -1,0 +1,258 @@
+2015-07-15 10:02:14	gilleslegall	ba ce sera avec oim
+2015-07-15 10:02:24	⤷	au moment des EA
+2015-07-15 10:02:39	jeremie_b	okay, ça se fait quand ça ?
+2015-07-15 10:02:51	gilleslegall	a l’automne je crois
+2015-07-15 10:03:04	jeremie_b	c'est loin :stuck_out_tongue:
+2015-07-15 10:03:07	⤷	mais ok
+2015-07-15 10:03:07	gilleslegall	automne fin d’année quoi
+2015-07-15 17:49:26	jeremie_b	j'ai un doute
+2015-07-15 17:49:31	⤷	pour les dropdown là
+2015-07-15 17:49:44	⤷	j'ai une tache edition des regles + une tache droplist moteur de transfo
+2015-07-15 17:49:56	⤷	on a pas encore de droplist sur le moteur de transfo ?
+2015-07-15 17:52:53	gilleslegall	euh oui c vrai ca
+2015-07-15 17:53:31	jeremie_b	ok tu supprimes ?
+2015-07-15 17:54:17	gilleslegall	done
+2015-07-15 17:54:25	jeremie_b	thx, je degaes la branche
+2015-07-16 12:07:06	⤷	"By default, Chosen’s search matches starting at the beginning of a word. Setting this option to true allows matches starting from anywhere within a word. This is especially useful for options that include a lot of special characters or phrases in ()s and []s."
+2015-07-16 12:07:09	⤷	Et bisous, hein
+2015-07-16 12:10:57	⤷	(ça marche au poil)
+2015-07-16 12:14:22	gilleslegall	yeah:v:
+2015-08-10 11:41:57	jeremie_b	Bon en fait je veux bien qu'on attende de savoir ce qu'on va faire de la sublime bar, car c'est plus chiant que ce que j'imaginais
+2015-08-14 15:28:01	gilleslegall	http://aviato.v3-inte.poney.io/app_inte.php/feed/440/categories/thesaurus/4662/
+2015-08-18 11:02:22	⤷	http://mediartesur.com/
+2015-08-18 11:02:36	⤷	il a candidaté chez nous, t’en penses quoi de sa touche créa ?
+2015-08-18 15:38:42	⤷	http://aviato.v3-inte.poney.io/app_inte.php/feed/19/values/
+2015-08-19 10:07:18	jeremie_b	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F099V80AW/capture_d_____cran_2015-08-19____10.06.10.png (Capture d’écran 2015-08-19 à 10.06.10.png)
+2015-08-19 10:08:56	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F099V791A/capture_d_____cran_2015-08-19____10.08.35.png (Capture d’écran 2015-08-19 à 10.08.35.png)
+2015-08-19 17:54:49	⤷	http://www.jeancharleswielfaert.com/
+2015-08-19 17:54:49		http://www.jeancharleswielfaert.com/
+2015-08-19 17:54:49		Portfolio de Jean-Charles Wielfaert, étudiant à l'école de Design Nantes Atlantique, France.
+2015-08-19 17:55:15	gilleslegall	merci
+2015-08-20 17:56:34	⤷	http://aviato.v3-inte.poney.io/app_inte.php/feed/477/values/
+2015-08-31 14:18:35	jeremie_b	https://twitter.com/Fouedaster/status/637189556580839424
+2015-09-15 17:26:34	⤷	http://gionkunz.github.io/chartist-js/
+2015-09-15 17:26:34		http://gionkunz.github.io/chartist-js/
+2015-09-15 17:26:34		Create responsive, scalable and good looking charts with chartist.js.
+2015-09-23 14:50:17	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0B68NZA9/fields.png (fields.png)
+2015-09-23 14:50:18	⤷	ça te branche ?
+2015-09-24 15:58:49	gilleslegall	Hey ! un petit "word-break:break-all » dans les <td> ce serait pas mal pour la preview
+2015-09-24 16:03:13	jeremie_b	a quel niveau ?
+2015-10-08 17:16:28	⤷	http://aviato.lengow.local/app_dev.php/html/nostats
+2015-10-20 12:17:58	⤷	ya un truc tr!s chiant sur le matching categorie :
+2015-10-20 12:18:22	⤷	quand on lance la page, on load le thesorus, mais tant qu’il est pas entierement chargé, on ne peut pas changer de page
+2015-10-20 12:18:34	⤷	la requete ajax écrase toutes les autres actions
+2015-10-20 12:22:30	gilleslegall	yes il faudra se pencher sur ce pb car on a d’autres endroits ou on devrait permettre de tuer une requete ajax
+2015-10-30 14:03:49	⤷	http://www.institut-repere.com/La-Process-Communication/caracteristiques-des-6-types-de-personnalite.html
+2015-10-30 14:03:49		http://www.institut-repere.com/La-Process-Communication/caracteristiques-des-6-types-de-personnalite.html
+2015-10-30 14:03:49		Découvrir le modèle de la Process Communication - 2ème partie : les caractéristiques des six types de personnalité - un article de Jean-Luc MONSEMPES.
+2015-11-06 11:49:44	jeremie_b	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0E0S0JCW/capture_d_____cran_2015-11-06____11.49.26.png (Capture d’écran 2015-11-06 à 11.49.26.png)
+2015-11-06 14:56:08	⤷	C’est fatiguant quand même
+2015-11-06 14:57:01	⤷	On a une super team, un moment faut la laisser vivre d’elle même
+2015-11-06 14:57:22	gilleslegall	je suis d'accord
+2015-11-06 14:58:01	⤷	le pb c’est d’avoir des décisionnaire qui prenne des decisions sur des tableurs, a un moment faut utiliser pour voir
+2015-11-06 14:58:32	jeremie_b	encore c’est mieux qu’avant car la direction a été un peu diluée :simple_smile:
+2015-11-06 14:58:44	gilleslegall	mouais c clair
+2015-11-24 17:48:25	jeremie_b	jtai envoyé une demande de RTT pour vendredi, j’suis en train de trop en accumuler. :stuck_out_tongue:
+2015-11-30 10:28:42	⤷	https://projects.invisionapp.com/d/main#/console/3006135/80401048/preview
+2015-11-30 10:28:55	⤷	on va les récuperer les infos qu’on avait prévu sur le petit bloc de droite ?
+2015-11-30 10:35:30	gilleslegall	Les 3 dernières lignes non
+2015-11-30 10:35:49	⤷	et le pays et la date, pas sûr que ca apporte bcp valeur
+2015-11-30 10:37:21	jeremie_b	on cache pour l’instant ?
+2015-11-30 10:37:26	gilleslegall	yes
+2015-11-30 10:37:28	jeremie_b	okay
+2015-11-30 17:56:17	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0FH8K2UF/sidebar.png (sidebar.png)
+2015-11-30 17:56:47	⤷	de quoi se faire une première idée, je continurais ça demain après avoir mis en ligne l’animation de registration
+2015-12-01 10:59:55	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0FJWRYAG/sidebar2.png (sidebar2.png)
+2015-12-01 10:59:58	⤷	jvais faire un test d’inte là dessus
+2015-12-01 12:18:24	gilleslegall	Hey, tu poses pas de congés pendant les fêtes ?
+2015-12-01 12:18:40	jeremie_b	ah ouai faut que je le poses
+2015-12-01 12:18:55	⤷	comme je disais moi c’est après le nouvel an de toute façon, je te dis ça
+2015-12-01 12:19:12	gilleslegall	ah oui c vrai on en avait parlé, donc yaura pas de soucis
+2015-12-01 12:19:22	jeremie_b	ouai mais autant s’en occuper, ça sera fait
+2015-12-01 12:19:44	gilleslegall	matthieu pose 24 30 et 31 pour info, donc si jamais tu voulais poser ces jours là ca risuqe d’être chaud
+2015-12-01 12:20:27	⤷	mais bon a priori ces dates ne t’interessait pas
+2015-12-01 12:20:32	⤷	merci
+2015-12-01 12:21:02	jeremie_b	après y’a peut être un jour de rtt que je poserais fin décembre, faut que je vois avec ma famille quand elle fete noel
+2015-12-01 12:21:17	⤷	jvais leur demander de suite
+2015-12-01 12:21:21	gilleslegall	okey
+2015-12-01 12:22:39	jeremie_b	done, je te dis ça des que j’ai des news
+2015-12-01 15:09:04	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0FKJ5MFU/capture_d_____cran_2015-12-01____15.08.31.png (Capture d’écran 2015-12-01 à 15.08.31.png)
+2015-12-01 15:09:06	⤷	ça marche bien mais les logos dispropotionés nous foutent dedans
+2015-12-02 11:46:11	⤷	Ca vaudrait le coup de faire une passe sur le dash pour la sortie aussi
+2015-12-03 10:16:30	gilleslegall	Hello,
+2015-12-03 10:17:53	⤷	Du coup je suis désolé je vais repousser l’EA, car avec tout le boulot en ce moment, je n’ai pas eu le temps de refaire la grille que Benoit m’a envoyé. Et je ne préfère pas l’utiliser telle quelle car elle est vraiment pas terrible...
+2015-12-03 10:18:09	jeremie_b	hey, pas de soucis
+2015-12-03 10:18:30	gilleslegall	ce sera vers le16 17 car je prends des congés les prochains jours
+2015-12-03 10:18:36	⤷	ca te va ?
+2015-12-03 10:18:43	⤷	dis moi sinon ?
+2015-12-03 10:19:01	jeremie_b	yep, d’ailleurs j’ai pas de congé à prendre en décembre
+2015-12-03 10:19:10	gilleslegall	ah ok
+2015-12-03 10:19:24	jeremie_b	jvais juste poser une semaine et demi début janvier, si possible
+2015-12-03 10:19:36	gilleslegall	oui ok
+2015-12-03 10:19:37	jeremie_b	(me reste 3 semaines à écouler :p)
+2015-12-03 10:19:58	⤷	jte fais la demande tiens
+2015-12-03 10:20:04	⤷	ptete un peu moins, je vais voir
+2015-12-03 10:26:30	⤷	je sais pas comment j’ai calculé l’autre jour, mais du coup j’ai juste posé 5 jours début janvier
+2015-12-09 15:46:36	⤷	https://oscarmassivehands.files.wordpress.com/2011/04/brice_film_casse.jpg
+2015-12-09 15:46:36		https://oscarmassivehands.files.wordpress.com/2011/04/brice_film_casse.jpg
+2015-12-15 16:56:46	⤷	heyhey
+2015-12-15 16:57:08	⤷	du coup faut que je pose mes 3 jours avant fin décembre là. Si je pose déjà vendredi et lundi, ça le fait ?
+2015-12-15 17:46:00	gilleslegall	okey
+2015-12-17 11:31:25	jeremie_b	elle a l’air assez débrouillarde lucile quand même
+2015-12-17 11:31:48	⤷	bon elle galère mais elle se tappe du javascript comme ça ^^ (edited)
+2015-12-17 11:32:22	⤷	Du coup oui, ça serait bien de la réorienter sur son corps de métier, mais en tout cas elle a pas peur de tenter des trucs
+2015-12-17 11:34:19	gilleslegall	cool, merci pour l’info :wink:
+2015-12-22 10:02:42	jeremie_b	du coup … !
+2015-12-22 10:03:12	⤷	il reste un peu de monde demain ? Car j’aurais bien posé demain et le 28
+2015-12-22 10:03:30	⤷	ça commence à etre short en jours
+2015-12-29 09:28:05	⤷	mailto:jeremiebiron@gmail.com (jeremiebiron@gmail.com)
+2015-12-31 15:01:36	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0HHFUMA7/capture_d_____cran_2015-12-31____15.01.07.png (Capture d’écran 2015-12-31 à 15.01.07.png)
+2015-12-31 15:02:53	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0HHJJQKZ/capture_d_____cran_2015-12-31____15.02.43.png (Capture d’écran 2015-12-31 à 15.02.43.png)
+2016-01-11 12:28:53	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0J5H5V1V/nouveaux-produits.png (nouveaux-produits.png)
+2016-01-11 12:28:58	⤷	jeremie_b uploaded a file: https://lengow.slack.com/files/jeremie_b/F0J5E40M9/nouveaux-produits2.png (nouveaux-produits2.png)
+2016-01-11 12:29:08	⤷	j’serais d’avis à faire une version tuiles produits sur fond blanc
+2016-01-14 11:54:51	gilleslegall	tu sais quelle formation tu souhaites ?
+2016-01-14 11:55:01	⤷	tu avais parlé de méthodo ?
+2016-01-14 11:55:11	⤷	mais sur quel aspect
+2016-01-14 11:55:17	⤷	généraliste ou ciblé
+2016-01-14 11:55:26	jeremie_b	Je t’avoue ne pas avoir regardé ce qu’il y avait de dispo
+2016-01-14 11:55:53	⤷	ce qui m’interesse c’est de comprendre un peu mieux agile en général
+2016-01-14 11:56:04	gilleslegall	ok
+2016-01-14 11:56:25	⤷	je pense que ce serait éventuelment une formation/coaching globale
+2016-01-14 11:56:33	⤷	à toutes les teams
+2016-01-14 11:56:42	⤷	sinon ce serait en interne
+2016-01-14 11:56:48	jeremie_b	bah pourquoi pas
+2016-01-14 11:56:55	gilleslegall	ca va dependre des autres demandes en ce sens
+2016-01-14 11:57:20	⤷	sinon tu avais d’atres souhaits ? anglais, chinois...
+2016-01-14 11:57:29	⤷	technique ?
+2016-01-14 11:57:44	jeremie_b	jpeux te redire ça dans l’aprem ?
+2016-01-14 11:58:03	gilleslegall	en tout debut
+2016-01-14 11:58:04	jeremie_b	histoire que je regarde un peu ce qui se fait aujourd’hui
+2016-01-14 11:58:05	gilleslegall	alors
+2016-01-14 11:58:12	jeremie_b	okay
+2016-01-14 11:58:39	⤷	les formations de langues ça marche vraiment ? :simple_smile:
+2016-01-14 11:58:49	⤷	Je veux dire ça s’apprend pas en 2 semaines
+2016-01-14 11:58:49	gilleslegall	sais pas
+2016-01-14 12:30:59	jeremie_b	Du coup ce qui pourrait m’intéresser : Material  / Sketch / React
+2016-01-14 12:31:27	⤷	Va vraiment falloir que je prenne le temps de refaire de la veille UI design et dev…
+2016-01-14 12:34:08	gilleslegall	ya des formations précises à mettre en place
+2016-01-14 14:14:09	jeremie_b	c’est une question ? :stuck_out_tongue:
+2016-01-14 14:16:33	gilleslegall	oui avec reponse avant 16h (edited)
+2016-01-14 14:16:35	⤷	:simple_smile:
+2016-01-14 14:25:19	jeremie_b	humhum, ce qui est chiant c’est que c’est assez pointu… du coup pour trouver une formation…
+2016-01-18 14:36:27	⤷	tiens au fait, t’as eu des news de la demande d’augment’ que j’avais fais en décembre ?
+2016-01-18 14:42:16	gilleslegall	c’est pas encore remonté
+2016-01-18 14:42:58	jeremie_b	hum :disappointed:, j’espere qu’on va pas se faire griller des mois…
+2016-01-18 14:43:56	gilleslegall	Je ne connais pas la position sur ça, l’année dernière il me semble que c’était en mars, non ?
+2016-01-18 14:56:09	jeremie_b	bah à la dernière reu il était question de faire les entretiens fin de l’année et d’appliquer les nouveaux salaires en janvier. Vu que j’avais fais ma première demande cet été… :confused:
+2016-01-18 15:04:04	gilleslegall	Je n’ai pas eu d’infos à ce sujet
+2016-01-18 15:07:09	jeremie_b	J’espère que ça va bientot se débloquer quand même…
+2016-01-22 15:59:05	⤷	j’suis un peu emmerdé, je vois de plus en plus d’inte en regression à cause de classes mal utilisées. J’essaye de prévenir quand j’en vois mais j’ai pas trop envie de passer pour un relou et je ne sais pas si chacun se sent vraiment concerné par ce que je dis non plus. :simple_smile:
+2016-01-22 15:59:16	⤷	Tu procèderais comment toi ?
+2016-01-22 16:16:01	gilleslegall	Je sais pas , en parler en rétro mercredi et voir s’il faut représenter le toolkit à l'équipe
+2016-01-22 16:18:58	jeremie_b	hum, ouai. On va commencer par là
+2016-01-25 11:42:24	⤷	hey. Y’a moyen de poser un RTT demain ? M’en reste un à poser, donc autant le poser avant le début du prochain sprint
+2016-01-25 11:48:30	gilleslegall	okey
+2016-01-25 11:48:55	jeremie_b	tx, je te fais le bamboo
+2016-01-25 17:23:33	⤷	Yo. Je me suis permis de discuter avec Gautier pour savoir pourquoi ma demande d’augment’ prenait du temps. A quoi il m’a répondu que c’était entre les mains de ma hierarchie. Du coup vous m’oubliez pas hein. :wink:
+2016-01-25 17:29:56	gilleslegall	Non non t'inquiètes
+2016-01-25 17:35:56	jeremie_b	:thumbsup:
+2016-02-15 17:22:55	⤷	Y’a moyen de placer une tache d’environ 0.5 à un dev front sur le sprint 16 ?
+2016-02-15 17:23:09	⤷	C’est pour le footer en low res
+2016-02-15 17:23:31	⤷	(brancher les boutons « précédent »
+2016-02-17 14:01:40	⤷	Désolé de ramener ça sur le tapis, mais toujours pas de news pour moi ? :confused:
+2016-02-17 14:02:24	⤷	Ca me fait chier d’insister, mais vu que je suis obligé de bosser le soir pour pouvoir partir en vacances cet été, ça devient un peu compliqué…
+2016-02-17 15:42:08	gilleslegall	Non t’as raison d’insister. Je n’ai pas encore de réponse à t’apporter car c’est intimement lié aux budgets, et c’est compliqué..., je reviens vers toi dès que j’ai des news
+2016-02-17 15:44:25	jeremie_b	okay, j’imagine bien que c’est pas de ta faute, mais je t’avoue que c’est assez dur à vivre comme situation. Je préfère ne pas te cacher que j’ai commencé à prendre contact avec quelques boites pour m’assurer quelque chose de décent d’ici cet été…
+2016-02-17 15:44:57	⤷	Ca m’embète un peu, mais je peux difficilement concevoir de rester dans cette situation sans savoir ce que ça donnera dans un an
+2016-02-17 15:45:16	⤷	(Je vous lacherais pas avant la sortie de toute manière hein)
+2016-02-17 15:46:51	gilleslegall	J’ai déjà relancé et je vais en remettre une couche pour accélérer la réponse
+2016-02-17 15:47:03	jeremie_b	merci, c’est cool de ta part. :simple_smile:
+2016-02-17 15:47:50	⤷	Et j’insiste, mais ne le prend pas pour la manière ton tu gères l’équipe, j’ai rien à redire là dessus. C’est vraiment purement financier.
+2016-02-17 15:48:09	gilleslegall	merci c’est gentil
+2016-02-17 15:48:11	⤷	:simple_smile:
+2016-02-17 15:48:14	jeremie_b	:heart:
+2016-02-17 15:48:15	⤷	^^
+2016-02-22 15:03:25	gilleslegall	Hey, on peut se voir dans le bureau d’Eric si t’as 5 minutes
+2016-02-22 15:03:34	jeremie_b	yes
+2016-02-22 15:03:46	gilleslegall	c parti
+2016-02-23 09:53:21	jeremie_b	Hey, jcrois que je te l’ai pas dis hier, mais c’est cool de ta part d’avoir pris de ton temps pour clarifier les choses avec les RH :simple_smile:
+2016-02-23 09:59:36	gilleslegall	Hello,
+2016-02-23 10:00:02	⤷	merci ca me tenait à coeur aussi c pour ca :wink:
+2016-02-23 10:00:10	jeremie_b	:thumbsup:
+2016-02-25 16:49:18	⤷	Du coup pour les RTT, je pars en weekend le 5/6 mars, donc si je pouvais au moins poser une demi journée le vendredi 4 ça serait top, ça m’éviterait de faire de la route de nuit. Si c’est vraiment chaud en ce moment, tant pis.
+2016-02-25 16:51:30	gilleslegall	c vrai que c’est chaud. Je sais qu’une demi journée ne changera pas la face du monde mais ca me met dans une situation délicate si jamais ya du taff en UI à ce moment là
+2016-02-25 16:51:45	jeremie_b	dac
+2016-03-08 14:43:14	⤷	Tiens pour les vacances d’été justement, je vais essayer de partir au japon en septembre (encore pas mal de choses à gérer), mais dans l’idée tu penses que c’est envisageable de prendre 3 semaines pour l’occasion ou c’est chaud ?
+2016-03-08 14:53:51	gilleslegall	ba si tu valides ta demande rapidement, c gerable
+2016-03-08 14:54:27	⤷	enfin rapidement je m’entends, pas mi-juillet quoi :stuck_out_tongue:
+2016-03-08 14:54:31	jeremie_b	okay, ça va dépendre de ma copine aussi du coup, je vais essayer de voir rapidement avec elle
+2016-03-08 14:54:45	gilleslegall	Ca roule
+2016-03-08 14:54:48	jeremie_b	ouai ouai, on voulait reserver nos billets en mars pour éviter que ça monte trop
+2016-03-08 14:54:58	gilleslegall	ah oui ba t large
+2016-03-08 14:55:06	⤷	6 mois en avance
+2016-03-08 14:55:07	⤷	pas mal
+2016-03-08 14:55:16	jeremie_b	ça monte vite…
+2016-03-17 12:12:41	gilleslegall	Hello, on peut se voir 10 minutes dans le bureau d’Eric ?
+2016-03-17 14:06:08	jeremie_b	sry j’avais pas vu
+2016-03-17 14:06:13	⤷	yep pas de probs
+2016-03-17 14:07:04	gilleslegall	go alors :simple_smile:
+2016-03-17 14:15:57	⤷	http://www.jb-gerard.com (www.jb-gerard.com)
+2016-03-17 14:15:59	⤷	https://www.behance.net/jbgerard
+2016-03-17 14:15:59		Jean-Baptiste Gérard on Behance (https://www.behance.net/jbgerard)
+2016-03-17 14:15:59		Interaction Designer & Developer
+2016-03-17 14:17:53	⤷	et l’autre http://www.tristangastinel.com/
+2016-03-17 14:17:53		Bonjour ! - Tristan Gastinel | Création de site web sur Angers & Poitiers (http://www.tristangastinel.com/)
+2016-03-17 14:17:53		Tristan Gastinel - Prestation web sur Angers et Poitiers
+2016-03-17 14:18:38	⤷	desole je peux pas extraire le cv en fichier donc copier coller :simple_smile:
+2016-03-17 14:18:55	⤷	Madame, Monsieur,
+2016-03-17 14:18:55		Je suis actuellement en deuxième année а l’école de Design Nantes Atlantique pour faire un master. Je suis а la recherche d’une entreprise qui me permettrait d’effectuer un stage dans le domaine du web design, web développement, UI/UX. 
+2016-03-17 14:18:55		Votre agence web est spécialisée dans la solution e-commerce d'automation. Je suis très intéressé pour rejoindre votre structure entre juillet et octobre 2016 pour une durée de 2 à 4 mois. 
+2016-03-17 14:18:55		Je suis passionné par le web design, le développement, les interfaces utilisateur, l’expérience utilisateur, l’innovation, les applications. 
+2016-03-17 14:18:55		J’ai d’ailleurs fait plusieurs sites : 
+2016-03-17 14:18:55		http://www.nantesdanse.com (www.nantesdanse.com) 
+2016-03-17 14:18:55		http://www.mozaikballet.com (www.mozaikballet.com) 
+2016-03-17 14:18:55		et d’autres sites en local (e-commerce). 
+2016-03-17 14:18:55		J’aime aussi créer des services innovants et les prototyper avec des interfaces d’applications. 
+2016-03-17 14:18:55		J’ai dernièrement participé а un hackathon avec le Crédit Agricole, et gagné le premier prix. 
+2016-03-17 14:18:55		L’objectif était en 48h de créer une application pour améliorer le quotidien. 
+2016-03-17 14:18:55		L’application est en cours de développement. 
+2016-03-17 14:18:55		Je vous remercie de l'intérêt que vous porterez а ma candidature et j'espère avoir l'occasion de vous rencontrer pour vous convaincre de mes motivations, vous détailler mes compétences et répondre а toutes vos questions. 
+2016-03-17 14:18:55		Dans cette attente, je vous prie de croire, Madame, Monsieur, а l'assurance de mes salutations les meilleures. 
+2016-03-17 14:18:55		Ci-joint mes liens, mon portfolio ainsi que mon CV. 
+2016-03-17 14:18:55		http://www.jb-gerard.com (www.jb-gerard.com) 
+2016-03-17 14:18:55		http://fr.linkedin.com/in/jbgrd (fr.linkedin.com/in/jbgrd) 
+2016-03-17 14:18:55		https://www.behance.net/jbgerard 
+2016-03-17 14:18:55		https://twitter.com/jb_grd
+2016-03-17 14:18:55		 SUMMARY
+2016-03-17 14:18:55		Currently 2nd year student in interaction design at l'École de Design Nantes Atlantique.
+2016-03-17 14:18:55		 WORK EXPERIENCE (over 2 years total)
+2016-03-17 14:18:55		2015 - now
+2016-03-17 14:18:55		Hackathon Crédit Agricole Atlantique vendée at Crédit Agricole Atlantique Vendée
+2016-03-17 14:18:55		Le Hackathon Crédit Agricole Atlantique vendée est un concours de développement avec pour thème « le budget pour les jeunes, comment améliorer leurs quotidiens » dans un temps limité de 48H. 
+2016-03-17 14:18:55		C'est une rencontre de développeurs, designer et de tout autre métier relatifs à la banque. Développement d’une application « BonApp » sur iOS en moins de 48H. 
+2016-03-17 14:18:55		◉ Gagne la première place en équipe 
+2016-03-17 14:18:55		◉ Développement iOS 
+2016-03-17 14:18:55		◉ UI/UX Design
+2016-03-17 14:18:55		2015 - 2015
+2016-03-17 14:18:55		Lumière interactive at Stereolux (a year)
+2016-03-17 14:18:55		2014 - now
+2016-03-17 14:18:55		Etudiant at L'École de design Nantes Atlantique (2 years)
+2016-03-17 14:18:55		2013 - 2014
+2016-03-17 14:18:55		Consultant réseaux sans fil at Orange (6 months)
+2016-03-17 14:18:55		2013 - 2013
+2016-03-17 14:18:55		Networks & Telecommunications at INSTANT ELECTRONIQUE (2 months)
+2016-03-17 14:18:55		Networks & Telecommunications customers interventions
+2016-03-17 14:18:55		2010 - 2010
+2016-03-17 14:18:55		Palais de la découverte - Paris at Palais de la découverte
+2016-03-17 14:18:55		Demonstrations of scientific experiments to visitors
+2016-03-17 14:18:55		 EDUCATION
+2016-03-17 14:18:55		2014 - 2019
+2016-03-17 14:18:55		interactivité at L'Ecole de design Nantes Atlantique
+2016-03-17 14:18:55		2011 - 2014
+2016-03-17 14:18:55		Technologie informatique / technologie des systèmes informatiques at Lycée
+2016-03-17 14:18:55		 SKILLS
+2016-03-17 14:18:55		interaction design, user experience, graphic design, adobe photoshop, user interface design, web design, sketch app, photoshop, illustrator, indesign, javascript, php, production vidéo, project management, entrepreneurship, stratégie, start-up, new media, innovation, html5, css
+2016-03-17 14:22:50	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0TCE8D8V/-.txt (Untitled)
+2016-03-17 16:27:52	jeremie_b	bon bah les stages des masters ont déjà commencés, et ça se termine le 26 aout..
+2016-03-17 17:03:45	gilleslegall	ah ba merde alors :disappointed:

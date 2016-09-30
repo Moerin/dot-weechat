@@ -1,0 +1,85 @@
+2016-04-04 09:53:21	eloise	Coucou !
+2016-04-04 09:53:23	eloise	:simple_smile:
+2016-04-04 10:03:14	sebastien.charret	hello
+2016-04-04 10:04:30	eloise	tu aurais la possibilité de savoir facilement si un code catégorie existe ou non dans l'API The beautyst ?
+2016-04-04 10:04:53	sebastien.charret	oui
+2016-04-04 10:10:45	eloise	tu pourrais me dire si le code catégorie 932 existe ?
+2016-04-04 10:10:55	eloise	et si oui à quoi il correspond ?
+2016-04-04 10:22:19	sebastien.charret	ok je vais regarder, tu peux me laisser 10 min?
+2016-04-04 10:22:24	sebastien.charret	ueh
+2016-04-04 10:22:29	sebastien.charret	je veux dire
+2016-04-04 10:22:34	eloise	mais bien sûr
+2016-04-04 10:22:37	eloise	j'suis super cool !
+2016-04-04 10:22:39	sebastien.charret	je m'en occupe dan s10 min :)
+2016-04-04 10:22:56	eloise	:thumbsup:
+2016-04-04 10:22:59	sebastien.charret	c'est plus poli dis comme ca
+2016-04-04 10:23:22	eloise	^^
+2016-04-04 11:10:38	sebastien.charret	alors apres bien plus de 10min (desole)
+2016-04-04 11:10:51	sebastien.charret	j'ai bien trouve le code 932
+2016-04-04 11:10:59	eloise	ahhh coool
+2016-04-04 11:11:03	sebastien.charret	Soin des ongles
+2016-04-04 11:11:05	eloise	c'est associé à quoi ? :stuck_out_tongue:
+2016-04-04 11:11:08	eloise	ah nickel
+2016-04-04 11:11:11	eloise	cimeerrr
+2016-04-04 11:11:16	sebastien.charret	De nada
+2016-04-04 11:11:43	eloise	est-ce que tu as un niveau en plus que soins des ongles ?
+2016-04-04 11:11:58	eloise	j'ai ça dans le thésaurus :
+2016-04-04 11:11:58	eloise	Ongles > Soins des Ongles > Crème Soin Ongles
+2016-04-04 11:11:58	eloise	• Ongles > Soins des Ongles > Soin Durcisseur & Anti-Casse Ongles
+2016-04-04 11:11:58	eloise	• Ongles > Soins des Ongles > Soin Emollient Ongles
+2016-04-04 11:11:58	eloise	• Ongles > Soins des Ongles > Soin Nourrissant Ongles
+2016-04-04 11:11:59	eloise	• Ongles > Soins des Ongles > Vernis Soin
+2016-04-04 11:12:07	sebastien.charret	je regarder
+2016-04-04 11:12:09	sebastien.charret	je regarde
+2016-04-04 11:12:11	eloise	:simple_smile:
+2016-04-04 11:12:34	sebastien.charret	3046 Soin Nourrisant Ongles
+2016-04-04 11:12:48	sebastien.charret	3047 Soin Durcisseur & Anti-Casse Ongles
+2016-04-04 11:12:59	sebastien.charret	3048 Vernis Soin
+2016-04-04 11:13:16	sebastien.charret	3049 Soin Emollient Ongles
+2016-04-04 11:13:23	sebastien.charret	3050
+2016-04-04 11:13:33	sebastien.charret	Crème Soin Ongles
+2016-04-04 11:13:59	sebastien.charret	ca m'a l'air bon tout ca
+2016-04-04 11:31:02	eloise	bah du coup le 932
+2016-04-04 11:31:05	eloise	c'est associé à rien ?
+2016-04-04 11:31:19	sebastien.charret	c'est une categorie mere
+2016-04-04 11:31:24	eloise	j'ai pas la catégorie Ongles > Soins des Ongles toute seule :confused:
+2016-04-04 11:35:19	eloise	pour le soucis XML mal formé the beautyst
+2016-04-04 11:36:02	eloise	voici l'id du flux 115631
+2016-04-04 11:36:26	eloise	url du flux opti au format XML http://flux.lengow.com/marketplace/the-beautyst/LGW-d6d4e9ce3c217ebd411d05ef7d40050e/xml/ 
+2016-04-04 11:36:29	eloise	merciiiiiiiiiiiiiiiiiiiiii
+2016-04-04 11:43:57	eloise	tu me diras si tu trouves une piste ^^
+2016-04-04 11:44:06	sebastien.charret	je suis dessus
+2016-04-04 11:51:30	sebastien.charret	a y est
+2016-04-04 11:51:33	sebastien.charret	alors
+2016-04-04 11:51:50	sebastien.charret	le client a inserer de la merde dans son flux source
+2016-04-04 11:52:00	sebastien.charret	un caractere special
+2016-04-04 11:53:00	sebastien.charret	je cherche une solution pour que tu le supprimes
+2016-04-04 11:58:12	eloise	coloooos
+2016-04-04 12:14:08	sebastien.charret	68020 product_id
+2016-04-04 12:15:38	eloise	le soucis c'est le R ?
+2016-04-04 12:15:51	eloise	®
+2016-04-04 12:15:52	eloise	?
+2016-04-04 12:16:07	sebastien.charret	non
+2016-04-04 12:16:28	sebastien.charret	vers votre smartphone.    ^\Suivi de l activité: nomb
+2016-04-04 12:16:40	sebastien.charret	le soucis c'est ca "^\"
+2016-04-04 12:16:49	sebastien.charret	ou "FS"
+2016-04-04 12:16:56	sebastien.charret	mais tu ne dois pas le voir
+2016-04-04 12:17:27	eloise	ah flute de flute
+2016-04-04 12:18:30	eloise	du coup tu pourras pousser un envoi du flux 115631 vers the beautyst
+2016-04-04 12:18:34	sebastien.charret	oui
+2016-04-04 12:18:37	eloise	pour les autres produits ça sera fait :stuck_out_tongue:
+2016-04-04 12:19:46	sebastien.charret	http://3480-3590-data-conversion.com/article-ebcdic-ascii-table.html
+2016-04-04 12:19:55	sebastien.charret	tu regardes a Octal 034
+2016-04-04 12:20:19	sebastien.charret	http://www.fileformat.info/info/unicode/char/241c/index.htm 
+2016-04-04 12:20:22	sebastien.charret	et ca aussi
+2016-04-04 12:23:17	sebastien.charret	le flux est parti
+2016-04-04 13:49:52	eloise	merci !
+2016-04-05 17:07:01	eloise	KIKOOOOO
+2016-04-05 17:07:12	sebastien.charret	Hello
+2016-04-05 17:07:41	eloise	ah maiiis nooon sorry  nada
+2016-04-05 17:07:49	eloise	j'peux pousser des flux via la toolbox :stuck_out_tongue:
+2016-04-05 17:07:54	eloise	SO-RIZ
+2016-04-05 17:08:07	sebastien.charret	PAS-SOUCIZ
+2016-04-08 10:12:38	ℹ 	irc : déconnecté du serveur
+2016-04-12 01:24:25	ℹ 	irc : déconnecté du serveur
+2016-04-13 14:35:26	ℹ 	irc : déconnecté du serveur

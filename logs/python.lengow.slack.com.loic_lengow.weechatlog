@@ -1,0 +1,604 @@
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	sebastien.charret	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-06-07 18:51:02	loic_lengow	ok c'est noté (edited)
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-06-07 18:51:02	loic_lengow	ok c'est noté (edited)
+2016-07-20 12:13:38	sebastien.charret	Hello, l'import du master data est termine
+2016-07-20 12:13:46	loic_lengow	top merci
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-06-07 18:51:02	loic_lengow	ok c'est noté (edited)
+2016-07-20 12:13:38	sebastien.charret	Hello, l'import du master data est termine
+2016-07-20 12:13:46	loic_lengow	top merci
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-06-07 18:51:02	loic_lengow	ok c'est noté (edited)
+2016-07-20 12:13:38	sebastien.charret	Hello, l'import du master data est termine
+2016-07-20 12:13:46	loic_lengow	top merci
+2016-02-19 14:11:14	sebastien.charret	https://docs.google.com/spreadsheets/d/1kb8o7Ed2BYmaiLpxZ_eGbPJe9fo9r9VmzCEfbSkNup4/edit?ts=56c6e267#gid=0
+2016-03-07 09:54:10	⤷	Salut Loic
+2016-03-07 09:54:15	⤷	juste une question
+2016-03-07 09:54:32	⤷	c'est possible de faire du support sur un client qui a resile son compte comme le 4175?
+2016-03-07 10:23:21	loic_lengow	hello. normalement non, on aura rien en terme d'accès  :simple_smile:
+2016-03-07 10:23:47	sebastien.charret	ok
+2016-03-16 17:58:19	loic_lengow	hello seb. je vois que tu es sur la TMA-96. Tu as pu regarder ?
+2016-03-16 18:04:35	sebastien.charret	Salut loic, non je n'ai pas eu le temps
+2016-03-16 18:04:40	⤷	desole
+2016-03-16 18:05:11	loic_lengow	dès que tu peux , si tu peux voir en prio car plutôt important pout les marchands :simple_smile: bon courage et merci !
+2016-04-28 14:48:06	sebastien.charret	Salut
+2016-04-28 14:48:24	⤷	Ticket #53637 
+2016-04-28 14:48:50	⤷	Le fait que les donnees client soient dupliquees ca c'est normal?
+2016-04-28 14:49:19	⤷	c'est un client qui a commande des produits chez differents marchands
+2016-04-29 16:33:30	⤷	Salut
+2016-04-29 16:33:33	⤷	pour #53771 
+2016-04-29 16:34:12	⤷	tu connais l'heure exact a laquelle le client a fait son valide ses expeditions (mis le tracking carrier et id)
+2016-04-29 16:34:20	loic_lengow	hello
+2016-04-29 16:34:45	⤷	non, je lui ai demandé, mais le client n'a pas été capable de me transmettre l'heure exacte pour les expéditions du 19/04
+2016-04-29 16:35:14	sebastien.charret	ok car j'ai fait des test
+2016-04-29 16:35:30	⤷	les appels se font toutes les deux heures
+2016-04-29 16:35:49	⤷	et le script ne met pas longtemps a se terminer
+2016-04-29 16:36:03	⤷	donc si il envoie a 20h
+2016-04-29 16:36:16	⤷	au grand max ca passe a 22h
+2016-04-29 16:36:28	⤷	au plutot a 20h
+2016-04-29 16:36:38	⤷	mais avec un delta de 5h
+2016-04-29 16:36:46	⤷	ca m'etonne
+2016-04-29 16:36:49	loic_lengow	étant donné que le batch est passé à 1h30, possible qu'elle est expédié ses commandes à 23h30
+2016-05-09 15:39:20	sebastien.charret	l'origine de l'adresse
+2016-05-09 15:39:22	⤷	http://www.tcpiputils.com/browse/ip-address/91.236.153.234
+2016-05-09 15:39:22		91.236.153.234 | lematelas.directinfoservice.net - DIRECT INFO SERVICE SARL, France (http://www.tcpiputils.com/browse/ip-address/91.236.153.234)
+2016-05-09 15:39:22		See all details about IP address 91.236.153.234. | PTR record is http://lematelas.directinfoservice.net (lematelas.directinfoservice.net). This IP is hosted by DIRECT INFO SERVICE SARL (AS202140) and located in the country France.
+2016-05-09 15:39:46	⤷	effectivment il y en a qui aime accepter des commandes a 1h30
+2016-05-09 15:39:48	⤷	du mat
+2016-05-09 15:40:26	loic_lengow	cool, merci pour le lien :simple_smile:
+2016-05-19 11:15:31	sebastien.charret	sebastien.charret uploaded a file: https://lengow.slack.com/files/sebastien.charret/F1A5HEKU2/missing_attributes_4667_107113.csv (missing attributes 4667 107113)
+2016-05-19 12:25:21	loic_lengow	merci :slightly_smiling_face:
+2016-06-07 17:29:30	⤷	hello, j'ai réouvert le SUPPMKTP-226 pour info. je te préviens car il est clôturé au cas où :slightly_smiling_face:
+2016-06-07 17:29:58	sebastien.charret	ok le probleme n'est pas resolu?
+2016-06-07 17:30:16	loic_lengow	pas totaleement, le client veut des / à la place des '
+2016-06-07 17:30:42	sebastien.charret	tu veux dire des \'
+2016-06-07 17:30:49	⤷	?
+2016-06-07 17:30:56	⤷	on a pense a ca
+2016-06-07 17:31:07	loic_lengow	yes , il veut un échappement de caractères
+2016-06-07 17:31:15	sebastien.charret	mais imagine qu'un gars decide de faire \'
+2016-06-07 17:31:18	⤷	avant
+2016-06-07 17:31:34	⤷	on va se retrouver avec \\'
+2016-06-07 17:31:45	⤷	mais bon
+2016-06-07 17:31:50	loic_lengow	on a d'autres astuce du coup ?
+2016-06-07 17:31:51	sebastien.charret	on va trouver une solution
+2016-06-07 17:31:54	⤷	oui
+2016-06-07 17:31:56	loic_lengow	ok thx :slightly_smiling_face:
+2016-06-07 17:32:06	sebastien.charret	je m'en occupe
+2016-06-07 17:34:25	⤷	je ne serais pas la demain alors je passe le ticket a oleksander
+2016-06-07 18:51:02	loic_lengow	ok c'est noté (edited)
+2016-07-20 12:13:38	sebastien.charret	Hello, l'import du master data est termine
+2016-07-20 12:13:46	loic_lengow	top merci
+2016-09-29 09:35:44	⤷	Hello Seb. tu avais bien recu la notif pour le SUPPMKTP-572 ?
+2016-09-29 09:36:58	sebastien.charret	Non, mais jeremy me la donner hier soir
+2016-09-29 09:37:15	⤷	je suis entrain de m'en occuper
+2016-09-29 09:41:45	loic_lengow	top merci

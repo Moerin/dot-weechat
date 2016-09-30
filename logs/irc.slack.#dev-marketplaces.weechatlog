@@ -1,0 +1,360 @@
+2016-03-31 14:10:03	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 14:10:03	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 14:10:03	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 14:10:48	--	Canal créé le jeu., 31 mars 2016 14:10:48
+2016-03-31 14:12:38	--	irc : déconnecté du serveur
+2016-03-31 14:12:59	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 14:12:59	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 14:12:59	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 14:13:43	--	Canal créé le jeu., 31 mars 2016 14:13:43
+2016-03-31 14:40:20	--	irc : déconnecté du serveur
+2016-03-31 14:44:12	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 14:44:12	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 14:44:12	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 14:44:56	--	Canal créé le jeu., 31 mars 2016 14:44:56
+2016-03-31 14:45:39	--	irc : déconnecté du serveur
+2016-03-31 14:45:42	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 14:45:42	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 14:45:42	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 14:46:27	--	Canal créé le jeu., 31 mars 2016 14:46:27
+2016-03-31 14:52:14	--	irc : déconnecté du serveur
+2016-03-31 14:52:16	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 14:52:16	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 14:52:16	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 14:52:56	SLACK	[pyMarketPlaces/feature/ebay] fc545c738f2f https://bitbucket.org/lengow-dev/pymarketplaces/commits/fc545c738f2f8595a6916a5cb1e3fb2d4c923c69 : Merge branch 'v3' into feature/ebay
+2016-03-31 14:52:56	SLACK	Conflicts:
+2016-03-31 14:52:56	SLACK	    pyMarketPlaces/management/commands/parse_report.py
+2016-03-31 14:52:56	SLACK	 - lu
+2016-03-31 14:53:01	--	Canal créé le jeu., 31 mars 2016 14:53:00
+2016-03-31 15:23:31	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-03-31 15:23:31	SLACK	[pyMarketPlaces/feature/amazonv3] 5fcffeda0abf https://bitbucket.org/lengow-dev/pymarketplaces/commits/5fcffeda0abfb079ca3fb2da47c013a3ccb46196 : [MKTP-382] Amazon v3 thesaurus : change rank to priority
+2016-03-31 15:23:31	SLACK	 - Clement Idelon
+2016-03-31 15:23:31	SLACK	[pyMarketPlaces/feature/amazonv3] 52c5c6c99055 https://bitbucket.org/lengow-dev/pymarketplaces/commits/52c5c6c9905559cb0d6c645450b5bd2b5769da20 : [MKTP-382] Amazon v3 thesaurus : update tests
+2016-03-31 15:23:31	SLACK	 - Clement Idelon
+2016-03-31 15:25:24	SLACK	[pyMarketPlaces/feature/ebay] 839cc74f3b79 https://bitbucket.org/lengow-dev/pymarketplaces/commits/839cc74f3b79d8d62a01076f9070ddc6705b1375 : Merge branch 'feature/settings' into feature/ebay
+2016-03-31 15:25:24	SLACK	 - Thomas Loiret
+2016-03-31 15:30:34	--	irc : déconnecté du serveur
+2016-03-31 15:43:05	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 15:43:05	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 15:43:05	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 15:43:50	--	Canal créé le jeu., 31 mars 2016 15:43:50
+2016-03-31 15:57:47	SLACK	[pyMarketPlaces/dev_python3] 542a12aaac6e https://bitbucket.org/lengow-dev/pymarketplaces/commits/542a12aaac6ec1ebfe858eb0941ecac1757d3da1 : [SUPPTECH-4443] Add new exception for the 'Shipped' status
+2016-03-31 15:57:47	SLACK	 - Malory Martin
+2016-03-31 15:58:21	SLACK	[pyMarketPlaces/python3] 7123a7b351a4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/7123a7b351a45df769407b6e519d01b40f703167 : Merge branch 'dev_python3' into python3
+2016-03-31 15:58:21	SLACK	 - Malory Martin
+2016-03-31 16:18:41	SLACK	[pyMarketPlaces/dev_python3] 7b1aa267b11a https://bitbucket.org/lengow-dev/pymarketplaces/commits/7b1aa267b11a933db72cafdd86e209c0f4b24485 : Add missing python lib xlwt
+2016-03-31 16:18:41	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-03-31 16:19:13	SLACK	[pyMarketPlaces/python3] ffd8bfc63fe3 https://bitbucket.org/lengow-dev/pymarketplaces/commits/ffd8bfc63fe32aecf2a254be291b6b8ad84bf135 : Merge branch 'dev_python3' into python3
+2016-03-31 16:19:13	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-03-31 16:26:44	SLACK	[pyMarketPlaces/feature/amazonv3] 799d63f8573f https://bitbucket.org/lengow-dev/pymarketplaces/commits/799d63f8573f5051bfd8415dd2982f34f7cabc28 : [MKTP-382] Amazon v3 thesaurus : Fix ThesaurusTask loading
+2016-03-31 16:26:44	SLACK	 - Clement Idelon
+2016-03-31 16:37:52	--	irc : déconnecté du serveur
+2016-03-31 16:37:55	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-03-31 16:37:55	--	Le titre pour #dev-marketplaces est ""
+2016-03-31 16:37:55	--	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-03-31 16:39:26	--	Canal créé le jeu., 31 mars 2016 16:39:26
+2016-03-31 17:39:30	SLACK	[pyMarketPlaces/feature/amazonv3] 769c46f2bdb1 https://bitbucket.org/lengow-dev/pymarketplaces/commits/769c46f2bdb15207da460e1d1f92d42829bc3caa : Task: clean debug instructions
+2016-03-31 17:39:30	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-03-31 17:47:12	SLACK	[pyMarketPlaces/feature/ebay] 7528d7269cc4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/7528d7269cc4a687923f5f098f60e590d430ebfb : Update eBay Test
+2016-03-31 17:47:12	SLACK	 - Adrien TALLOT
+2016-03-31 18:18:16	SLACK	[pyMarketPlaces/feature/ebay] e3fa34a3d26a https://bitbucket.org/lengow-dev/pymarketplaces/commits/e3fa34a3d26a17ae5510403a44558a8e61d0a4da : Fix test all
+2016-03-31 18:18:16	SLACK	 - Adrien TALLOT
+2016-03-31 18:31:18	SLACK	[pyMarketPlaces/feature/amazonv3] 2781385ffb48 https://bitbucket.org/lengow-dev/pymarketplaces/commits/2781385ffb4880e7e563365ae5d52ac599b896b1 : [MKTP-382] Amazon v3 thesaurus : clean some garbage chars
+2016-03-31 18:31:18	SLACK	 - Clement Idelon
+2016-04-01 12:10:30	SLACK	[pyMarketPlaces/feature/amazonv3] db224e885450 https://bitbucket.org/lengow-dev/pymarketplaces/commits/db224e8854505ecad57f39ac128a7db340ce72d0 : Amazonv3: clean xsd parser and ass simplete type business logic
+2016-04-01 12:10:30	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-01 16:56:34	SLACK	[pyMarketPlaces/feature/aushoppingV3] 4 new commits:
+2016-04-01 16:56:34	SLACK	[pyMarketPlaces/feature/aushoppingV3] f15f02e81fb8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f15f02e81fb89606d0b43a67ba6522eaa7bae16b : Fix null products unittest failure
+2016-04-01 16:56:34	SLACK	 - Adrien TALLOT
+2016-04-01 16:56:34	SLACK	[pyMarketPlaces/feature/aushoppingV3] dae3a979ce97 https://bitbucket.org/lengow-dev/pymarketplaces/commits/dae3a979ce9779da5d1ef2f0218f02b7b20fa67c : MKTP-596: Mirakl order management Immochan
+2016-04-01 16:56:34	SLACK	 - Adrien TALLOT
+2016-04-01 16:56:34	SLACK	[pyMarketPlaces/feature/aushoppingV3] ced64e7f9e5c https://bitbucket.org/lengow-dev/pymarketplaces/commits/ced64e7f9e5cba3d9a5450bb8658d99518ad666a : Merge branch 'feature/settings' into feature/aushoppingV3
+2016-04-01 16:56:34	SLACK	 - Adrien TALLOT
+2016-04-01 16:56:34	SLACK	[pyMarketPlaces/feature/aushoppingV3] 380ed798402f https://bitbucket.org/lengow-dev/pymarketplaces/commits/380ed798402f0e6e1d28c10bd3bcaf071528dd5f : New settings management in Aushopping
+2016-04-01 16:56:34	SLACK	 - Adrien TALLOT
+2016-04-01 17:31:31	SLACK	[pyMarketPlaces/feature/amazonv3] fa5310fb56bf https://bitbucket.org/lengow-dev/pymarketplaces/commits/fa5310fb56bff55e1cabf7eb9928d65de0bba9f8 : [MKTP-380] init amazon/orders.py functions
+2016-04-01 17:31:31	SLACK	 - lu
+2016-04-04 09:55:46	SLACK	[pyMarketPlaces/dev_python3] a569e967ca1d https://bitbucket.org/lengow-dev/pymarketplaces/commits/a569e967ca1d1fa51342b6c8135ee03fb24a9ff8 : La Redoute : indicate encoding in product xml to prevent validation fail
+2016-04-04 09:55:46	SLACK	 - Clement Idelon
+2016-04-04 09:57:08	SLACK	[pyMarketPlaces/python3] 411bf7e9d1b3 https://bitbucket.org/lengow-dev/pymarketplaces/commits/411bf7e9d1b3d0c7229f3ed70fb73ffb5a3966a4 : Merge remote-tracking branch 'origin/dev_python3' into python3
+2016-04-04 09:57:08	SLACK	 - Clement Idelon
+2016-04-04 16:06:36	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 16:06:36	SLACK	[pyMarketPlaces/feature/amazonv3] 86eea6155c54 https://bitbucket.org/lengow-dev/pymarketplaces/commits/86eea6155c542ec57eded0f603e5fd71731d58ae : [MKTP-528] Core thesaurus : Allow multiple category with the same name, discrimination is done on the breadcrumb
+2016-04-04 16:06:36	SLACK	 - Clement Idelon
+2016-04-04 16:06:36	SLACK	[pyMarketPlaces/feature/amazonv3] 33a5b4964253 https://bitbucket.org/lengow-dev/pymarketplaces/commits/33a5b49642535a08bce4be9a77e3d78a1fdba578 : Merge remote-tracking branch 'origin/feature/amazonv3' into feature/amazonv3
+2016-04-04 16:06:36	SLACK	 - Clement Idelon
+2016-04-04 16:15:43	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 16:15:43	SLACK	[pyMarketPlaces/feature/amazonv3] e0daf25c61c2 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e0daf25c61c29c2d3807036e2c50dff1ff57e7aa : [MKTP-380]tested sync_orders: fix payment & keywords problems
+2016-04-04 16:15:43	SLACK	 - lu
+2016-04-04 16:15:43	SLACK	[pyMarketPlaces/feature/amazonv3] f84fd44ba21a https://bitbucket.org/lengow-dev/pymarketplaces/commits/f84fd44ba21a815b265777f5e628bd16e80aecc8 : add full_name in orderAddress model
+2016-04-04 16:15:43	SLACK	 - lu
+2016-04-04 16:18:20	SLACK	[pyMarketPlaces/feature/amazonv3] 2543ff843567 https://bitbucket.org/lengow-dev/pymarketplaces/commits/2543ff8435673769d4ad50b560615bd04ed96dac : remove not specified sync_orders function
+2016-04-04 16:18:20	SLACK	 - lu
+2016-04-04 16:21:49	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 16:21:49	SLACK	[pyMarketPlaces/feature/amazonv3] 36ba6d13e249 https://bitbucket.org/lengow-dev/pymarketplaces/commits/36ba6d13e249e47cf59639fd81d423af7d7e5207 : [MKTP-382] Amazon v3 thesaurus : Use new core thesaurus feature to allow multiple categories with same name
+2016-04-04 16:21:49	SLACK	 - Clement Idelon
+2016-04-04 16:21:49	SLACK	[pyMarketPlaces/feature/amazonv3] 803857fcbd10 https://bitbucket.org/lengow-dev/pymarketplaces/commits/803857fcbd10c5cd1114901b40531500bdb604d4 : Merge remote-tracking branch 'origin/feature/amazonv3' into feature/amazonv3
+2016-04-04 16:21:49	SLACK	 - Clement Idelon
+2016-04-04 16:25:13	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 16:25:13	SLACK	[pyMarketPlaces/feature/amazonv3] 6dc654dcf9c5 https://bitbucket.org/lengow-dev/pymarketplaces/commits/6dc654dcf9c53d9ae0d272ab591cda418ea8d0bb : add auth_token to connector parameters
+2016-04-04 16:25:13	SLACK	 - lu
+2016-04-04 16:25:13	SLACK	[pyMarketPlaces/feature/amazonv3] 34e35f4a3b48 https://bitbucket.org/lengow-dev/pymarketplaces/commits/34e35f4a3b4844e8eaa8f2e6c46acacf29a50abb : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-04 16:25:13	SLACK	 - lu [cc: sebastien.charret]
+2016-04-04 16:32:19	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 16:32:19	SLACK	[pyMarketPlaces/feature/amazonv3] cd8a886e73a6 https://bitbucket.org/lengow-dev/pymarketplaces/commits/cd8a886e73a60f0992d99a3c8c7ecf3b7ef75d69 : [MKTP-382] Amazon v3 thesaurus : name the thesaurus with priority
+2016-04-04 16:32:19	SLACK	 - Clement Idelon
+2016-04-04 16:32:19	SLACK	[pyMarketPlaces/feature/amazonv3] 07953476a54c https://bitbucket.org/lengow-dev/pymarketplaces/commits/07953476a54c7ac3fa38ead339c793eb951657df : Merge remote-tracking branch 'origin/feature/amazonv3' into feature/amazonv3
+2016-04-04 16:32:19	SLACK	 - Clement Idelon
+2016-04-04 16:58:17	SLACK	[pyMarketPlaces/feature/aushoppingV3] 7d70e63ee16e https://bitbucket.org/lengow-dev/pymarketplaces/commits/7d70e63ee16e9eda9b384cbfa6de5abf2cc88648 : MKTP-586 : modify api url
+2016-04-04 16:58:17	SLACK	 - Adrien TALLOT
+2016-04-04 17:19:57	SLACK	[pyMarketPlaces/feature/amazonv3] cba26660ff08 https://bitbucket.org/lengow-dev/pymarketplaces/commits/cba26660ff08637cf97b3b55c8032b3b118e89b7 : [MKTP-528] Test run on Delamaison theasurus
+2016-04-04 17:19:57	SLACK	 - Clement Idelon
+2016-04-04 17:36:49	SLACK	[pyMarketPlaces/feature/ebay] 90f9420f239d https://bitbucket.org/lengow-dev/pymarketplaces/commits/90f9420f239d6006dfce96c9bb638c26cc2ecd08 : MKTP-633 : add eBay customfield management
+2016-04-04 17:36:49	SLACK	 - Adrien TALLOT
+2016-04-04 18:36:59	SLACK	[pyMarketPlaces/feature/amazonv3] 2045d2808184 https://bitbucket.org/lengow-dev/pymarketplaces/commits/2045d28081841907076e5fc1d9b67d96459e20fa : [MKTP-528] Cleaning of various debugging messages
+2016-04-04 18:36:59	SLACK	 - Clement Idelon
+2016-04-04 18:59:55	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-04 18:59:55	SLACK	[pyMarketPlaces/feature/amazonv3] c612140691a0 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c612140691a0a5f0653f613b445efa6282a7e94d : add atributes complex types logic
+2016-04-04 18:59:55	SLACK	 - sebastien.charret
+2016-04-04 18:59:55	SLACK	[pyMarketPlaces/feature/amazonv3] 4599578a1213 https://bitbucket.org/lengow-dev/pymarketplaces/commits/4599578a12135f777bae7b01bcb770ccc7b9db73 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-04 18:59:55	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-05 08:34:17	SLACK	[pyMarketPlaces/feature/amazonv3] 5f4f3ea5fa0e https://bitbucket.org/lengow-dev/pymarketplaces/commits/5f4f3ea5fa0ec101766b3b9adb08218c59714766 : Change: xsd search for attribute
+2016-04-05 08:34:17	SLACK	 - moerin
+2016-04-05 11:22:46	SLACK	[pyMarketPlaces/v3] aee5380234f0 https://bitbucket.org/lengow-dev/pymarketplaces/commits/aee5380234f01539a5898fe961ffff93e5509d5e : Orders API - Fix duplicated orders by lines
+2016-04-05 11:22:46	SLACK	 - kiki
+2016-04-05 11:23:23	SLACK	[pyMarketPlaces/v3-preprod] f877cde2284b https://bitbucket.org/lengow-dev/pymarketplaces/commits/f877cde2284b8d428acaf4acf9cb88b79418aa8e : Merge branch 'v3-preprod' into v3
+2016-04-05 11:23:23	SLACK	 - kiki
+2016-04-05 14:24:38	SLACK	[pyMarketPlaces/dev_python3] c05eef6ed4b5 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c05eef6ed4b54e3b4f5e2e5f28a47943eeea1fc4 : Revert "La Redoute : indicate encoding in product xml to prevent validation fail"
+2016-04-05 14:24:38	SLACK	This reverts commit a569e967ca1d1fa51342b6c8135ee03fb24a9ff8.
+2016-04-05 14:24:38	SLACK	 - Clement Idelon
+2016-04-05 14:25:09	SLACK	[pyMarketPlaces/python3] e166dfd049b0 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e166dfd049b084067138b4d93c6dfdb221b19f84 : Merge branch 'dev_python3' into python3
+2016-04-05 14:25:09	SLACK	 - Clement Idelon
+2016-04-05 14:51:52	SLACK	[pyMarketPlaces/feature/ebay] 79c29ee63166 https://bitbucket.org/lengow-dev/pymarketplaces/commits/79c29ee6316678cfdd57a90d772872739bd0c886 : add csrf_exempt to views
+2016-04-05 14:51:52	SLACK	 - lu
+2016-04-05 15:48:14	SLACK	[pyMarketPlaces/dev_python3] 1709443e20ba https://bitbucket.org/lengow-dev/pymarketplaces/commits/1709443e20baabcf7ccc79881aba1e3a4ff0ba51 : Remove alert for SUPPTECH-3884 because it's closed
+2016-04-05 15:48:14	SLACK	 - Thomas Loiret
+2016-04-05 17:03:58	SLACK	[pyMarketPlaces/feature/ebay] 3347f779f858 https://bitbucket.org/lengow-dev/pymarketplaces/commits/3347f779f858d15ff93c98ddda0a2e6f9bab12cf : add a verification to save_token
+2016-04-05 17:03:58	SLACK	 - lu
+2016-04-05 17:33:41	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-05 17:33:41	SLACK	[pyMarketPlaces/dev_python3] e5e9774fb1b8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e5e9774fb1b83a4268a0a1a81a4b47aeffb9575b : Rakuten.de fix category bug
+2016-04-05 17:33:41	SLACK	 - Clement Idelon
+2016-04-05 17:33:41	SLACK	[pyMarketPlaces/dev_python3] 6c7af5eb616f https://bitbucket.org/lengow-dev/pymarketplaces/commits/6c7af5eb616f1edb59408727664411391154dbd8 : Merge remote-tracking branch 'origin/dev_python3' into dev_python3
+2016-04-05 17:33:41	SLACK	 - Clement Idelon
+2016-04-05 17:34:35	SLACK	[pyMarketPlaces/python3] c108ce82d5ca https://bitbucket.org/lengow-dev/pymarketplaces/commits/c108ce82d5cae1c6426a63f106d171ba86766365 : Merge branch 'dev_python3' into python3
+2016-04-05 17:34:35	SLACK	 - Clement Idelon
+2016-04-05 17:44:02	SLACK	[pyMarketPlaces/v3] c8dfcc09a4a2 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c8dfcc09a4a233e96210fb6053d3c20a3dc51210 : Merge branch 'feature/ebay' into v3
+2016-04-05 17:44:02	SLACK	 - lu
+2016-04-05 17:44:36	SLACK	[pyMarketPlaces/v3-preprod] d4ba578df626 https://bitbucket.org/lengow-dev/pymarketplaces/commits/d4ba578df62605fcd650744e7c5821a7c9227087 : Merge branch 'v3' into v3-preprod
+2016-04-05 17:44:36	SLACK	 - lu
+2016-04-05 18:08:33	SLACK	[pyMarketPlaces/feature/amazonv3] 2880e442811f https://bitbucket.org/lengow-dev/pymarketplaces/commits/2880e442811f693fa7762f43d6564f3de2fcb6a3 : Amazon: add unittest
+2016-04-05 18:08:33	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-05 18:13:21	SLACK	[pyMarketPlaces/feature/amazonv3] 4 new commits:
+2016-04-05 18:13:22	SLACK	[pyMarketPlaces/feature/amazonv3] 6b3d961e999d https://bitbucket.org/lengow-dev/pymarketplaces/commits/6b3d961e999de5de792b181b808f0c64a42b459f : Added synchronization of second thesaurus [MKTP-602]
+2016-04-05 18:13:22	SLACK	 - odashkov
+2016-04-05 18:13:22	SLACK	[pyMarketPlaces/feature/amazonv3] 8e71a9f5e68c https://bitbucket.org/lengow-dev/pymarketplaces/commits/8e71a9f5e68c92a4cb0c2a8bcbb5ebc5a393bd27 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-05 18:13:22	SLACK	 - odashkov
+2016-04-05 18:13:22	SLACK	[pyMarketPlaces/feature/amazonv3] d4a0ce58038d https://bitbucket.org/lengow-dev/pymarketplaces/commits/d4a0ce58038dfc1cde33f5508c504895b1b099c5 : Fixed thesaurus [MKTP-602]
+2016-04-05 18:13:22	SLACK	 - odashkov
+2016-04-05 18:13:22	SLACK	[pyMarketPlaces/feature/amazonv3] 41eeca07f0b8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/41eeca07f0b89595d713fce3da40d35fa660f964 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-05 18:13:22	SLACK	 - odashkov [cc: sebastien.charret]
+2016-04-06 08:46:12	SLACK	[pyMarketPlaces/feature/amazonv3] e8f9f95a6ef8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e8f9f95a6ef8d22508e61381b74152f7f88dcf6b : Amazon: manual attribute definition
+2016-04-06 08:46:12	SLACK	 - moerin
+2016-04-06 10:15:33	SLACK	[pyMarketPlaces/feature/amazonv3] 0d2a38c60a69 https://bitbucket.org/lengow-dev/pymarketplaces/commits/0d2a38c60a693e37e41a7fae486171e468aea9d4 : Amazon: attribute special case
+2016-04-06 10:15:33	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-06 10:23:50	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-06 10:23:50	SLACK	[pyMarketPlaces/dev_python3] 0c9141de91fa https://bitbucket.org/lengow-dev/pymarketplaces/commits/0c9141de91faf9f43bfc3fcb1a42522b556756a1 : SUPTECH-4505 : add tracking url, carrier, number saving
+2016-04-06 10:23:50	SLACK	 - Adrien TALLOT
+2016-04-06 10:23:50	SLACK	[pyMarketPlaces/dev_python3] f41f6219f865 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f41f6219f865ac8e3fb62652e25cf99a363b8824 : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-06 10:23:50	SLACK	 - Adrien TALLOT [cc: sebastien.charret]
+2016-04-06 10:39:15	SLACK	[pyMarketPlaces/feature/ebay] 5ccca168ba44 https://bitbucket.org/lengow-dev/pymarketplaces/commits/5ccca168ba444ba32f586638b865d6de59d77461 : fix thesaurus_name
+2016-04-06 10:39:16	SLACK	 - lu
+2016-04-06 10:44:15	SLACK	[pyMarketPlaces/python3] 224ebd41a0a3 https://bitbucket.org/lengow-dev/pymarketplaces/commits/224ebd41a0a3b37c0d7960afccf5de6353f6b901 : Merge branch 'dev_python3' into python3
+2016-04-06 10:44:15	SLACK	 - Adrien TALLOT
+2016-04-06 11:52:46	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-06 11:52:46	SLACK	[pyMarketPlaces/feature/amazonv3] cf7bcbe70803 https://bitbucket.org/lengow-dev/pymarketplaces/commits/cf7bcbe70803232451ca2f9fd6c05146ff958c1b : [MKTP-604] : Transformer template
+2016-04-06 11:52:46	SLACK	 - Clement Idelon
+2016-04-06 11:52:46	SLACK	[pyMarketPlaces/feature/amazonv3] 51a29edb035c https://bitbucket.org/lengow-dev/pymarketplaces/commits/51a29edb035cbb1271060e44791f2f2efdc4427a : Merge remote-tracking branch 'origin/feature/amazonv3' into feature/amazonv3
+2016-04-06 11:52:46	SLACK	 - Clement Idelon
+2016-04-06 15:23:45	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-06 15:23:45	SLACK	[pyMarketPlaces/dev_python3] bfe668092874 https://bitbucket.org/lengow-dev/pymarketplaces/commits/bfe66809287459e8a358dd517bd8b76b8cb5920f : [SUPPTECH-4558] La Redoute : Correctly extract media file extension
+2016-04-06 15:23:45	SLACK	 - Clement Idelon
+2016-04-06 15:23:45	SLACK	[pyMarketPlaces/dev_python3] 3b2f4d4f6ce9 https://bitbucket.org/lengow-dev/pymarketplaces/commits/3b2f4d4f6ce93dc97257804c7731bef02e76cede : Merge remote-tracking branch 'origin/dev_python3' into dev_python3
+2016-04-06 15:23:45	SLACK	 - Clement Idelon
+2016-04-06 15:24:41	SLACK	[pyMarketPlaces/python3] 2 new commits:
+2016-04-06 15:24:41	SLACK	[pyMarketPlaces/python3] a97b05e00f6b https://bitbucket.org/lengow-dev/pymarketplaces/commits/a97b05e00f6b7580e363ad7332515458b6d65e88 : Merge branch 'dev_python3' into python3
+2016-04-06 15:24:41	SLACK	 - Clement Idelon
+2016-04-06 15:24:41	SLACK	[pyMarketPlaces/python3] 21d4adfaf31e https://bitbucket.org/lengow-dev/pymarketplaces/commits/21d4adfaf31e04cc1a1cd0cc1c876310f2ad3c60 : Merge remote-tracking branch 'origin/python3' into python3
+2016-04-06 15:24:41	SLACK	 - Clement Idelon
+2016-04-06 15:27:09	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-06 15:27:09	SLACK	[pyMarketPlaces/dev_python3] f29681ea4cd8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f29681ea4cd81a073a779bb401fd56ba81fcd9c3 : SUPPTECH-4516: first part for international shipping
+2016-04-06 15:27:09	SLACK	 - sebastien.charret
+2016-04-06 15:27:09	SLACK	[pyMarketPlaces/dev_python3] 59bdcdf1b52e https://bitbucket.org/lengow-dev/pymarketplaces/commits/59bdcdf1b52e410ff0412a54ff41ef612322d6ae : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-06 15:27:09	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-06 16:14:01	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-06 16:14:01	SLACK	[pyMarketPlaces/dev_python3] 77366eec2af8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/77366eec2af8c4b746a041fdb4b01d4fc14783da : Merge branch 'dev_python3' into python3
+2016-04-06 16:14:01	SLACK	 - sebastien.charret
+2016-04-06 16:14:01	SLACK	[pyMarketPlaces/dev_python3] 5f21ebbdd083 https://bitbucket.org/lengow-dev/pymarketplaces/commits/5f21ebbdd083b73c96a1724855e345ec3d85e4ec : SUPPTECH-4516: first part for international shipping - fix
+2016-04-06 16:14:01	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-06 17:02:48	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-06 17:02:48	SLACK	[pyMarketPlaces/feature/amazonv3] e86c64eb1393 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e86c64eb139372f287a68bde8c0350c4584862bb : Add products attributes
+2016-04-06 17:02:48	SLACK	 - Malory Martin
+2016-04-06 17:02:48	SLACK	[pyMarketPlaces/feature/amazonv3] c36baa537339 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c36baa5373391610c8ca6680e168f9a2f54c5044 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-06 17:02:48	SLACK	 - Malory Martin [cc: sebastien.charret]
+2016-04-06 17:13:30	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-06 17:13:30	SLACK	[pyMarketPlaces/dev_python3] c739bfddc121 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c739bfddc121462c4414d1fb6306cfbf54548f6f : Fixed quotes in verification of parent_id for variation(spartoo)[MKTP-592]
+2016-04-06 17:13:30	SLACK	 - odashkov
+2016-04-06 17:13:30	SLACK	[pyMarketPlaces/dev_python3] 1a1799fc8286 https://bitbucket.org/lengow-dev/pymarketplaces/commits/1a1799fc82865c4641438a8d903dcf22a13c6524 : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-06 17:13:30	SLACK	 - odashkov [cc: sebastien.charret]
+2016-04-06 17:41:15	SLACK	[pyMarketPlaces] 2 new commits:
+2016-04-06 17:41:15	SLACK	[pyMarketPlaces/] a5c592878e92 https://bitbucket.org/lengow-dev/pymarketplaces/commits/a5c592878e925e894974f6e5e1c8722dbb47d6b6 : [SUPPTECH-4558] La Redoute : Correctly extract logo file extension
+2016-04-06 17:41:15	SLACK	 - Clement Idelon
+2016-04-06 17:41:15	SLACK	[pyMarketPlaces/python3] c6b2b24a0418 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c6b2b24a0418a30e0eb643532bcbc6d7cdf6810a : Merge branch 'dev_python3' into python3
+2016-04-06 17:41:15	SLACK	 - Clement Idelon
+2016-04-06 17:47:27	SLACK	[pyMarketPlaces/python3] adb7d4b5686a https://bitbucket.org/lengow-dev/pymarketplaces/commits/adb7d4b5686acdf90b5cd23b7b7be52c79b07f92 : [SUPPTECH-4558] La Redoute : Correctly extract all media extensions
+2016-04-06 17:47:27	SLACK	 - Clement Idelon
+2016-04-06 17:48:12	SLACK	[pyMarketPlaces/dev_python3] 82e9b30fa74e https://bitbucket.org/lengow-dev/pymarketplaces/commits/82e9b30fa74e0f69ca2b0433625d5d0aca40e18f : Merge remote-tracking branch 'origin/dev_python3' into dev_python3
+2016-04-06 17:48:12	SLACK	 - Clement Idelon
+2016-04-06 18:09:39	SLACK	[pyMarketPlaces/feature/amazonv3] 78d8c43cb16d https://bitbucket.org/lengow-dev/pymarketplaces/commits/78d8c43cb16df1aa6a1d618b4532b5b10a6ecef9 : add order actions xml
+2016-04-06 18:09:39	SLACK	 - lu
+2016-04-07 10:46:56	SLACK	[pyMarketPlaces/feature/amazonv3] 540bc37114c2 https://bitbucket.org/lengow-dev/pymarketplaces/commits/540bc37114c28888063aa79cde23114af28d4886 : Add of Arts attributes
+2016-04-07 10:46:56	SLACK	 - Malory Martin
+2016-04-07 11:49:51	SLACK	[pyMarketPlaces/feature/amazonv3] 3 new commits:
+2016-04-07 11:49:51	SLACK	[pyMarketPlaces/feature/amazonv3] ffac36c3c324 https://bitbucket.org/lengow-dev/pymarketplaces/commits/ffac36c3c324e3699b7adbb3420b9a3bb1be8fcd : Arrange doc string
+2016-04-07 11:49:51	SLACK	 - sebastien.charret
+2016-04-07 11:49:51	SLACK	[pyMarketPlaces/feature/amazonv3] ffe2da23775f https://bitbucket.org/lengow-dev/pymarketplaces/commits/ffe2da23775fe177e330ca366c228c6eb53a2d92 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-07 11:49:51	SLACK	 - sebastien.charret
+2016-04-07 11:49:51	SLACK	[pyMarketPlaces/feature/amazonv3] 065e2dd05b39 https://bitbucket.org/lengow-dev/pymarketplaces/commits/065e2dd05b3939c6301a6bf1b78e496ef1723c76 : Add xlrd library to requirements.txt
+2016-04-07 11:49:51	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-07 11:52:59	SLACK	[pyMarketPlaces/dev_python3] e690f3faa108 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e690f3faa108341661e4a28f637cd33b447e59fa : [SUPPTECH-4569] La Redoute : Fix Request exception logging
+2016-04-07 11:52:59	SLACK	 - Clement Idelon
+2016-04-07 12:36:01	SLACK	[pyMarketPlaces/dev_python3] cdec57c9d56f https://bitbucket.org/lengow-dev/pymarketplaces/commits/cdec57c9d56fee85d0e45faff314add6824c4061 : change product_id to prod_sku SUPPTECH-4555
+2016-04-07 12:36:01	SLACK	 - lu
+2016-04-07 13:15:01	SLACK	[pyMarketPlaces/python3] e791010bff84 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e791010bff849cef82812343e58788144ce463a6 : Merge from dev_python3 cdiscount/connector
+2016-04-07 13:15:01	SLACK	 - lu
+2016-04-07 16:46:14	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-07 16:46:14	SLACK	[pyMarketPlaces/dev_python3] c4810f967e43 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c4810f967e43228070c83864304e981028ebef71 : Added lib html2text, wrapped ReturnPolicy_Description by html2text [SUPPTECH-4456]
+2016-04-07 16:46:14	SLACK	 - odashkov
+2016-04-07 16:46:14	SLACK	[pyMarketPlaces/dev_python3] 817b5930ddf9 https://bitbucket.org/lengow-dev/pymarketplaces/commits/817b5930ddf92503ddee1dc046b8ba6cd062ad77 : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-07 16:46:14	SLACK	 - odashkov [cc: sebastien.charret]
+2016-04-07 17:01:19	SLACK	[pyMarketPlaces/feature/ebay] ecb90f2f6aae https://bitbucket.org/lengow-dev/pymarketplaces/commits/ecb90f2f6aae0f0eccc56d9b3abe79136e7201b3 : MKTP-633 : Add line_id in customfields id and in name of fields in customfields
+2016-04-07 17:01:19	SLACK	 - Adrien TALLOT
+2016-04-08 09:52:37	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-08 09:52:37	SLACK	[pyMarketPlaces/dev_python3] 1718353aea98 https://bitbucket.org/lengow-dev/pymarketplaces/commits/1718353aea982728c86a28efb71c213dfcd4367a : fix double lines in product file SUPPTECH-4570
+2016-04-08 09:52:37	SLACK	 - lu
+2016-04-08 09:52:37	SLACK	[pyMarketPlaces/dev_python3] 41be236b9b44 https://bitbucket.org/lengow-dev/pymarketplaces/commits/41be236b9b44ddf5143638534ed4f89dda9937fd : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-08 09:52:37	SLACK	 - lu [cc: sebastien.charret]
+2016-04-08 09:57:13	SLACK	[pyMarketPlaces/python3] 19e506475091 https://bitbucket.org/lengow-dev/pymarketplaces/commits/19e506475091b63315ddea446ec2d81b00685518 : Merge mirakl/business_logic from dev_python3
+2016-04-08 09:57:13	SLACK	 - lu
+2016-04-08 10:12:38	ℹ 	irc : déconnecté du serveur
+2016-04-08 10:12:45	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-08 10:12:45	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-08 10:12:45	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-08 10:14:21	ℹ 	Canal créé le ven., 08 avril 2016 10:14:21
+2016-04-11 11:33:17	SLACK	[pyMarketPlaces/feature/amazonv3] 7db61ef649b8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/7db61ef649b8085c25f7d36a0a867f99207e00b2 : Amazon add attributes saves
+2016-04-11 11:33:17	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-11 11:33:47	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-11 11:33:47	SLACK	[pyMarketPlaces/feature/amazonv3] c17299bcdb47 https://bitbucket.org/lengow-dev/pymarketplaces/commits/c17299bcdb47f0894e110e3644c881c3c97650bb : fix thesaurus_name
+2016-04-11 11:33:47	SLACK	 - lu
+2016-04-11 11:33:47	SLACK	[pyMarketPlaces/feature/amazonv3] 2446aabf53fe https://bitbucket.org/lengow-dev/pymarketplaces/commits/2446aabf53fe9a18deebcd2789e237735188b8a2 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-11 11:33:47	SLACK	 - lu [cc: sebastien.charret]
+2016-04-11 12:08:27	SLACK	[pyMarketPlaces/python3] 99adaa324fa8 https://bitbucket.org/lengow-dev/pymarketplaces/commits/99adaa324fa8788be318c8764c45fe2329469e27 : Rakuten RMS - Fix shop categories (SUPPTECH-4557)
+2016-04-11 12:08:27	SLACK	 - kiki
+2016-04-11 12:09:17	SLACK	[pyMarketPlaces/feature/ebay] 2d61c0096d4c https://bitbucket.org/lengow-dev/pymarketplaces/commits/2d61c0096d4cd84c4f5cea39ae2bfdf8cee00a97 : MKTP-633 : Add category id to custom field name
+2016-04-11 12:09:17	SLACK	 - Adrien TALLOT
+2016-04-11 17:04:23	SLACK	[pyMarketPlaces/settings/mirakl] 0cd381275ab5 https://bitbucket.org/lengow-dev/pymarketplaces/commits/0cd381275ab58cee2aa0f63b12d281e4a4960af2 : Add new settings management to few mirakl MKTP
+2016-04-11 17:04:23	SLACK	 - Adrien TALLOT
+2016-04-11 17:24:34	SLACK	[pyMarketPlaces/dev_python3] 2 new commits:
+2016-04-11 17:24:34	SLACK	[pyMarketPlaces/dev_python3] bf2a83b2f07c https://bitbucket.org/lengow-dev/pymarketplaces/commits/bf2a83b2f07c430a74435bb9d04e9a7ab04d6d3a : Added regroup of pictures for variations of ebay [SUPPTECH-4564]
+2016-04-11 17:24:34	SLACK	 - odashkov
+2016-04-11 17:24:34	SLACK	[pyMarketPlaces/dev_python3] 89e20fb185a3 https://bitbucket.org/lengow-dev/pymarketplaces/commits/89e20fb185a35824a48d5932e5a77aa300bdc183 : Merge branch 'dev_python3' of bitbucket.org:lengow-dev/pymarketplaces into dev_python3
+2016-04-11 17:24:34	SLACK	 - odashkov [cc: sebastien.charret]
+2016-04-11 17:29:10	SLACK	[pyMarketPlaces/settings/mirakl] 247acce8cc0c https://bitbucket.org/lengow-dev/pymarketplaces/commits/247acce8cc0c42c942f7063b3602aaa5023f18df : Add NatDec
+2016-04-11 17:29:10	SLACK	 - Adrien TALLOT
+2016-04-11 17:31:44	SLACK	[pyMarketPlaces/settings/mirakl] fbdb07020b38 https://bitbucket.org/lengow-dev/pymarketplaces/commits/fbdb07020b3814673f9887b5a46a220eaadf847c : Add Menlook
+2016-04-11 17:31:44	SLACK	 - Adrien TALLOT
+2016-04-11 17:33:27	SLACK	[pyMarketPlaces/v3] 4 new commits:
+2016-04-11 17:33:27	SLACK	[pyMarketPlaces/v3] 691a203bd9a4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/691a203bd9a457a6d928c442b923581024e4a872 : Merge branch 'v3' of bitbucket.org:lengow-dev/pymarketplaces into v3
+2016-04-11 17:33:27	SLACK	 - kiki
+2016-04-11 17:33:27	SLACK	[pyMarketPlaces/v3] 0956a04e3396 https://bitbucket.org/lengow-dev/pymarketplaces/commits/0956a04e33968de6b9e763d59bf716fcd62a40ef : Merge branch 'v3' of bitbucket.org:lengow-dev/pymarketplaces into v3
+2016-04-11 17:33:27	SLACK	 - kiki
+2016-04-11 17:33:27	SLACK	[pyMarketPlaces/v3] 150d6a433937 https://bitbucket.org/lengow-dev/pymarketplaces/commits/150d6a433937ac80242139b83d9f29ad286fea99 : Merge branch 'v3' of bitbucket.org:lengow-dev/pymarketplaces into v3
+2016-04-11 17:33:27	SLACK	 - kiki
+2016-04-11 17:33:27	SLACK	[pyMarketPlaces/v3] a9bc6457a834 https://bitbucket.org/lengow-dev/pymarketplaces/commits/a9bc6457a8343c93beac6de6f9323c242ba2cf15 : Fix settings
+2016-04-11 17:33:27	SLACK	 - kiki [cc: sebastien.charret]
+2016-04-11 17:33:45	SLACK	[pyMarketPlaces/v3-preprod] 2 new commits:
+2016-04-11 17:33:45	SLACK	[pyMarketPlaces/v3-preprod] 9e02744c53ed https://bitbucket.org/lengow-dev/pymarketplaces/commits/9e02744c53edba046dbf9eff1bbc44be367ba76b : Merge branch 'v3' into v3-preprod
+2016-04-11 17:33:45	SLACK	 - kiki
+2016-04-11 17:33:45	SLACK	[pyMarketPlaces/v3-preprod] 150ecb8fe21d https://bitbucket.org/lengow-dev/pymarketplaces/commits/150ecb8fe21dd44378d24fec8912e268c60fe0e5 : Merge branch 'v3' into v3-preprod
+2016-04-11 17:33:45	SLACK	 - kiki
+2016-04-11 17:42:10	SLACK	[pyMarketPlaces/settings/mirakl] 3 new commits:
+2016-04-11 17:42:10	SLACK	[pyMarketPlaces/settings/mirakl] 297d235d3a34 https://bitbucket.org/lengow-dev/pymarketplaces/commits/297d235d3a34dbe89fe00bbf9daab14b1e6159d8 : Darty new settings management
+2016-04-11 17:42:10	SLACK	 - Adrien TALLOT
+2016-04-11 17:42:10	SLACK	[pyMarketPlaces/settings/mirakl] 35a689295fbd https://bitbucket.org/lengow-dev/pymarketplaces/commits/35a689295fbd2c9d8209e38966bba09314d57a49 : Add new settings management Auchan
+2016-04-11 17:42:10	SLACK	 - Adrien TALLOT
+2016-04-11 17:42:10	SLACK	[pyMarketPlaces/settings/mirakl] 94263bd4aafe https://bitbucket.org/lengow-dev/pymarketplaces/commits/94263bd4aafe41bc149d909e02ba6d548378f5d1 : Add new settings management Boulanger
+2016-04-11 17:42:10	SLACK	 - Adrien TALLOT
+2016-04-11 17:47:03	SLACK	[pyMarketPlaces/v3] 1274f1f42cb4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/1274f1f42cb4d6fd90d68210012c76f697f7f9a6 : Fix merge settings/mirakl ==> v3 conflicts
+2016-04-11 17:47:03	SLACK	 - Adrien TALLOT
+2016-04-12 01:24:25	ℹ 	irc : déconnecté du serveur
+2016-04-12 01:24:37	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-12 01:24:37	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-12 01:24:37	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-12 01:26:13	ℹ 	Canal créé le mar., 12 avril 2016 01:26:12
+2016-04-12 10:02:29	SLACK	[pyMarketPlaces/feature/amazonv3] 7b34186ad1e1 https://bitbucket.org/lengow-dev/pymarketplaces/commits/7b34186ad1e1c2bae8da36c00b61c354ea46d6b0 : Amazon: refacto and change unittest
+2016-04-12 10:02:29	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-12 11:25:43	SLACK	[pyMarketPlaces/feature/amazonv3] 3 new commits:
+2016-04-12 11:25:43	SLACK	[pyMarketPlaces/feature/amazonv3] f17ba92e3146 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f17ba92e3146a107e0c3d39828b772768f18880f : init orders actions settings
+2016-04-12 11:25:43	SLACK	 - lu
+2016-04-12 11:25:43	SLACK	[pyMarketPlaces/feature/amazonv3] 95aaff4d73ab https://bitbucket.org/lengow-dev/pymarketplaces/commits/95aaff4d73ab37304af7523b00278679780a3e34 : [MKTP-388] orders actions
+2016-04-12 11:25:43	SLACK	 - lu
+2016-04-12 11:25:43	SLACK	[pyMarketPlaces/feature/amazonv3] 518351f4d610 https://bitbucket.org/lengow-dev/pymarketplaces/commits/518351f4d610f9ea848d938249ca68b2320e720b : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-12 11:25:43	SLACK	 - lu [cc: sebastien.charret]
+2016-04-12 11:55:18	SLACK	[pyMarketPlaces/feature/amazonv3] f6d0d6f961b7 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f6d0d6f961b792c087ac0ab4f85cd9f6781858f6 : fix order manager in tasks
+2016-04-12 11:55:18	SLACK	 - lu
+2016-04-12 12:03:55	SLACK	[pyMarketPlaces/feature/amazonv3] eb14e092626e https://bitbucket.org/lengow-dev/pymarketplaces/commits/eb14e092626e1873db641d6f2e853ac3343e280d : [MKTP-653] Amazon - Tasks,  product and report managers skeletons
+2016-04-12 12:03:55	SLACK	 - Clement Idelon
+2016-04-12 12:37:39	SLACK	[pyMarketPlaces/feature/amazonv3] d00b57e4ca60 https://bitbucket.org/lengow-dev/pymarketplaces/commits/d00b57e4ca60828cae0fa15bca49e9a8fdbcc756 : add get_payload, is_xml_valid functions
+2016-04-12 12:37:39	SLACK	 - lu
+2016-04-12 17:57:51	SLACK	[pyMarketPlaces/feature/amazonv3] e65adcf2c8c4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e65adcf2c8c4d0d1424434a4367dda14879c2e17 : [MKTP-652] Amazon - Add ProductStatusTask which check for other product tasks state
+2016-04-12 17:57:51	SLACK	 - Clement Idelon
+2016-04-12 18:03:42	SLACK	[pyMarketPlaces/feature/amazonv3] d7f74e1aa042 https://bitbucket.org/lengow-dev/pymarketplaces/commits/d7f74e1aa0428df643aa1ec173255f929549f2ca : [MKTP-651] Fix get_payload
+2016-04-12 18:03:42	SLACK	 - Clement Idelon
+2016-04-12 18:04:45	SLACK	[pyMarketPlaces/feature/amazonv3] 994e08e1c34c https://bitbucket.org/lengow-dev/pymarketplaces/commits/994e08e1c34ca21362a3a515a934d377e82595a9 : [MKTP-651] Add Inventory Attributes
+2016-04-12 18:04:45	SLACK	 - Clement Idelon
+2016-04-12 18:26:07	SLACK	[pyMarketPlaces/feature/amazonv3] 2 new commits:
+2016-04-12 18:26:07	SLACK	[pyMarketPlaces/feature/amazonv3] f57a95b2cc65 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f57a95b2cc651830e7e4dfbd9164864d3e69dce1 : Amazon: add unittest for new management attributes
+2016-04-12 18:26:07	SLACK	 - sebastien.charret
+2016-04-12 18:26:07	SLACK	[pyMarketPlaces/feature/amazonv3] e3a145c9cbb4 https://bitbucket.org/lengow-dev/pymarketplaces/commits/e3a145c9cbb4cbefe27baacd8f039c7db0f982c5 : Merge branch 'feature/amazonv3' of bitbucket.org:lengow-dev/pymarketplaces into feature/amazonv3
+2016-04-12 18:26:07	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-13 11:04:48	SLACK	[pyMarketPlaces/python3] ea24acd5de96 https://bitbucket.org/lengow-dev/pymarketplaces/commits/ea24acd5de964fac7bc3d0a262ce048b5715773e : Merge branch 'python3' into dev_python3
+2016-04-13 11:04:48	SLACK	 - Thomas Loiret
+2016-04-13 11:29:45	SLACK	[pyMarketPlaces/dev_python3] f80e5612cf64 https://bitbucket.org/lengow-dev/pymarketplaces/commits/f80e5612cf64e1df3e439e8b621a7cdaf3350f57 : SUPPTECH-4606: fix extension finding management with unquoted character
+2016-04-13 11:29:45	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-13 11:30:19	SLACK	[pyMarketPlaces/python3] 2cd65da30379 https://bitbucket.org/lengow-dev/pymarketplaces/commits/2cd65da303799e89bf50c2d4f580209face30543 : Merge branch 'dev_python3' into python3
+2016-04-13 11:30:19	SLACK	 - sebastien.charret [cc: sebastien.charret]
+2016-04-13 14:35:26	ℹ 	irc : déconnecté du serveur
+2016-04-15 11:37:19	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-15 11:37:19	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-15 11:37:19	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-15 11:38:05	ℹ 	Canal créé le ven., 15 avril 2016 11:38:05
+2016-04-15 11:49:33	ℹ 	irc : déconnecté du serveur
+2016-04-15 11:52:35	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-15 11:52:35	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-15 11:52:35	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-15 11:52:55	ℹ 	irc : déconnecté du serveur
+2016-04-15 14:32:56	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-15 14:32:56	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-15 14:32:56	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-15 14:33:03	ℹ 	irc : déconnecté du serveur
+2016-04-15 14:35:13	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-15 14:35:13	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-15 14:35:13	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-15 14:35:23	ℹ 	irc : déconnecté du serveur
+2016-04-20 09:25:54	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-20 09:25:54	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-20 09:25:54	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-20 09:26:00	ℹ 	irc : déconnecté du serveur
+2016-04-20 09:26:06	-->	sebastien.charret (sebastien.charret@irc.tinyspeck.com) a rejoint #dev-marketplaces
+2016-04-20 09:26:06	ℹ 	Le titre pour #dev-marketplaces est ""
+2016-04-20 09:26:06	ℹ 	Canal #dev-marketplaces : 14 pseudos (0 op, 0 voice, 14 normaux)
+2016-04-20 09:26:14	ℹ 	irc : déconnecté du serveur

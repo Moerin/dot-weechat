@@ -1,0 +1,255 @@
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-16 10:45:50	sebastien.charret	{
+2016-09-16 10:45:50		    "account_id": 2643, 
+2016-09-16 10:45:50		    "currency": "EUR", 
+2016-09-16 10:45:50		    "deleted_at": null, 
+2016-09-16 10:45:50		    "is_active": true, 
+2016-09-16 10:45:50		    "logo": null, 
+2016-09-16 10:45:50		    "name": "Lengow", 
+2016-09-16 10:45:50		    "parent": null, 
+2016-09-16 10:45:50		    "settings": {
+2016-09-16 10:45:50		        "timezone": "Europe/Paris", 
+2016-09-16 10:45:50		        "url": "Lengow"
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "subscription": {
+2016-09-16 10:45:50		        "billing_offer": {
+2016-09-16 10:45:50		            "type": "free_trial"
+2016-09-16 10:45:50		        }, 
+2016-09-16 10:45:50		        "common_account": 2643, 
+2016-09-16 10:45:50		        "expired_at": null, 
+2016-09-16 10:45:50		        "subscribed_at": null
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "type": "merchant"
+2016-09-16 10:45:50		}
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-16 10:45:50	sebastien.charret	{
+2016-09-16 10:45:50		    "account_id": 2643, 
+2016-09-16 10:45:50		    "currency": "EUR", 
+2016-09-16 10:45:50		    "deleted_at": null, 
+2016-09-16 10:45:50		    "is_active": true, 
+2016-09-16 10:45:50		    "logo": null, 
+2016-09-16 10:45:50		    "name": "Lengow", 
+2016-09-16 10:45:50		    "parent": null, 
+2016-09-16 10:45:50		    "settings": {
+2016-09-16 10:45:50		        "timezone": "Europe/Paris", 
+2016-09-16 10:45:50		        "url": "Lengow"
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "subscription": {
+2016-09-16 10:45:50		        "billing_offer": {
+2016-09-16 10:45:50		            "type": "free_trial"
+2016-09-16 10:45:50		        }, 
+2016-09-16 10:45:50		        "common_account": 2643, 
+2016-09-16 10:45:50		        "expired_at": null, 
+2016-09-16 10:45:50		        "subscribed_at": null
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "type": "merchant"
+2016-09-16 10:45:50		}
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-16 10:45:50	sebastien.charret	{
+2016-09-16 10:45:50		    "account_id": 2643, 
+2016-09-16 10:45:50		    "currency": "EUR", 
+2016-09-16 10:45:50		    "deleted_at": null, 
+2016-09-16 10:45:50		    "is_active": true, 
+2016-09-16 10:45:50		    "logo": null, 
+2016-09-16 10:45:50		    "name": "Lengow", 
+2016-09-16 10:45:50		    "parent": null, 
+2016-09-16 10:45:50		    "settings": {
+2016-09-16 10:45:50		        "timezone": "Europe/Paris", 
+2016-09-16 10:45:50		        "url": "Lengow"
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "subscription": {
+2016-09-16 10:45:50		        "billing_offer": {
+2016-09-16 10:45:50		            "type": "free_trial"
+2016-09-16 10:45:50		        }, 
+2016-09-16 10:45:50		        "common_account": 2643, 
+2016-09-16 10:45:50		        "expired_at": null, 
+2016-09-16 10:45:50		        "subscribed_at": null
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "type": "merchant"
+2016-09-16 10:45:50		}
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-16 10:45:50	sebastien.charret	{
+2016-09-16 10:45:50		    "account_id": 2643, 
+2016-09-16 10:45:50		    "currency": "EUR", 
+2016-09-16 10:45:50		    "deleted_at": null, 
+2016-09-16 10:45:50		    "is_active": true, 
+2016-09-16 10:45:50		    "logo": null, 
+2016-09-16 10:45:50		    "name": "Lengow", 
+2016-09-16 10:45:50		    "parent": null, 
+2016-09-16 10:45:50		    "settings": {
+2016-09-16 10:45:50		        "timezone": "Europe/Paris", 
+2016-09-16 10:45:50		        "url": "Lengow"
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "subscription": {
+2016-09-16 10:45:50		        "billing_offer": {
+2016-09-16 10:45:50		            "type": "free_trial"
+2016-09-16 10:45:50		        }, 
+2016-09-16 10:45:50		        "common_account": 2643, 
+2016-09-16 10:45:50		        "expired_at": null, 
+2016-09-16 10:45:50		        "subscribed_at": null
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "type": "merchant"
+2016-09-16 10:45:50		}
+2016-09-08 17:46:55	⤷	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-08 17:46:55	sebastien.charret	test
+2016-09-08 17:46:57	⤷	http "http://10.100.1.82:8080/api/v3/accounts/?account_id=13"
+2016-09-08 17:50:21	benjaminleneve	Pour les anciens clients V2
+2016-09-08 17:51:08	⤷	il faut regarder dans la table migration.legacy et si l'accound id est présent c'est un client V2
+2016-09-08 17:51:24	sebastien.charret	Ok ca marche
+2016-09-08 17:51:34	benjaminleneve	Après tu peux appeler le champs comme tu veux
+2016-09-08 17:51:47	sebastien.charret	legacy ?
+2016-09-08 17:51:56	⤷	avec un boolean true ou false
+2016-09-08 17:52:19	benjaminleneve	ouais c'est bien
+2016-09-08 18:18:14	sebastien.charret	Hello, j'ai rajoute le champs pour tester
+2016-09-09 09:50:09	benjaminleneve	Nickel pour moi :slightly_smiling_face:
+2016-09-16 10:45:50	sebastien.charret	{
+2016-09-16 10:45:50		    "account_id": 2643, 
+2016-09-16 10:45:50		    "currency": "EUR", 
+2016-09-16 10:45:50		    "deleted_at": null, 
+2016-09-16 10:45:50		    "is_active": true, 
+2016-09-16 10:45:50		    "logo": null, 
+2016-09-16 10:45:50		    "name": "Lengow", 
+2016-09-16 10:45:50		    "parent": null, 
+2016-09-16 10:45:50		    "settings": {
+2016-09-16 10:45:50		        "timezone": "Europe/Paris", 
+2016-09-16 10:45:50		        "url": "Lengow"
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "subscription": {
+2016-09-16 10:45:50		        "billing_offer": {
+2016-09-16 10:45:50		            "type": "free_trial"
+2016-09-16 10:45:50		        }, 
+2016-09-16 10:45:50		        "common_account": 2643, 
+2016-09-16 10:45:50		        "expired_at": null, 
+2016-09-16 10:45:50		        "subscribed_at": null
+2016-09-16 10:45:50		    }, 
+2016-09-16 10:45:50		    "type": "merchant"
+2016-09-16 10:45:50		}
+2016-09-27 15:57:44	benjaminleneve	70f10e9de54608672e9fc3ee362b7e06760b407be4a0fedd1eb5421c63867f13
+2016-09-27 15:57:55	⤷	43ef4e7677e2ec159f725af35867a348f49ed67f1b7b4c45d08f4c0bacbaa98a

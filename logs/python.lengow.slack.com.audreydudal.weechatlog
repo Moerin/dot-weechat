@@ -1,0 +1,203 @@
+2015-02-26 10:16:02	audreydudal	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F03QZP9GV/pasted_image_at_2015_02_26_10_15_am.png (channable) and commented: c'est sympa le truc de stat sur Channable pour les règles automatiques 
+2015-03-20 11:34:07	gilleslegall	http://bigbrother.lengow.com/statistics/
+2015-03-20 11:34:44	audreydudal	...Accès non autorisé à cette page.
+2015-03-20 11:35:06	gilleslegall	t'as pas accès à Big brother ?
+2015-03-20 11:35:49	audreydudal	si mais j'ai ce message quand je me connecte à la page Statistics
+2015-03-20 11:38:29	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F043JRH7A/pasted_image_at_2015_03_20_11_38.png (Pasted image at 2015-03-20, 11:38)
+2015-03-20 11:41:25	audreydudal	:smiley_cat:
+2015-03-26 10:09:48	⤷	Salut !
+2015-03-26 10:10:58	⤷	je sais pas trop quand faire la com' sur les nouveautés produits... est-ce que je le fais aujourd'hui avec juste la partie wiki ?
+2015-03-26 10:16:05	gilleslegall	hello,
+2015-03-26 10:16:29	⤷	on va attendre le déploiment complet avec la partie zendesk et le panneau de droite
+2015-03-26 10:16:34	⤷	semaine pro
+2015-03-26 10:16:46	⤷	commme ca on a un vrai truc a communiquer
+2015-03-26 10:21:07	audreydudal	Ok ; Clothilde craignait peut être que des marchands soient perdus c'est pour cela qu'elle me demandait si je faisais la com' aujourd'hui
+2015-03-26 10:21:15	⤷	mais je préfère aussi communiquer sur un truc complet
+2015-03-26 10:22:43	gilleslegall	je pense qu'ils arriveraont a s'y retrouver
+2015-03-26 10:22:46	⤷	:simple_smile:
+2015-03-26 10:22:52	audreydudal	je pense aussi
+2015-03-31 12:04:24	⤷	salut ! tu m'avais parlé d'un lancement du reste des fonctionnalités Help Gizmo peut être cette semaine... c'est tjs d'actualité ?
+2015-03-31 12:20:08	gilleslegall	On rencontre quelques soucis avec zendesk qui marchait bien en local mais pas sur l'evt de prod. Je pense que ce sera semaine pro
+2015-04-07 10:39:55	audreydudal	sur le mois de mars on comptabilise quand même 66 000 sessions sur tous nos sites corporates + blog + la solution
+2015-04-07 10:40:43	gilleslegall	ok bon ca fait -75000 :simple_smile:
+2015-04-07 10:41:07	audreydudal	dont 40 000 pour la solution
+2015-04-08 09:44:42	⤷	salut
+2015-04-08 09:45:07	⤷	si il y a des mots non traduisibles dans la solution, c'est simple d'ajouter les champs pour la traduction?
+2015-06-08 17:41:27	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F062Z0709/pasted_image_at_2015_06_08_05_41_pm.png (Pasted image at 2015-06-08, 5:41 PM)
+2015-06-08 17:41:38	⤷	tu as pu voir pour le problème d'anglais remonté par Femke ?
+2015-06-08 17:41:55	gilleslegall	Absolument pas
+2015-06-08 17:42:13	audreydudal	:wink:
+2015-06-11 11:55:15	⤷	Question : des alertes sont-elles prévues dans la V3 quand un client a accidentellement créé une règle qui fait que tout ses produits sont filtrés du flux ou ne laissant qu'un tout petite pourcentage de produits ?
+2015-06-11 11:55:31	gilleslegall	oui
+2015-06-11 11:55:32	audreydudal	Et est-ce qu'il y aura aussi des alertes pour des champs obligatoires qui ne sont pas matchés et du coup vides ?
+2015-06-11 11:55:40	gilleslegall	oui
+2015-06-11 11:56:26	audreydudal	cool
+2015-06-11 11:58:12	⤷	Ce sera sous quelle forme ? un message d'erreur s'affiche sur la page avant validation ?
+2015-06-11 11:58:50	gilleslegall	oui le marchand ne pourra pas aller aux létape d’après s’il n’a pas renseigné les champs obligatoires, idem pour les attributs des marketplaces
+2015-06-11 11:59:13	⤷	les attributs obligatoires bien entendu
+2015-06-11 11:59:50	⤷	On aura aussi un contrôle pour vérifier que toutes les catégories ont bien une correspondance avec celles du diffuseur
+2015-06-11 12:01:06	audreydudal	OK; Et pour un règle qui exclue trop de produits, le marchand pourra quand même passer à l'étape suivante et envoyer son flux?
+2015-06-11 18:05:11	⤷	https://www.paypal.com/fr/webapps/mpp/passport/home
+2015-06-11 18:05:42	⤷	ils proposent un baromètre basé sur les transactions de leurs clients
+2015-06-16 11:17:09	⤷	sur heap est ce que le bouton 'télécharger' qui figure sur cette page à droite : http://www.lengow.fr/plugins/prestashop/ peut être tracké ?
+2015-06-16 11:17:09		Plugin Prestashop pour vendre sur Google Shopping, Amazon, Criteo... (http://www.lengow.fr/plugins/prestashop/)
+2015-06-16 11:17:09		Envoyez facilement les produits de votre boutique Prestashop vers les principaux comparateurs de prix, places de marché, plateformes d'affiliation....
+2015-06-16 11:29:34	gilleslegall	oui passe me voir, je vais te montrer comment ca marche :simple_smile:
+2015-06-18 15:11:25	audreydudal	https://go.channelpilot.com/start/dashboard ; je sais pas si tu as déjà regardé l'espace démo de ce concurrent
+2015-06-18 15:42:40	gilleslegall	non je vais regardé, merci :simple_smile:
+2015-06-26 12:17:24	⤷	C good pour les contacts
+2015-06-26 12:21:52	audreydudal	cool, merci
+2015-07-01 11:44:41	⤷	aurais-tu 5 min à m'accorder ? j'ai des interrogations :wink:
+2015-07-22 09:47:17	⤷	hello
+2015-07-22 09:47:33	⤷	sur heap pour tracker les boutons, tu dois ajouter un truc de code pour que ce marche?
+2015-07-22 09:48:10	gilleslegall	sur quelle page ?
+2015-07-22 09:48:16	audreydudal	http://www.lengow.it/plugins/prestashop/
+2015-07-22 09:48:16		Prestashop - Lengow (http://www.lengow.it/plugins/prestashop/)
+2015-07-22 09:48:16		Caricare il Modulo Questo modulo é stato testato sulle versioni di Prestashop seguenti da 1.4.4.1 a 1.6.0.13. Per le versioni 1.5.X vi consigliamo di eseguire sempre gli aggiornamenti Prestashop, per avere una maggiore stabilitá sul nostro modulo.Per installare il modulo dovete selezionare la voce “Moduli” ed in seguito “Aggiungere un nuovo modulo”, per selezionare il …
+2015-07-22 09:48:33	⤷	on a ajouté une pop-up quand le visiteur clique sur 'scaricare'
+2015-07-22 09:48:56	⤷	et je voudrais tracker le bouton qui est sur la pop-up
+2015-07-22 09:49:09	⤷	mais comme c'est sur un plugon de word press je ne sais pas si cela peut marcher
+2015-07-22 10:01:21	gilleslegall	Pourquoi il y a une popup ? et pourquoi que sur IT ?
+2015-07-22 10:05:26	audreydudal	on fait un test sur IT pour mettre un formulaire et récupérer des leads au moment du téléchargement
+2015-07-22 10:06:33	gilleslegall	C bizarre, ca existe des leads qui commencent par charger le plugin avant d’appréhender la solution Lengow ?
+2015-07-22 10:07:00	audreydudal	en fait on a envoyé un emailing dédié à des prospects italiens qui ont la solution prestashop
+2015-07-22 10:07:10	gilleslegall	ah ok
+2015-07-22 10:19:19	audreydudal	http://www.lengow.it/plugins/prestashop/?utm_source=mailing_prestashop_it&utm_medium=email&utm_campaign=prestashop_it
+2015-07-22 10:29:24	⤷	j'ai bien reçu le formulaire complété mais pour l'instant ton adresse email ne remonte pas dans heap
+2015-07-22 10:47:12	gilleslegall	oui je vois ca on arrive pas a se faire tracker en 4G avec nos telephones, je sais pas trop pourquoi
+2015-07-22 10:47:33	audreydudal	ce n'est pas parce que la pop-up en place est issue d'un plugin tiers?
+2015-07-22 10:47:38	gilleslegall	mais normalement, si ils cliquent sur le lien avec l’UTM, ca devrait remonter dans heap
+2015-07-22 10:47:55	⤷	non j’ai essayé sur le site fr, c pareil
+2015-07-22 10:48:04	audreydudal	bizarre
+2015-07-23 18:16:13	⤷	parmi les écrans de la solution, est-ce qu'il y aurait un screenshot que je pourrais utiliser ? En fait Imke et Stefan ont un salon en octobre mais doivent faire partir les flyers pour impression maintenant et ils voudraient un screenshot actualisé de la solution
+2015-08-12 11:00:34	⤷	hello
+2015-08-12 11:00:41	⤷	je finis un truc, j'arrive dans 10 min
+2015-08-12 11:02:18	gilleslegall	ok
+2015-09-10 17:16:51	⤷	Hello
+2015-09-10 17:36:55	audreydudal	Salut
+2015-09-10 17:46:28	gilleslegall	J’ai entendu parlé de retouche sur le site corp pour la v3, tu sais la date de mise en prod ?
+2015-09-10 17:47:09	⤷	J’ai entendu egalement qu’on mettrait le champs de saisie pour le trial de 15j sur la home, tu sais a quelle date c’est prévu ?
+2015-09-10 17:52:12	audreydudal	normalement ca devait être opérationnel pour le 21 septembre pour le salon e-commerce pour les changements (vidéo, titre, screenshot) mais Benjamin a pris du retard
+2015-09-10 17:52:27	⤷	pour le champ de saisie pour le trial je ne sais pas à quel moment on va l'afficher
+2015-09-10 17:52:34	gilleslegall	Alors a priori non quasi tout est prêt d’après ce qu’il dit
+2015-09-10 17:53:13	⤷	par contre la vidéo, il faudrait mieux la mettre sur vimeo, le player est plus sexy et la qualité vidéo bien meilleure. On a un compte pro Lengow
+2015-09-10 17:53:32	audreydudal	pour l'instant on l'a mise nul part
+2015-09-10 17:53:45	⤷	on a demandé à Benjamin de trouver le meilleur truc
+2015-09-10 17:53:47	gilleslegall	ok j’avais cru comprendre que ce serait sur Youtubeet le bouton d’enregistrement
+2015-09-10 17:53:57	audreydudal	si c'est vimeo on peut aller sur vimeo
+2015-09-10 17:54:02	gilleslegall	par contre il faudra pas le mettre avant 1 octobre
+2015-09-10 17:54:15	⤷	(pardon j’ai tapé sur entrée sans faire expres) (edited)
+2015-09-10 17:54:39	audreydudal	il travaille sur une pré-prod donc je pense qu'il peut mettre une partie des modifs seulement en ligne ?
+2015-09-10 17:54:47	gilleslegall	yes
+2015-09-10 17:55:01	audreydudal	Est-ce qu'on le met au 1er octobre ou on attend ?
+2015-09-10 17:55:34	gilleslegall	ba normalement on ouvre pas les comptes clients directs avant le 1er octobre donc je pense que l’acquisition auto ne doit pas arriver avant
+2015-09-10 17:55:54	⤷	j’aurais meme tendance a dire qu’il faudrait attendre un peu apres le 1er octobre
+2015-09-10 17:56:27	⤷	car tous les concurrents ou autres auront accès donc si c’est pas stable ou finalisé ca craint un peu pour l’image de Lengow
+2015-09-10 17:56:53	audreydudal	moi je serai du même avis aussi ; j'en ai parlé à Fred aussi mais là il est en arrêt donc il ne m'a pas fait de retour
+2015-09-10 17:57:24	gilleslegall	pour moi le bouton c’est dès que la  PF  est stable + sexy
+2015-09-10 17:58:54	audreydudal	surtout que j'ai rien fait pour le moment sur les emails etc,..
+2015-09-10 18:04:23	gilleslegall	Sinon en attendant on peut imaginer mettre le bouton a partir du 21 et on renvoit le visiteur sur une page ou il choisit s’il veut qu’on le prévienne quand la plateforme sera disponible. Comme ca on se fait une petite liste de mail sur laquelle on pourra re-shooter un mail quand la PF sera disponible
+2015-09-10 18:06:24	audreydudal	oui c'est une bonne idée
+2015-09-10 18:06:53	⤷	je vais re-transmettre à benjamin pour vimeo et pour le bouton
+2015-09-10 18:07:17	⤷	mais bon j'attends de voir car cela fait 1 mois qu'on lui a demandé de nous montrer les premières modifs... et j'attend tjs
+2015-09-10 18:07:42	⤷	tu veux que je t'envoies la liste de changements que Fred a demandé ?
+2015-09-10 18:09:18	gilleslegall	yes je veux bien :simple_smile:
+2015-09-10 18:09:42	⤷	sinon relance le a priori c’est quasi fini
+2015-09-10 18:14:41	audreydudal	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0AEJD2GY/capture_d______e_____cran_2015-08-13_a______12.36.38.png (Capture dÔÇÖe╠ücran 2015-08-13 a╠Ç 12.36.38.png)
+2015-09-10 18:15:28	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0AERJNB0/fireshot_capture_-_centralise_the_diffusion_of_yo__-_http___www.lengow.com_features_feed-management_.png (FireShot Capture - Centralise the diffusion of yo_ - http___www.lengow.com_features_feed-management_.png)
+2015-09-10 18:15:56	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0AEMJA81/fireshot_capture_-_connect_to_ecommerce_with_lengow_-_http___www.lengow.com_integrations_.png (FireShot Capture - Connect to ecommerce with Lengow - http___www.lengow.com_integrations_.png)
+2015-09-10 18:16:32	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0AEMR12N/fireshot_capture_-_contact_us_-_http___www.lengow.com_contact-us_.png (FireShot Capture - Contact us - http___www.lengow.com_contact-us_.png)
+2015-09-10 18:16:56	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0AEJJ0Q0/fireshot_capture_-_lengow_-_ecommerce_feed_management_solution_-_http___www.lengow.com_.png (FireShot Capture - Lengow - Ecommerce feed management solution - http___www.lengow.com_.png)
+2015-09-10 18:20:52	⤷	il n'y a pas énormement de trucs qui changent
+2015-09-24 14:02:18	⤷	pour le petit point footer que je nous ai mis cet aprem, c'est pour que l'on soit sur avec Benjamin que cela aille bien dans le process de la V3 ; par contre motus et bouche cousu il ne sait pas encore qu'il passe à la technique, il voit Elo et Christilla plus tard
+2015-09-25 09:59:35	⤷	hello
+2015-09-25 10:00:24	⤷	comme j'ai plein de truc en suspens concernant les sites, quel est le mieux pour toi : est-ce que l'on fonctionne par vague de 2 semaines ? Ou alors je te mets tous ce dont j'ai besoin dès maintenant ?
+2015-09-25 10:03:07	gilleslegall	Hello saisies toutes tes demandes dans Jira on verra apres comment on fonctionne 
+2015-09-30 12:24:58	audreydudal	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0BJ2L9BP/150919_lengow.mov (150919_LENGOW.mov)
+2015-09-30 12:25:08	gilleslegall	c good merci
+2015-09-30 15:04:25	⤷	http://aviato.v3-inte.poney.io/app_inte.php/
+2015-10-07 11:03:27	audreydudal	http://www.lengow.fr/fonctionnalites/gestion-de-la-rentabilite/
+2015-10-07 11:03:27		Optimisez votre marge !
+2015-10-07 11:03:27		Sélectionnez pour chaque canal vos produits les plus rentables
+2015-10-07 11:03:27		http://www.lengow.fr/fonctionnalites/gestion-des-marketplaces/
+2015-10-07 11:03:27		Simplifiez la gestion de votre activité / de vos ventes sur les marketplaces !
+2015-10-07 11:03:27		Centralisez vos commandes issues des marketplaces (edited)
+2015-10-08 10:06:36	gilleslegall	t’es pas là vendredi ?
+2015-10-08 10:06:52	audreydudal	si je suis au bureau
+2015-10-08 10:07:16	gilleslegall	on fait un point avec ludo et dorothee avant que ludo parte en vacances donc ce serait l'occasion
+2015-10-08 10:07:32	audreydudal	ah bah oui, ce serait bien
+2015-10-08 10:07:36	gilleslegall	ok
+2015-10-08 10:07:52	audreydudal	tu m'envoies l'invit?
+2015-11-13 15:28:25	⤷	il a pris quels jours finalement Benjamin ?
+2015-11-13 15:29:36	gilleslegall	yes mardi aprem à vendredi
+2015-11-13 15:31:49	audreydudal	ok !
+2016-01-06 11:25:22	⤷	tu pourrais me donner les droits dans Jira pour que je puisse démarrer des sprints ?
+2016-01-08 14:20:46	gilleslegall	Je vous rejoins dans 10min
+2016-01-29 11:56:14	audreydudal	hello
+2016-01-29 11:56:43	⤷	du new par rapport à une date pour la V3  ?
+2016-01-29 15:29:56	gilleslegall	On y travaille
+2016-02-03 11:39:55	audreydudal	Hey !  je me rappelle à tes bons souvenirs ... pour mon paramétrage heap + le code analytics à changer pour le help center
+2016-02-03 12:04:59	gilleslegall	analytics done depuis hier ou avant hier
+2016-02-03 12:05:05	⤷	heap semi pas done
+2016-02-03 12:05:28	audreydudal	:wink: je vais regarder alors pour analytics
+2016-02-17 11:21:38	⤷	YO !
+2016-02-17 11:22:06	gilleslegall	yoyo
+2016-02-17 11:22:31	audreydudal	petite question par rapport à Jack y ; Fred me demandait si il ne risque pas trop de s'ennuyer 'techniquement'
+2016-02-17 11:23:09	⤷	pour le moment je lui donne des tâches sur wordpress mais je ne sais pas si il a des sujets plus costauds  sur lesquels il pourrait aussi travailler
+2016-02-17 11:23:59	gilleslegall	Je sais qu’il a soumis a Vincent des amélioration structurante
+2016-02-17 11:24:12	⤷	ca lui prendra du temps
+2016-02-17 11:24:57	⤷	mais ensuite si jamais le rythme est un peu plus calme sur les sites, ils pourraient prendre des petites tâches sur d’autres projets internes
+2016-02-17 11:29:33	audreydudal	ok ; car je ne voudrais pas qu'il tourne en rond.  je verrai quand je n'aurai plus assez de tâches pour lui
+2016-02-17 11:30:06	⤷	et je me demandais, pour l'intégration de prestashop : est-ce que lui pourrait avancer dessus ou ce serait plus Lucile pour cette partie ?
+2016-02-22 09:47:04	⤷	c'est bon j'ai fait un export excel des data des holder :wink:
+2016-02-22 09:48:32	gilleslegall	merci
+2016-02-23 17:40:27	audreydudal	sais-tu quel outil je peux utiliser pour enregistrer des sessions de démo ? Je vais voir 3 commerciaux la semaine prochaine
+2016-02-24 11:36:01	gilleslegall	http://g.legall.free.fr/flux/Sephora10.csv
+2016-02-24 11:41:22	⤷	http://g.legall.free.fr/flux/Fnac7.csv
+2016-02-24 11:41:40	⤷	http://g.legall.free.fr/flux/eastpack128.csv
+2016-02-24 11:42:04	⤷	http://g.legall.free.fr/flux/lachineuse73.csv
+2016-02-29 17:15:27	audreydudal	est-ce toi qui utilisait https://www.hotjar.com/ sur notre site ?
+2016-02-29 17:15:27		Hotjar – All-in-one Analytics and Feedback (https://www.hotjar.com/)
+2016-02-29 17:15:27		Hotjar is a new and easy way to truly understand your web and mobile site visitors.
+2016-02-29 18:30:55	gilleslegall	yes
+2016-02-29 18:31:07	⤷	on peut le virer si ca pose pb (edited)
+2016-02-29 18:33:24	audreydudal	non c'est pour savoir car on a passé les tags analytics dans google tag manager
+2016-02-29 18:33:33	⤷	donc on voulait cleaner le code
+2016-02-29 18:33:52	⤷	tu sais si ils ont de la document pour GTM ? Je pourrai créer la balise si elle n'est pas trop complexe
+2016-02-29 18:34:11	gilleslegall	nope
+2016-02-29 18:34:46	audreydudal	on l'a laissé en tout cas
+2016-02-29 18:34:58	gilleslegall	ok
+2016-02-29 18:36:01	audreydudal	http://docs.hotjar.com/docs/google-tag-manager j'ai trouvé ; ca a l'air easy
+2016-02-29 18:36:01		Google Tag Manager · Hotjar (http://docs.hotjar.com/docs/google-tag-manager)
+2016-02-29 18:36:01		Hotjar's Documentation
+2016-03-04 09:27:16	⤷	Hello
+2016-03-04 09:27:26	⤷	on a enlevé le code d'Hotjar dans le site mais on a crée une balise google tag maanger ; tu pourras me dire si cela fonctionne tjs bien ?
+2016-03-04 09:27:34	gilleslegall	Hello
+2016-03-04 09:27:55	⤷	c’est pas bien grave pour hotjar, c’etait un truc que je testais il y a quelques mois
+2016-03-04 09:28:07	⤷	on peut même le virer
+2016-03-04 09:28:32	audreydudal	ok ; je vais désactiver la balise alors
+2016-03-04 09:28:41	gilleslegall	thx
+2016-03-18 16:30:14	audreydudal	on se fait le point GTM, trakcing semaine pro?
+2016-03-18 16:43:08	gilleslegall	je suis dessus là donc si ca te tente ,
+2016-03-18 16:43:17	⤷	je suis dispo
+2016-03-18 17:58:17	audreydudal	je vais me refaire un workflow en début de semaine pour voir comment tout s'imbrique ; notamment avec GTM
+2016-03-18 17:58:23	⤷	je t'ai crée un accès à GTM
+2016-03-21 09:18:32	gilleslegall	Hello, ba je n’ai pas reçu les accès à GTM ! T sûre que t’as appuyé sur le bouton ?
+2016-03-21 09:18:56	audreydudal	hello
+2016-03-21 09:19:10	⤷	je crois que tu ne reçois pas de mail de notification mais si tu te connectes à GTm ca doit être good
+2016-03-21 09:19:20	gilleslegall	ah ok j'essaie
+2016-03-21 09:20:43	⤷	ok ca marche merci :simple_smile:
+2016-03-21 10:54:03	audreydudal	est-ce que ca serait possible que l'on mette Lucile sur la partie inté' pour le module PrestaShop ? Ca lui prendra plus de temps qu'à jérémy ou mathieu mais je me dis que ca serait pas mal pour elle de toucher à un autre projet
+2016-03-21 10:55:17	gilleslegall	why not
+2016-03-21 10:56:42	audreydudal	tu penses que c'est dans ses cordes?
+2016-03-21 10:57:04	gilleslegall	Avec un peu d’accompagnement de Jeremy on peut essayer
+2016-03-21 10:57:34	⤷	Maintenant faut voir avec la charge sur la partie sitecorp
+2016-03-21 11:11:41	audreydudal	Je pense que sur le mois d'avril les deux peuvent être gérés
+2016-03-21 11:22:45	gilleslegall	cool
+2016-03-21 14:10:21	⤷	as-tu des accès à adroll ?
+2016-03-21 14:10:38	audreydudal	non
+2016-03-21 14:10:44	⤷	tu veux que je les demande à rémi?
+2016-03-21 14:11:05	gilleslegall	Yes je veux bien qu’il me crée un accès juste pour voir comment c’est gaulé
+2016-03-21 14:11:15	audreydudal	Ok
+2016-03-21 14:29:57	⤷	tu dois avoir reçu un mail pour adroll
+2016-03-21 14:43:55	gilleslegall	thx

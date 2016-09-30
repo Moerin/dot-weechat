@@ -1,0 +1,68 @@
+2016-04-01 09:46:11	sebastien.charret	https://www.youtube.com/watch?v=zDAYZU4A3w0&feature=youtu.be
+2016-04-04 13:46:53	yon.mellado	https://medium.com/@kyawmyintthein/golang-beego-framework-mongodb-nginx-server-deployment-with-docker-29a29fe00e6a#.n2j082bhn 
+2016-04-04 13:50:34	sebastien.charret	Deja utilise :p
+2016-04-04 13:51:32	sebastien.charret	    FROM ubuntu
+2016-04-04 13:51:32	sebastien.charret	    # File Author / Maintainer
+2016-04-04 13:51:32	sebastien.charret	    MAINTAINER Kyaw
+2016-04-04 13:51:32	sebastien.charret	    # Install Nginx
+2016-04-04 13:51:32	sebastien.charret	    # Add application repository URL to the default sources
+2016-04-04 13:51:32	sebastien.charret	    # RUN echo “deb http://archive.ubuntu.com/ubuntu/ raring main universe” >> /etc/apt/sources.list
+2016-04-04 13:51:32	sebastien.charret	    # Update the repository
+2016-04-04 13:51:32	sebastien.charret	    RUN apt-get update
+2016-04-04 13:51:32	sebastien.charret	    # Install necessary tools
+2016-04-04 13:51:32	sebastien.charret	    RUN apt-get install -y nano wget dialog net-tools
+2016-04-04 13:51:32	sebastien.charret	    # Download and Install Nginx
+2016-04-04 13:51:32	sebastien.charret	    RUN apt-get install -y nginx
+2016-04-04 13:51:32	sebastien.charret	    # Remove the default Nginx configuration file
+2016-04-04 13:51:32	sebastien.charret	    #RUN rm -v /etc/nginx/sites-avaliable/default
+2016-04-04 13:51:32	sebastien.charret	    # Copy a configuration file from the current directory
+2016-04-04 13:51:32	sebastien.charret	    ADD app_conf /etc/nginx/sites-avaliable/app_conf
+2016-04-04 13:51:32	sebastien.charret	    EXPOSE 80
+2016-04-04 13:51:32	sebastien.charret	    # Set the default command to execute when creating a new container
+2016-04-04 13:51:32	sebastien.charret	    CMD service nginx start
+2016-04-04 13:51:42	sebastien.charret	marche pas
+2016-04-04 14:19:26	sebastien.charret	tu commit se fonctiona?
+2016-04-04 14:19:45	yon.mellado	nope, mais je pense que c’est un peu mieux
+2016-04-05 14:00:57	yon.mellado	FROM nginx:alpine
+2016-04-05 14:00:57	yon.mellado	# Copy a configuration file from the current directory
+2016-04-05 14:00:57	yon.mellado	ADD nginx.conf /etc/nginx/
+2016-04-05 14:00:57	yon.mellado	# Append "daemon off;" to the beginning of the configuration
+2016-04-05 14:00:57	yon.mellado	RUN echo "daemon off;" >> /etc/nginx/nginx.conf
+2016-04-05 14:00:57	yon.mellado	RUN cat /etc/nginx/nginx.conf
+2016-04-05 14:00:57	yon.mellado	# Expose ports
+2016-04-05 14:00:57	yon.mellado	EXPOSE 80
+2016-04-05 14:00:57	yon.mellado	# Set the default command to execute
+2016-04-05 14:00:57	yon.mellado	# when creating a new container
+2016-04-05 14:00:57	yon.mellado	CMD service nginx start
+2016-04-05 14:01:06	yon.mellado	que capuyo
+2016-04-05 14:02:53	yon.mellado	http://pastebin.com/5HRzd4Tt 
+2016-04-05 14:06:37	yon.mellado	http://pastebin.com/FEfU3RsC 
+2016-04-05 14:10:32	sebastien.charret	le docker ps te montre quel image?
+2016-04-05 14:10:47	sebastien.charret	la version modifie ou la version de base?
+2016-04-05 14:35:20	sebastien.charret	un conseil
+2016-04-05 14:35:27	yon.mellado	oui
+2016-04-05 14:35:36	sebastien.charret	il vaut mieux lancer le nginx comme ca
+2016-04-05 14:35:38	sebastien.charret	CMD ["nginx", "-g", "daemon off;"]
+2016-04-05 14:35:51	yon.mellado	j’ai testé aussi
+2016-04-05 14:35:51	sebastien.charret	aulieu de RUN nginx...
+2016-04-05 14:36:04	sebastien.charret	et ca ne marche tjrs pas>
+2016-04-05 14:36:05	yon.mellado	à mon avis c’est un conflit avec mes autres images
+2016-04-05 14:36:06	sebastien.charret	et ca ne marche tjrs pas?
+2016-04-05 14:36:10	sebastien.charret	Ok
+2016-04-05 14:36:12	sebastien.charret	possible
+2016-04-05 14:36:24	yon.mellado	je vais les supprimer
+2016-04-05 14:36:42	sebastien.charret	faudrait que j'essaye sur le mien
+2016-04-05 14:36:53	sebastien.charret	je n'ai pas d'images
+2016-04-05 14:37:01	yon.mellado	yep
+2016-04-05 15:54:19	sebastien.charret	https://twitter.com/VimRefined
+2016-04-05 15:55:10	yon.mellado	ça a l’air pas mal ! merci
+2016-04-05 15:56:17	sebastien.charret	de nada. Tienes no perdonnas para utilizar su IDE!
+2016-04-05 16:03:24	yon.mellado	hehe
+2016-04-05 16:03:50	sebastien.charret	yaya
+2016-04-05 16:03:53	sebastien.charret	jaja
+2016-04-08 10:12:38	ℹ 	irc : déconnecté du serveur
+2016-04-12 01:24:25	ℹ 	irc : déconnecté du serveur
+2016-04-13 12:03:15	yon.mellado	>>> xoxp-2809010789-2809010793-10669725713-7ecf456d0b
+2016-04-13 13:56:21	sebastien.charret	le probleme c'est que je me connecte avec le compte de gilles...
+2016-04-13 13:56:21	⚡	yon.mellado is away.
+2016-04-13 14:35:26	ℹ 	irc : déconnecté du serveur

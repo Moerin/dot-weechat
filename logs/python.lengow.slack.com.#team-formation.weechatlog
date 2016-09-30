@@ -1,0 +1,229 @@
+2015-10-14 12:11:42	nunus	:japanese_ogre:
+2015-10-15 16:14:39	eloise	ça vous dit d'investir ?
+2015-10-15 16:14:40	⤷	http://commentseruiner.com/gadget/catapulte-de-bureau
+2015-10-15 16:14:40		Catapulte de bureau Da Vinci à construire - Gadget (http://commentseruiner.com/gadget/catapulte-de-bureau)
+2015-10-15 16:14:40		Catapulte de bureau construite selon les croquis de Leonard de Vinci La catapulte volée au Louvre A construire soit même, sans outils Prenez d'assaut vos collègues La guerre est déclarée au bureau
+2015-10-15 16:18:03	benoit.dahirel	Carrément :simple_smile:
+2015-10-15 16:18:25	⤷	@nunus: Tu nous avais pas dit que tu étais mannequin, c'est pour arrondir tes fins de mois ?
+2015-10-15 16:19:11	⤷	benoit.dahirel uploaded a file: https://lengow.slack.com/files/benoit.dahirel/F0CGR3V16/2015-10-15_16h12_01.png (2015-10-15_16h12_01.png)
+2015-10-15 16:42:21	nunus	ahah ouais :smile:
+2015-10-15 16:42:37	⤷	T’a pas interet à te gourer de receptacle.
+2015-10-15 16:42:49	benoit.dahirel	haha oui, tout un challenge
+2015-10-16 17:33:50	⤷	Pour info, voici la pre-prod de l'API
+2015-10-16 17:33:50	⤷	http://10.100.1.242:8082/api/marketplaces/?format=api
+2015-10-16 17:34:00	⤷	On y retrouve l'ensemble des statuts des commandes
+2015-10-16 17:34:11	⤷	ainsi que quelques infos
+2015-10-16 17:36:05	⤷	pour la V3 evidemment
+2015-10-16 18:03:09	clothilde	hmmm miam miam !
+2015-10-19 10:10:00	⤷	@gilleslegall: @nunus vous auriez une url de catalogue produit que je peux charger dans la V3 svp ?
+2015-10-19 10:10:13	nunus	http://admin.menlook.com/ftp/catalogue/default/catalogueCompletLengowAvecParents.csv
+2015-10-19 10:10:24	⤷	#rapidité #efficacité #tranchedepatémaïté
+2015-10-19 10:12:07	clothilde	Merci ! :simple_smile:
+2015-10-19 10:14:47	⤷	sur la partie Matching Lengow,  a t on prévu d'indiquer une définition pour les champs demandés ?
+2015-10-19 10:19:39	nunus	du style ?
+2015-10-19 10:20:12	benoit.dahirel	ASV ? (bon ok, je sors)
+2015-10-19 10:20:16	nunus	ahah :smile:
+2015-10-19 10:27:23	clothilde	ID  = c'est l'identifiant unique de votre produit. Ce peut être le code SKU, product_id ou encore id_unique de votre catalogue.
+2015-10-19 10:29:03	nunus	Ben faut voir la charge de contenu supplémentaire, l’idée c’est d’avoir un truc « léger » à lire et à faire. Si on reste sur des items très courts, why not. Faudra le tester de toute façon
+2015-10-19 10:29:23	clothilde	ID_parent = c'est l'identifiant parent commun aux déclinaisons d'un même produit. Vous ne savez pas si votre catalogue contient des déclinaisons ?  Consultez notre HelpCenter (+lien vers l'article https://fr-v3.knowledgeowl.com/help/article/link/contenu-catalogue-produits )
+2015-10-19 10:29:33	nunus	Genre ça, ça va être compliqué à loger :smile:
+2015-10-19 10:31:09	clothilde	vu que tout sera détaillé dans le matching diffuseur, je trouve que ça manque d'infos à ce niveau là (surtout que c'est la première étape que le marchand va consulter, autant qu'on lui fournisse les détails à ce moment là=
+2015-10-19 10:32:51	nunus	yes, faudra voir, mais faut qu’on puisse être super concis malgré tout. Quand t’a plus d’aide sur un champ que sa « zone »  de base, c’est que y’a un soucis de conception :smile:
+2015-10-19 10:34:35	clothilde	je le conçois tout à fait
+2015-10-19 10:36:52	benoit.dahirel	Tu conçois la conception ?
+2015-10-19 10:37:02	clothilde	je conçois le concept
+2015-10-19 10:38:20	⤷	et sinon, quel diffuseur est fonctionnel dans la V3 ?
+2015-10-19 10:38:26	⤷	Google Shopping ?
+2015-10-19 10:38:36	nunus	Menlook - tech
+2015-10-19 10:40:20	⤷	@clothilde: Est-ce que tu sais nous préparer un truc concis pour les helpers sur ces champs là justement?  Comme ça on peut faire le test et voir comment ca s’intègre !
+2015-10-19 10:41:41	⤷	(in english please :wink: )
+2015-10-19 10:48:54	clothilde	oh yeah ! I can do it
+2015-10-19 10:49:01	⤷	but this afternoon
+2015-10-19 10:49:31	nunus	Cooliflex (c’est pas préssé) !
+2015-10-19 15:28:04	clothilde	bon alors c'est galère à faire... d'autant plus qu'on a déjà tout dans le Help Center. Est-ce que la solution ne serait pas d'ajouter cette phrase quelque part sur la page : "Do not know what an ID or Category field is? Visit our HelpCenter"
+2015-10-19 15:28:13	⤷	et de faire le lien vers cette page : https://fr-v3.knowledgeowl.com/help/article/link/contenu-catalogue-produits#definitionchamps
+2015-10-22 11:14:19	nunus	SALU
+2015-10-22 11:14:20	⤷	ASV
+2015-10-22 11:14:38	eloise	wesh yo !
+2015-10-22 11:14:47	benoit.dahirel	28 H Nantes
+2015-10-22 11:15:30	⤷	Chercher 24 F nantes
+2015-10-22 11:15:40	clothilde	je passe mon tour !
+2015-10-22 11:15:41	nunus	@eloise:  c’est pour toi ça !
+2015-10-22 11:15:52	eloise	et merde, à un an près ...
+2015-10-22 11:16:15	nunus	Petite question : options d'indexation d'un flux. Est-ce que nos chers marchands paramétrent un ratio différent et activent l’option « ne pas indexer »  de façon différente entre leurs channels ?
+2015-10-22 11:16:25	benoit.dahirel	bon bah salut
+2015-10-22 11:16:25	nunus	(chiaaaaaant)
+2015-10-22 11:16:37	eloise	relou ouais
+2015-10-22 11:16:41	⤷	je dirais non
+2015-10-22 11:16:51	clothilde	ya pas de raison qu'ils fassent cela
+2015-10-22 11:17:05	eloise	ça serait mieux d'avoir cette option pour chaque catalogue produit importé
+2015-10-22 11:17:13	⤷	mais pas au niveau channel
+2015-10-22 11:17:15	clothilde	c'est le catalogue source qui varie
+2015-10-22 11:17:24	nunus	okiche :smile: CI-MER !
+2015-10-29 11:59:59	clothilde	@eloise: et @benoit.dahirel est-ce que ça vous convient :
+2015-10-29 12:00:06	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0DDZQJDN/pasted_image_at_2015_10_29_11_59_am.png (Pasted image at 2015-10-29, 11:59 AM)
+2015-10-29 12:00:22	⤷	ah non àas ça
+2015-10-29 12:00:35	benoit.dahirel	C'est un beau baton bleu
+2015-10-29 12:01:11	clothilde	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0DDYMRS5/capture_d___e__cran_2015-10-29_a___11.58.39.png (Capture d’écran 2015-10-29 à 11.58.39.png)
+2015-10-29 12:01:17	⤷	n'est-ce pas !
+2015-10-29 12:02:44	eloise	pas mal du tout ! :simple_smile:
+2015-10-29 12:03:08	⤷	on garde plusieurs diffuseurs en bas du coup ? :simple_smile:
+2015-10-29 12:04:11	clothilde	je pense que oui, ça sera plus visuel pour les marchands
+2015-10-29 12:05:06	benoit.dahirel	Yes, j'aime bien
+2015-10-29 12:09:42	eloise	me too
+2015-10-29 12:09:47	⤷	great top !
+2015-10-29 12:20:10	clothilde	je m'occupe de la version traduite alors !
+2015-11-04 15:02:26	eloise	http://www.worldbeardchampionships.com/
+2015-11-04 15:02:26		World Beard and Moustache Championships (http://www.worldbeardchampionships.com/)
+2015-11-04 15:02:26		2015 World Beard & Moustache Championships – Leogang, Austria US National Beard & Moustache Championships – New York, USA Austria New York
+2015-11-04 16:19:15	nunus	Benoit on t’attend !
+2015-11-04 16:26:15	benoit.dahirel	Je laisse le suspense
+2015-11-04 16:27:03	⤷	va falloir que je m'achete du gel pour mettre mes cheveux en arrière
+2015-11-04 16:27:07	⤷	on a le style ou on l'a pas
+2015-11-04 16:27:26	⤷	resortir les ray ban
+2015-11-04 16:34:05	nunus	roh  putain, ouais. Je suis tout humide déjà.
+2015-11-06 16:08:48	eloise	receipt of packages.
+2015-11-06 16:08:55	⤷	> pour Dahirelos
+2015-11-24 15:19:37	⤷	@ les formateurs : Bonjour,
+2015-11-24 15:19:37		Lorsqu'un produit est supprimé de votre flux source, un produit virtuel est créé côté Lengow. Cela, afin de conserver dans Lengow les informations et optimisations liées à ce produit au cas où vous souhaiteriez le remettre en vente plus tard. Veuillez noter que, par défaut, un produit virtuel est désactivé dans la gestion des offres et envoyé aux places de marché avec une quantité à 0. Cela permet ensuite que les produits qui ne sont plus présents dans votre flux source puissent être dépubliés des places de marché. 
+2015-11-24 15:19:37		Note : Lorsque vous nous ré-envoyez, de nouveau, ces produits dans le flux source, vous devrez alors venir les ré-activer dans la Gestion des offres côté Lengow afin qu'ils puissent être en ligne sur les places de marché. Sans cela, ces produits continueront d'être envoyés aux places de marché avec un stock à 0, et donc ne seront pas publiés.
+2015-11-24 15:19:37		Pour recevoir de plus amples informations sur les produits virtuels, n'hésitez pas à consulter le lien suivant :  (ajouter l'url du tuto) :simple_smile:
+2015-11-27 09:25:46	benoit.dahirel	http://www.amazon.fr/gp/product/B0189B7QQW?redirect=true&ref_=gb1h_tit_m-4_9187_78af8b17&smid=A1VP88GCV30JQM
+2015-11-27 09:25:46		http://www.amazon.fr/gp/product/B0189B7QQW?redirect=true&ref_=gb1h_tit_m-4_9187_78af8b17&smid=A1VP88GCV30JQM
+2015-11-27 09:25:46		Chantal Plasse - Kit de Savoie - Roue de Raclette & Jambon cru: http://Amazon.fr (Amazon.fr): Epicerie
+2015-11-27 12:05:40	clothilde	la technique va nous permettre d'avoir les logs sur les actions réalisées sur le structures dans BB
+2015-11-27 12:06:41	benoit.dahirel	Great, on conserve l'historique ainsi ?
+2015-11-27 12:10:58	eloise	chouette :simple_smile:
+2015-11-27 12:19:58	clothilde	je vais voir si ça peut etre rétro-actif...mais je n'y crois pas trop
+2015-11-27 16:00:28	eloise	@ ajouter dans le tuto "Règles Automatiques"
+2015-11-27 16:00:28	⤷	http://www.terroirexperience.fr/blog/vin-effervescent/
+2015-11-27 16:00:28		http://www.terroirexperience.fr/blog/vin-effervescent/
+2015-11-27 16:00:28		Au-delà de la cette effervescence que proposent les vins tels que Champagne, crémant ou mousseux durant les fêtes aux ambiances survoltées, il aura
+2015-11-27 16:29:43	clothilde	Pourquoi tu veux ajouter ça dans les règles auto ? ça aiderait peut etre certains marchands à les faire :wink:
+2015-11-27 16:30:35	eloise	:stuck_out_tongue:
+2015-11-27 16:41:46	benoit.dahirel	http://www3.motionportrait.com/mpdemo/
+2015-11-27 16:43:21	⤷	benoit.dahirel uploaded a file: https://lengow.slack.com/files/benoit.dahirel/F0FDL2YHE/beubeu.jpg (beubeu.jpg)
+2015-12-10 18:10:22	nunus	Je viens de tomber sur le meilleur diffuseur de la journée : https://www.shoezilla.nl/
+2015-12-10 18:11:12	eloise	AHAH
+2016-01-07 16:59:45	⤷	alors c'est grave l'ambiance ? :smile:
+2016-01-07 16:59:45	⤷	http://ageheureux.a.g.pic.centerblog.net/e9300944.gif
+2016-01-07 16:59:45		http://ageheureux.a.g.pic.centerblog.net/e9300944.gif
+2016-01-07 17:00:42	benoit.dahirel	Je suis passé sur "Vois sur ton chemin", tu te laisses vite embarquer avec Youtube
+2016-01-07 17:01:59	eloise	ouais ok c'est pas full ambiance quoi ^^
+2016-01-07 17:02:01	⤷	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDy72cHPy4BxFSnxUhfI2syHvwZ0nWLLQlLumxlc0dbcPjYr6xog
+2016-01-07 17:02:01		https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDy72cHPy4BxFSnxUhfI2syHvwZ0nWLLQlLumxlc0dbcPjYr6xog
+2016-01-07 17:02:32	benoit.dahirel	Je suis faible en effet
+2016-01-07 17:02:40	⤷	Je vais me ressaisir
+2016-01-07 17:03:39	eloise	si tu cherches une inspiration ...
+2016-01-07 17:03:40	⤷	https://www.youtube.com/watch?v=llyiQ4I-mcQ
+2016-01-07 17:03:40		Vengaboys: Vengaboys - Boom, Boom, Boom, Boom!! (https://www.youtube.com/watch?v=llyiQ4I-mcQ)
+2016-01-07 17:04:08	benoit.dahirel	J'ai peur que la transition soit trop violente
+2016-01-07 17:04:27	⤷	Je vais écouter des pioupious
+2016-01-07 17:06:33	eloise	https://www.youtube.com/watch?v=u3dmwXDL-90
+2016-01-07 17:06:33		Scorpio Music: Le Poussin Piou (https://www.youtube.com/watch?v=u3dmwXDL-90)
+2016-01-07 17:06:44	⤷	ça c'est du rock !
+2016-01-07 17:06:50	benoit.dahirel	Je suis aussi tombé la dessus, grossière erreur :simple_smile:
+2016-01-07 17:11:20	nunus	J’ai soudainement envie de rendre.
+2016-01-07 17:11:29	eloise	:smile:
+2016-01-07 17:12:03	nunus	Parceque c’est important : https://www.youtube.com/watch?v=4w-D-9xn9VA
+2016-01-07 17:12:03		rockstar84: Philippe Lalanne - Never Forget (https://www.youtube.com/watch?v=4w-D-9xn9VA)
+2016-01-07 17:12:08	eloise	pas à cause des Vengaboys quand même ???
+2016-01-07 17:15:31	benoit.dahirel	Je propose qu'à la prochaine soirée, on se fait un karaoké
+2016-01-07 17:15:43	⤷	tellement de fou rire en prévision
+2016-01-07 17:15:56	eloise	moi je ne chante que sur Belle
+2016-01-07 17:16:09	benoit.dahirel	ca marche
+2016-01-07 17:16:25	⤷	moi je prend 'I'm a baby girl'
+2016-01-07 17:17:49	clothilde	je massacrerais bien  une chanson de Polnaref
+2016-01-07 17:18:20	benoit.dahirel	haha, le fameux popol
+2016-01-07 17:18:40	eloise	après une petite chanson de Gala j'dirais pas non
+2016-01-07 17:18:55	clothilde	la Play-list avance vite !
+2016-01-07 17:19:26	benoit.dahirel	On est chaud patate
+2016-01-07 17:19:40	⤷	Gillou nous fera la danse des canards
+2016-01-07 17:19:49	⤷	son grand classique
+2016-01-07 17:19:51	clothilde	il faudrait peut etre lancer le club "The Voice" chez Lengow ?
+2016-01-07 17:20:09	benoit.dahirel	Bonne idée :simple_smile:
+2016-01-07 17:20:39	clothilde	mais, je fais pas ça à jeun sur l'heure de midi :wink:
+2016-01-07 17:21:25	gilleslegall	La danse des cannards pffff
+2016-01-07 17:21:30	⤷	https://www.youtube.com/watch?v=XZAt-_gwvXY
+2016-01-07 17:21:30		Retroactifmag: Licence IV - Viens boire un p'tit coup à la maison (https://www.youtube.com/watch?v=XZAt-_gwvXY)
+2016-01-07 17:21:37	⤷	plutot ca
+2016-01-07 17:22:09	benoit.dahirel	haha, j'avais pas fait gaffe qu'il s'appelait Gilou
+2016-01-07 17:23:01	eloise	tu maîtrises la choré?
+2016-01-07 17:23:23	clothilde	oh mince, ça te poursuit depuis tout petit ?!
+2016-01-07 17:23:24	gilleslegall	pfff c moi qui l’ai inventé
+2016-01-07 17:23:54	benoit.dahirel	Je viens de me rendre compte de ton image :smile:
+2016-01-07 17:24:12	eloise	je l'ai vu à la salle de sport hier midi
+2016-01-07 17:24:15	gilleslegall	impressionnant
+2016-01-07 17:24:29	eloise	d'où cette carrure
+2016-01-07 17:26:06	benoit.dahirel	A cause de toi Gilou, je suis maitenant sur "la b*** à Dudu"
+2016-01-07 17:26:31	gilleslegall	c confortable ?
+2016-01-07 17:26:50	benoit.dahirel	En paramétrant un flux, c'est réconfortant
+2016-01-07 17:26:52	eloise	d'ailleurs Beubeu tu reprends quand le sport ?
+2016-01-07 17:26:53	⤷	http://www.tuxboard.com/photos/2013/02/la-biere-ne-fais-pas-grossir-ni-gros-ventre.jpg
+2016-01-07 17:26:53		http://www.tuxboard.com/photos/2013/02/la-biere-ne-fais-pas-grossir-ni-gros-ventre.jpg
+2016-01-07 17:27:13	benoit.dahirel	Quand j'arriverai à faire tenir mon verre sur le bide
+2016-01-07 17:27:13	nunus	on pourrait se faire des playlistes sous spotify !
+2016-01-07 17:27:44	benoit.dahirel	Oui, faudrait lancer le projet
+2016-01-07 17:27:55	⤷	ça tombe bien, on a un pro parmis nous
+2016-01-12 11:16:56	⤷	Petite information pour HC : pour faire un rechercher/remplacer sans passer par un editeur de texte, utilisez l'icone des jumelles.
+2016-02-02 10:26:46	⤷	Au cas où vous vous poser la question : le LED aura lieu le mardi 7 juin
+2016-02-04 09:46:47	nunus	merci bebe pour l’info ! :heart:
+2016-02-04 09:47:50	benoit.dahirel	:couplekiss:
+2016-02-04 14:13:36	⤷	http://www.gangofmaw.com/le-tanneur-strategique/
+2016-02-04 14:13:36		Le tanneur Stratégique - Gang Of Maw (http://www.gangofmaw.com/le-tanneur-strategique/)
+2016-02-04 14:13:36		Enfin le rap des PLANNEURS STRATEGIQUES Pour tout savoir sur la vie du planneur stratégique, découvre le titre de GANG OF MAW avec des révélations exclusives. Clique ici
+2016-02-04 14:14:42	⤷	Le groupe dont je parlais ce matin
+2016-02-04 14:23:22	eloise	:simple_smile:
+2016-02-16 17:36:45	nunus	Au cas où vous connaissiez pas : http://academy.hubspot.com/
+2016-02-16 17:36:45		Marketing Education | HubSpot Academy (http://academy.hubspot.com/)
+2016-02-16 17:36:45		HubSpot Academy offers certification, documentation, and training programs to help people understand how HubSpot and Inbound work.
+2016-02-16 17:37:26	eloise	ah c'est cool ça ! :simple_smile:
+2016-02-16 17:38:58	⤷	par contre ils demandent des accès :confused:
+2016-02-16 17:39:01	nunus	oui :’(
+2016-02-16 17:40:39	⤷	mais ils ont un site bien complet sur des sujets qu’on pourrait avoir
+2016-02-19 14:27:35	⤷	http://www.hemingwayapp.com/ [:heart:1]
+2016-02-19 15:12:57	clothilde	Je propose qu'on applique ça sur les prochains articles qu'on publie dans le HelpCenter !
+2016-02-19 15:13:25	⤷	Quelqu'un connaît l'équivalent de ce site pour le français ?! :simple_smile:
+2016-02-19 15:16:03	nunus	http://www.marcelproustwayapp.fr
+2016-02-19 15:20:31	eloise	Mouais c'est pas gégé ...
+2016-02-19 15:21:01	⤷	eloise uploaded a file: https://lengow.slack.com/files/eloise/F0N5UK880/2016-02-19_15h21_02.png (2016-02-19_15h21_02.png)
+2016-02-19 15:21:18	⤷	^^
+2016-02-19 15:45:24	nunus	:smile:
+2016-03-02 15:42:57	⤷	:green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart: eBay :green_heart: :heart:
+2016-03-02 15:43:16	eloise	:shit:
+2016-03-02 15:43:50	benoit.dahirel	Vous commencez par le plus simple aussi
+2016-03-02 15:44:28	⤷	Tu seras moins amoureux d'un bon flux comparateur de prix
+2016-03-02 15:44:33	⤷	avec 5 champs à renseigner
+2016-03-02 15:44:42	⤷	Il est là le vrai défi
+2016-03-03 09:43:58	⤷	Je trouve ça mieux l'emailing sans trop d'explication, sa pousse à cliquer sur les boutons d'actions. [:+1:1]
+2016-03-09 18:03:37	nunus	:metal: coucou, c’est nous les briseurs de rêve :imp:
+2016-03-09 18:05:25	eloise	:smile:
+2016-03-23 09:38:18	nunus	http://www.adstage.io/academy/
+2016-03-23 09:38:18		PPC Academy | AdStage (http://www.adstage.io/academy/)
+2016-03-23 09:38:18		PPC Academy is extensive collection of paid search resources, including curriculums, instructionals, guides, and thought leadership interviews. Helping
+2016-03-30 18:00:43	⤷	https://www.producthunt.com/e/spectacular-writing-tools?utm_source=Product+Hunt&utm_campaign=15dbc137bc-Spectacular_wring_apps_3_29_2016&utm_medium=email&utm_term=0_2cd7d34185-15dbc137bc-121987093
+2016-03-30 18:00:43		Spectacular Writing Tools - A collection of products that will improve your writing instantly. by Product Hunt (https://www.producthunt.com/e/spectacular-writing-tools?utm_source=Product+Hunt&utm_campaign=15dbc137bc-Spectacular_wring_apps_3_29_2016&utm_medium=email&utm_term=0_2cd7d34185-15dbc137bc-121987093)
+2016-03-30 18:00:43		A collection curated by Product Hunt, featuring products like Writefull, Hemingway Editor 2.0, GitBook, Pencil, and Rough Draft
+2016-03-31 14:15:17	clothilde	Oh yeah ! Merci :simple_smile:
+2016-03-31 18:12:31	eloise	http://www.poussepousse.fr/ecommerce/marketplaces/pourquoi-nous-avons-arrete-de-travailler-avec-lengow/
+2016-03-31 18:18:02	⤷	La V3 vers l'infini et l'au-delà !!!! :smile:
+2016-03-31 18:18:38	nunus	il est bien son article je trouve
+2016-03-31 18:19:16	⤷	ce qu’on se disait avec gilles, c’est que le truc qui fait mal :
+2016-03-31 18:19:16	⤷	Lengow est un simple intermédiaire technique entre la place de marché et le vendeur. Ce qui signifie qu’ils ne sont en aucun cas là pour nous aider à augmenter nos ventes, choisir les markeptlaces pertinentes ou même s’y inscrire.
+2016-03-31 18:19:27	⤷	ALLAY SALU PAN PAN CULCUL
+2016-04-01 10:14:21	eloise	Allez on se réveille un peu là !
+2016-04-01 10:14:22	⤷	https://www.youtube.com/watch?v=llyiQ4I-mcQ
+2016-04-01 10:14:22		Vengaboys: Vengaboys - Boom, Boom, Boom, Boom!! (https://www.youtube.com/watch?v=llyiQ4I-mcQ)
+2016-04-08 09:22:07	benoit.dahirel	Question de la plus haute importance. J'hésite à prendre ça en supplément cadeau pour l'anniversaire de Mumu : http://www.dress-me-up-nantes.fr/l-accompagnement-shopping
+2016-04-08 09:22:07		Enfin des conseils pendant votre shopping, Nantes (http://www.dress-me-up-nantes.fr/l-accompagnement-shopping)
+2016-04-08 09:22:07		Une séance shopping avec votre coach Dress Me Up pour avoir des conseils selon votre morphologie, votre style, la mode et les tendances !
+2016-04-08 09:22:15	⤷	Pensez-vous que c'est une bonne idée ?
+2016-04-08 10:08:27	clothilde	c'est à double tranchant :smile: ou elle le prend bien comme le test d'un nouveau service, soit elle y voit un message de ta part :wink:
+2016-04-08 10:32:56	nunus	Si elle t’en a déjà parlé, je pense que ça peut être chouette, sinon, j’ai peur que tu te fasses tataner :smile:
+2016-04-08 10:34:16	benoit.dahirel	Je pense que je vais tenter en assurant mes arrières
+2016-04-08 10:35:04	⤷	Je sais qu'elle aime bien regarder les trucs du genre "La reine du shopping", elle aimerait bien se faire conseiller, sans jamais vraiment me parler d'avoir un personnal shopper
+2016-04-08 10:35:11	⤷	Je prend le risque
+2016-04-08 10:44:06	nunus	t’es un vrai bonhomme toi !
+2016-04-08 10:44:36	benoit.dahirel	Elle m'a dit qu'elle aimerait bien être "surprise" :simple_smile:
+2016-04-08 10:45:51	nunus	A vous les portes du Sauna Club libertin !
+2016-04-08 10:46:18	benoit.dahirel	On a déjà notre carte d'abonné depuis ltps

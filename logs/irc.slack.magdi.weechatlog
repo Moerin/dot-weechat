@@ -1,0 +1,33 @@
+2016-04-06 11:27:20	magdi	@magdi shared a file: 113999.xml https://lengow.slack.com/files/oleksandr/F0X6T8LJU/113999.xml 
+2016-04-06 11:30:30	magdi	<BulkDataExchangeResponses xmlns="urn:ebay:apis:eBLBaseComponents">
+2016-04-06 11:30:30	magdi	<AddFixedPriceItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+2016-04-06 11:30:30	magdi	   <Timestamp>2016-04-06T09:09:10.761Z</Timestamp>
+2016-04-06 11:30:30	magdi	   <Ack>Failure</Ack>
+2016-04-06 11:30:30	magdi	   <CorrelationID>PF10R200X</CorrelationID>
+2016-04-06 11:30:30	magdi	   <Errors>
+2016-04-06 11:30:30	magdi	    <ShortMessage>Shipping service cost required.</ShortMessage>
+2016-04-06 11:30:30	magdi	    <LongMessage>Non-negative value is required to be provided for &lt;ShippingServiceCost&gt; tag if flat shipping type specified.</LongMessage>
+2016-04-06 11:30:30	magdi	    <ErrorCode>17505</ErrorCode>
+2016-04-06 11:30:30	magdi	    <SeverityCode>Error</SeverityCode>
+2016-04-06 11:30:30	magdi	    <ErrorClassification>RequestError</ErrorClassification>
+2016-04-06 11:30:30	magdi	   </Errors>
+2016-04-06 11:30:30	magdi	   <Version>961</Version>
+2016-04-06 11:30:30	magdi	   <Build>E961_UNI_API5_17901460_R1</Build>
+2016-04-06 11:30:30	magdi	  </AddFixedPriceItemResponse>
+2016-04-06 11:30:30	magdi	</BulkDataExchangeResponses>
+2016-04-06 16:59:13	magdi	ca a l air d etre ca
+2016-04-06 16:59:19	magdi	il avait matché le chmaps coloris
+2016-04-06 16:59:22	magdi	au lieu de couleur
+2016-04-06 17:00:41	magdi	C'etait ca!!!
+2016-04-06 17:00:44	magdi	il est passé
+2016-04-06 17:01:02	magdi	merci pour votre aide
+2016-04-06 17:01:28	magdi	c'était à cause de
+2016-04-06 17:01:36	magdi	désignation au lieu de DESIGNATION
+2016-04-06 17:01:38	magdi	je suis fou
+2016-04-06 17:02:54	sebastien.charret	Youpi!
+2016-04-06 17:03:03	sebastien.charret	allez je le ferme
+2016-04-06 17:03:14	magdi	grave
+2016-04-06 17:03:20	magdi	je la note dans nos erreurs eBay
+2016-04-08 10:12:38	ℹ 	irc : déconnecté du serveur
+2016-04-12 01:24:25	ℹ 	irc : déconnecté du serveur
+2016-04-13 14:35:26	ℹ 	irc : déconnecté du serveur

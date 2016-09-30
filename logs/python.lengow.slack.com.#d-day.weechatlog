@@ -1,0 +1,144 @@
+2016-03-10 10:20:26	ludo	ludo has joined the group
+2016-03-10 10:20:26	arthur	arthur has joined the group
+2016-03-10 10:20:26	benoit.beaulieu	benoit.beaulieu has joined the group
+2016-03-10 10:20:26	fabiendosse	fabiendosse has joined the group
+2016-03-10 10:20:27	gilleslegall	gilleslegall has joined the group
+2016-03-10 10:20:27	mathieusabourin	mathieusabourin has joined the group
+2016-03-10 10:20:27	mael	mael has joined the group
+2016-03-10 10:20:27	vincent	vincent has joined the group
+2016-03-10 10:20:27	nunus	nunus has joined the group
+2016-03-10 10:20:28	gautierzimmermann	gautierzimmermann has joined the group
+2016-03-10 10:20:28	matthieudaviere	matthieudaviere has joined the group
+2016-03-10 10:20:28	jeremie_b	jeremie_b has joined the group
+2016-03-10 10:20:28	yon.mellado	yon.mellado has joined the group
+2016-03-10 10:20:28	jbmartin	jbmartin has joined the group
+2016-03-10 10:20:28	jeremiequinson	jeremiequinson has joined the group
+2016-03-10 10:20:28	kevinmajor-domo	kevinmajor-domo has joined the group
+2016-03-10 10:20:28	gstoffer	gstoffer has joined the group
+2016-03-10 10:20:29	demikl	demikl has joined the group
+2016-03-10 10:21:35	ludo	Sauvons Lengow, Sauvons la France !
+2016-03-10 10:21:41	nunus	T’invite pas Romain du coup ?
+2016-03-10 10:21:43	⤷	LOOLOOLLOOOL
+2016-03-10 10:22:07	clothilde	clothilde has joined the group
+2016-03-10 10:22:41	nunus	Renard [10:22] 
+2016-03-10 10:22:41		joined #d-day by invitation from @mickaelfroger
+2016-03-10 10:22:45	⤷	HAN IL EST LA
+2016-03-10 10:22:47	benoit.beaulieu	- Logo diffuseur manquant (ex DE/Add4, W/Atg, FR/1st Affiliation ...)
+2016-03-10 10:22:47		- Filtre Activités ne fonctionne pas
+2016-03-10 10:22:47		- Pas d'image par défaut sur les diffuseur n'ayant rien de renseigné
+2016-03-10 10:22:47		- Choix des univers incomplets (ex Twenga FR) : pas de logo, pas de message ...
+2016-03-10 10:22:47		- Light onboarding incomplet
+2016-03-10 10:22:47		- Traduction de certains mots en FR
+2016-03-10 10:22:47		- Compteur de règle non fonctionnel -> undefined si on ne rempli pas tout (condition)
+2016-03-10 10:22:47		- View products -> aucun produits affichés (lié à la règle CONTAINS) -> JB et Yon dessus
+2016-03-10 10:22:47		- Erreur 500 à la fin du process ... (
+2016-03-10 10:22:47		- Apercu : mettre une image par défaut comme l'image du marchand ne se charge pas
+2016-03-10 10:22:47		- Apercu : injection de valeur, popup d'erreur de refresh page
+2016-03-10 10:23:52	⤷	je remets 1 par 1 pour que Ludo affecte
+2016-03-10 10:23:55	⤷	- Logo diffuseur manquant (ex DE/Add4, W/Atg, FR/1st Affiliation ...) [:wrench:1 :+1:1 :white_check_mark:1]
+2016-03-10 10:24:00	⤷	- Filtre Activités ne fonctionne pas [:white_check_mark:1]
+2016-03-10 10:24:09	⤷	- Pas d'image par défaut sur les diffuseur n'ayant rien de renseigné [:white_check_mark:2]
+2016-03-10 10:24:14	⤷	- Choix des univers incomplets (ex Twenga FR) : pas de logo, pas de message ...
+2016-03-10 10:24:19	⤷	- Light onboarding incomplet
+2016-03-10 10:24:38	⤷	- Traduction de certains mots en FR -> CSS
+2016-03-10 10:24:43	⤷	- Compteur de règle non fonctionnel -> undefined si on ne rempli pas tout (condition) [:hammer_and_pick:1 :+1:1 :champagne:1]
+2016-03-10 10:24:45	gilleslegall	- Filtre Activités ne fonctionne pas : on le vire AV-2021 [:white_check_mark:1]
+2016-03-10 10:24:47	benoit.beaulieu	- View products -> aucun produits affichés (lié à la règle CONTAINS) -> JB et Yon dessus [:hammer_and_wrench:1 :white_check_mark:1 :twisted_rightwards_arrows:1]
+2016-03-10 10:24:54	⤷	- Apercu : mettre une image par défaut comme l'image du marchand ne se charge pas [:white_check_mark:1]
+2016-03-10 10:24:59	⤷	- Apercu : injection de valeur, popup d'erreur de refresh page [:gear:1 :recycle:1 :white_check_mark:1]
+2016-03-10 10:35:20	⤷	Indexation : décalage des champs quand valeur vide (ex url http://dl-cron.lengow.com/FluxDevTeam/feed_mp.txt) -> Mickael dessus [:white_check_mark:1]
+2016-03-10 10:37:53	⤷	Creation catalogue -> reporting -> chargement produit tourne dans le vide [:hammer_and_pick:1 :white_check_mark:1]
+2016-03-10 10:42:14	⤷	Catalogue -> Channel associés -> Le guide FR -> Error 500 [:white_check_mark:1]
+2016-03-10 10:52:38	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RQZFD2N/co__ts_-_performance___lengow.png (Coûts_-_Performance___Lengow.png)
+2016-03-10 10:52:47	clothilde	Traductions FR > 100%
+2016-03-10 10:53:15	demikl	Indexation : décalage des champs quand valeur vide ==> probleme front, il manque un ONLY dans la requete SQL qui récupère un produit pour la preview : `SELECT * FROM *ONLY* catalog.product_110;` sinon on se choppe tous les produits merdiques dans les tables historisées [:point_up:1 :white_check_mark:1]
+2016-03-10 10:56:24	jeremiequinson	jeremiequinson uploaded a file: https://lengow.slack.com/files/jeremiequinson/F0RQGA11C/wat.png (WAT.png)
+2016-03-10 10:57:28	fabiendosse	:simple_smile:
+2016-03-10 11:05:26	clothilde	@fabiendosse: possible de remettre cette chaîne à traduire ?
+2016-03-10 11:05:56	fabiendosse	On a supprimé le bouton, il ne servait vraiment à rien
+2016-03-10 11:06:08	clothilde	parfait !
+2016-03-10 11:17:28	yon.mellado	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RQXTP7A/capture_d___e__cran_2016-03-10_a___11.16.44.png (Capture d’écran 2016-03-10 à 11.16.44.png) and commented: Ce lien ne fonctionne pas
+2016-03-10 11:19:29	⤷	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RQY980G/capture_d___e__cran_2016-03-10_a___11.19.03.png (Capture d’écran 2016-03-10 à 11.19.03.png)
+2016-03-10 11:20:57	jeremie_b	C’est quoi ce message à droite ? J’ai jamais vu ça
+2016-03-10 11:31:55	benoit.beaulieu	Orders -> quand il n’y a pas de commande, mettre un message / illustration pour l’indiquer, là on a juste le header du tableau [:wrench:1 :white_check_mark:1]
+2016-03-10 12:04:14	fabiendosse	@clothilde: nouvelles chaines à traduire sur Transifex. Merci
+2016-03-10 12:06:48	clothilde	@fabiendosse: Done!
+2016-03-10 12:07:00	fabiendosse	@clothilde: Merci
+2016-03-10 12:17:45	jeremie_b	J’ai corrigé le bug d’affichage de Yon. Quelqu’un pour gérer l’envoi du mail correspondant ?
+2016-03-10 14:19:20	⤷	il reste un compte avec des orders ?
+2016-03-10 14:23:57	vincent	toto
+2016-03-10 14:24:38	jeremie_b	bah oui mais non
+2016-03-10 14:25:09	vincent	- Channels modal back : Corriger history JS [:squirrel:1]
+2016-03-10 14:25:34	⤷	- Ajouter loader après pre-match : bloquer le double commit [:hammer_and_pick:1 :+1:1 :gilles:1]
+2016-03-10 14:26:30	⤷	- Injection dans Search & Replace : corriger le JS [:thinking_face:1 :champagne:1 :+1:1]
+2016-03-10 14:26:32	jeremie_b	toto > orders > The best is yet to come!
+2016-03-10 14:26:54	vincent	- Feed activity history : corriger les liens [:pick:1 :twisted_rightwards_arrows:1]
+2016-03-10 15:03:54	yon.mellado	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RS0MP4M/capture_d___e__cran_2016-03-10_a___15.03.36.png (Capture d’écran 2016-03-10 à 15.03.36.png)
+2016-03-10 15:05:36	⤷	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RS68D1P/capture_d___e__cran_2016-03-10_a___15.05.11.png (Capture d’écran 2016-03-10 à 15.05.11.png)
+2016-03-10 15:08:36	⤷	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RS708U9/capture_d___e__cran_2016-03-10_a___15.07.27.png (Capture d’écran 2016-03-10 à 15.07.27.png) and commented: Je crois que c'est un dur dans le html
+2016-03-10 15:26:41	benoit.beaulieu	@jeremie_b: tu as trouvé un compte avec des orders ?
+2016-03-10 15:27:09	jeremie_b	Nop, mais pb résolu pour moi vu que vincent bosse sur ce que je voulais faire
+2016-03-10 15:27:23	benoit.beaulieu	ok
+2016-03-10 16:00:20	mathieusabourin	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0RS8KL0N/lien_d_import___lengow.png (Lien_d_import___Lengow.png)
+2016-03-10 16:27:33	yon.mellado	yon.mellado uploaded a file: https://lengow.slack.com/files/yon.mellado/F0RSUENU8/capture_d___e__cran_2016-03-10_a___16.27.15.png (Capture d’écran 2016-03-10 à 16.27.15.png)
+2016-03-10 17:14:14	gilleslegall	je l’ai retraduit en debut d’apres midi
+2016-03-10 17:42:15	nunus	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0RTEKENR/capture_d_____cran_2016-03-10____17.41.54.png (Capture d’écran 2016-03-10 à 17.41.54.png)
+2016-03-10 17:50:39	clothilde	Traduction : dans aviato_account : il y a une chaine qui s'appelle "rien" pouvez-vous la supprimer svp ?
+2016-03-10 17:56:51	nunus	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0RTK7NJK/capture_d_____cran_2016-03-10____17.56.17.png (Capture d’écran 2016-03-10 à 17.56.17.png)
+2016-03-10 17:57:19	demikl	pas crédible, yann :wink:
+2016-03-10 17:57:38	nunus	nan mais c’est l’autre connard de Transifouette qui déconne à plein tube !
+2016-03-10 17:58:02	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RTCDWJJ/lien_d_import___lengow.png (Lien_d_import___Lengow.png) and commented: ya peut etre un lien
+2016-03-10 17:58:34	demikl	ca sent la fin de journée :smile:
+2016-03-10 17:58:40	vincent	:+1:
+2016-03-10 18:00:35	jeremiequinson	Quand Ludo distribue les mots de passe Rocket  https://media.giphy.com/media/VTxmwaCEwSlZm/giphy.gif
+2016-03-10 18:00:35		https://media.giphy.com/media/VTxmwaCEwSlZm/giphy.gif
+2016-03-10 18:01:13	gstoffer	XD
+2016-03-10 18:03:13	clothilde	aviato_feed : une chaîne source est en français : recherche > à supprimer
+2016-03-10 18:07:22	⤷	Trad : FR : 100%
+2016-03-10 18:09:55	fabiendosse	Ok
+2016-03-10 18:17:49	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RU2MYBC/lien_d_import___lengow.png (Lien_d_import___Lengow.png) and commented: @jeremiequinson: on dirait qu’un bout de la chaine n’est pas internationnalisé
+2016-03-10 18:28:50	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RTZLLF2/catalogues___lengow.png (Catalogues___Lengow.png) and commented: non internationnalisé
+2016-03-10 18:29:51	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RU00JD6/import___lengow.png (Import___Lengow.png) and commented: non internationnalisé
+2016-03-10 18:34:18	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0RTX8N6T/catalogues___lengow.png (Catalogues___Lengow.png) and commented: non internationnalisé
+2016-03-10 18:42:01	fabiendosse	Maison ? [:joy:1]
+2016-03-10 18:46:18	vincent	:heart: [:+1:1]
+2016-03-11 09:12:21	gilleslegall	Benoit proposait Chalet, c pas mal aussi :simple_smile: (edited)
+2016-03-11 09:28:13	benoit.beaulieu	:smile:
+2016-03-11 09:45:35	gilleslegall	On peut plus changer la langue du profil utilisateur sur l'inte
+2016-03-11 09:47:18	fabiendosse	Je viens testé en prod et sur l’inté, ça fonctionne avec mon compte.
+2016-03-11 09:48:03	mathieusabourin	c’est quoi ton compte ?
+2016-03-11 09:49:21	benoit.beaulieu	PapyGillou36 :simple_smile: [:fuckyou:1]
+2016-03-11 09:52:41	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0S3YJ9KK/capture_d_____cran_2016-03-11____09.52.12.png (Capture d’écran 2016-03-11 à 09.52.12.png)
+2016-03-11 09:55:53	fabiendosse	36 c’est pas si vieux...
+2016-03-11 10:00:16	gilleslegall	PornProd mailto:g.legall@gmail.com (g.legall@gmail.com) (edited)
+2016-03-11 10:20:05	mathieusabourin	effectivement y a l’air d’y avoir une couille dans le potage
+2016-03-11 10:22:36	⤷	et ça semble viendre de zendesk
+2016-03-11 10:22:38	⤷	je corrige
+2016-03-11 10:58:48	⤷	done
+2016-03-11 11:16:33	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S4DC129/import___lengow.png (Import___Lengow.png)
+2016-03-11 11:16:35	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S443DGU/informations_du_profil___lengow.png (Informations_du_profil___Lengow.png)
+2016-03-11 11:16:37	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S4D58CF/catalogue_248___lengow.png (Catalogue_248___Lengow.png)
+2016-03-11 11:59:10	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S35M52P/diffuseurs_associ__s_de_catalogue_248___lengow.png (Diffuseurs_associés_de_Catalogue_248___Lengow.png)
+2016-03-11 11:59:13	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S4SKBU1/alertes_-_performance___lengow.png (Alertes_-_Performance___Lengow.png)
+2016-03-11 12:19:55	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S4RC1DK/centraliser_les_commandes___lengow.png (Centraliser_les_commandes___Lengow.png)
+2016-03-11 12:19:58	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S51RXBL/acceptation_des_commandes___lengow.png (Acceptation_des_commandes___Lengow.png)
+2016-03-11 12:26:30	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S3ALKUK/socloz___lengow.png (Socloz___Lengow.png)
+2016-03-11 16:08:55	⤷	mathieusabourin uploaded a file: https://lengow.slack.com/files/mathieusabourin/F0S606GP8/__erreur_404___lengow.png (__Erreur_404___Lengow.png)
+2016-03-11 16:21:20	jeremie_b	#ramonez-moi (edited)
+2016-03-11 16:54:05	nunus	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0S6F2K3Q/capture_d_____cran_2016-03-11____16.53.02.png (Capture d’écran 2016-03-11 à 16.53.02.png)
+2016-03-11 17:25:44	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0S6S7MSA/importer_les_statistiques___lengow.png (Importer_les_statistiques___Lengow.png)
+2016-03-11 17:31:28	jeremie_b	Si y’a un chelou… c’est ouat !
+2016-03-11 17:38:29	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0S5NEPEX/choisir_un_diffuseur___lengow___lengow.png (Choisir_un_diffuseur___Lengow___Lengow.png)
+2016-03-11 17:38:57		gilleslegall commented on gilleslegall's file https://lengow.slack.com/files/gilleslegall/F0S5NEPEX/choisir_un_diffuseur___lengow___lengow.png (Choisir_un_diffuseur___Lengow___Lengow.png): T’as pas le compas dans l’oeil bibi :simple_smile:
+2016-03-11 17:39:57	jeremie_b	c’est où ça ?
+2016-03-11 17:40:05	gilleslegall	Chois d’un diffuseurs
+2016-03-11 17:40:58	jeremie_b	bah, j’avais corrigé ça tout à l'heure
+2016-03-11 17:41:17	gilleslegall	peut etre un coup de gulp
+2016-03-11 17:44:32	jeremie_b	ah bah commit pas passé
+2016-03-11 17:46:02	⤷	ça devrait être bon
+2016-03-15 17:31:28	benoit.dahirel	benoit.dahirel has joined the group
+2016-03-15 17:31:53	clothilde	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0ST2AVDG/unnamed.png (unnamed.png) and commented: C'est lé1- Le wording est à réviser :s
+2016-03-15 17:31:53		2- Ce n'est pas le Help Center qui devait apparaître en premier lieu, puis le Le support plus mis en avant que le Help Center
+2016-03-15 17:31:53		Le Help Center qui n'est pas du tout intégré dans la page de la solution
+2016-03-16 10:25:20	nunus	Yes, je pense que c’est temporaire le temps qu’on intégre le help center directement dans la soluce
+2016-03-16 10:25:31	⤷	et on est d’accord, le support (ticketing) vient dans un second temps

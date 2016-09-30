@@ -1,0 +1,407 @@
+2015-10-14 14:53:06	gilleslegall	Hello, je t’ai attribué un ticket, n’hésites surtout pas à venir me voir car c’est pas forcement évident :simple_smile:
+2015-10-14 14:53:41	mael	Yep je commence tout de suite :simple_smile:
+2015-10-29 14:58:48	gilleslegall	t’as pu voir le pb de drapeau quand on saisit avec l’autocomplete dans les droplists ?
+2015-10-29 15:00:20	mael	je regarde ca tout de suite
+2015-10-29 15:00:28	gilleslegall	okey thx
+2015-10-29 15:21:11	mael	y'avais un fichier non commité
+2015-10-29 15:21:17	⤷	c'est ok normalement maintenant
+2015-10-29 15:21:21	gilleslegall	cool merci
+2015-11-06 17:14:48	⤷	FR : 5603eb2b32131c014b83232c
+2015-11-06 17:15:10	⤷	UK : 5603eb4e32131c5c4f8322aa
+2015-11-06 17:17:48	mael	https://en-v3.knowledgeowl.com/help/remote-auth?
+2015-11-06 17:20:31	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0E1D18VD/class.helpgizmo.php (class.helpgizmo.php)
+2015-11-06 17:20:39	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0E1D1B1D/get-ip.php (get-ip.php)
+2015-11-06 17:20:40	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0E1CTGRX/remote-auth.php (remote-auth.php)
+2015-11-06 17:20:40	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0E192A4D/script.js (script.js)
+2015-11-06 17:20:42	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0E1CTHEV/set-cookie.php (set-cookie.php)
+2015-11-06 17:30:59	⤷	API key : 54b5338afe775acb49000029
+2015-11-09 09:56:14	mael	aviato.lengow.local/app_dev.php/knowledgeowl/remote-auth
+2015-11-12 14:31:26	⤷	http://rocket.v3-inte.poney.io/app_dev.php/helpguizmo
+2016-01-25 18:22:48	⤷	CONVERSIONLIST("EAN", {"3700512400547":"Adam Kimmel","3700512401032":"Adam Kimmel","3700512401230":"ACNE STUDIOS","3700512400370":"Adidas by Rick Owens","3700512400837":"Adidas by Raf Simons","3700512401001":"ADIDAS","3700512401117":"ADIDAS","3700512400790":"ADIDAS","3700512400578":"ADIDAS","3700512400981":"ADIDAS","3700512401186":"ADIDAS","3700512400646":"ADIDAS","3700512400592":"ADIDAS","3700512400936":"ADIDAS","3700512401254":"ADIDAS","3700512401216":"ADIDAS","3700512401247":"ADIDAS","3700512401261":"ADIDAS","3700512400653":"ADIDAS","3700512401179":"ADIDAS","3700512401148":"ADIDAS","3700512401315":"ADIDAS","3700512400530":"ADIDAS","3700512401094":"ADIDAS","3700512400660":"ADIDAS","3700512401346":"ADIDAS","3700512400516":"ADIDAS","3700512401278":"ADIDAS","3700512400912":"ADIDAS","3700512401025":"ADIDAS","3700512401322":"ADIDAS","3700512400585":"ADIDAS","3700512401193":"ADIDAS","3700512401162":"ADIDAS","3700512401209":"ADIDAS","3700512401285":"ADIDAS","3700512401087":"ADIDAS","3700512401223":"ADIDAS","3700512400998":"ADIDAS","3700512400820":"ADIDAS","3700512400639":"ADIDAS","3700512400905":"ADIDAS","3700512400844":"ADIDAS","3700512401155":"ADIDAS","3700512401308":"ADIDAS","3700512401292":"ADIDAS","3700512400608":"ADIDAS"})
+2016-02-02 17:07:13	gilleslegall	c chelou le feed 1077
+2016-02-02 17:07:25	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0L38EACF/match_your_product_attributes___lengow.png (Match_your_product_attributes___Lengow.png)
+2016-02-02 17:07:46	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0L35EV1R/brand___lengow.png (brand___Lengow.png)
+2016-02-02 17:08:10	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0L34NEAH/brand___lengow.png (brand___Lengow.png)
+2016-02-02 17:09:42	mael	C’est bien une conversion list mais la regle s’affiche pas sur les values ?
+2016-02-02 17:10:49	gilleslegall	oui et il met le nom du champ marchand utilisé dans la droplist de l’ecran de matching
+2016-02-02 17:10:54	⤷	chelou
+2016-02-02 17:11:08	⤷	MANUFACTURER
+2016-02-02 17:13:44	mael	Je vais regarder
+2016-02-02 17:13:52	⤷	c’est pas normal ouais
+2016-02-04 17:42:05	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0L9U53FA/categorize_your_products___lengow.png (Categorize_your_products___Lengow.png)
+2016-03-07 14:16:50	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0QRXCY3F/-.js (Untitled)
+2016-03-07 14:17:32	mael	header ou footer ?
+2016-03-24 09:57:28	⤷	T’as essayé sur quel feed/champs pour le ticket AV-2096 ?
+2016-04-11 15:10:00	⤷	J’ai une erreur de trad sur la partie apps
+2016-04-11 15:10:33	⤷	mael uploaded a file: https://lengow.slack.com/files/mael/F0ZKEQRRQ/capture_d_____cran_2016-04-11____15.10.04.png (Capture d’écran 2016-04-11 à 15.10.04.png)
+2016-04-11 15:10:55	⤷	c’est traduit comme : Aucune app installée
+2016-04-11 15:18:56	gilleslegall	je corrige
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	  image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	  ports:
+2016-05-23 14:47:43	⤷	   - "9000:9000"
+2016-05-23 14:47:43	⤷	  links:
+2016-05-23 14:47:43	⤷	   - db
+2016-05-23 14:47:43	⤷	  environment:
+2016-05-23 14:47:43	⤷	   - SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	  volumes_from:
+2016-05-23 14:47:43	⤷	   - plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	  image: postgres:latest
+2016-05-23 14:47:43	⤷	  volumes_from:
+2016-05-23 14:47:43	⤷	    - datadb
+2016-05-23 14:47:43	⤷	  environment:
+2016-05-23 14:47:43	⤷	   - POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	   - POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	  image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	  Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	  User lengow
+2016-05-24 15:37:57	⤷	  IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	  IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	  ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	sebastien.charret	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-02-01 11:51:53	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F0KUJPNNL/sonar_task.xml (sonar task)
+2016-02-01 11:53:41	sebastien.charret	merci
+2016-05-19 17:26:35	mael	mael uploaded a file: https://lengow.slack.com/files/mael/F1A874ZSM/-.xml (Untitled)
+2016-05-23 14:47:42	sebastien.charret	sonarqube:
+2016-05-23 14:47:42	⤷	image: sonarqube:5.5-alpine
+2016-05-23 14:47:42	⤷	ports:
+2016-05-23 14:47:43	⤷	- "9000:9000"
+2016-05-23 14:47:43	⤷	links:
+2016-05-23 14:47:43	⤷	- db
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- plugins
+2016-05-23 14:47:43	⤷	db:
+2016-05-23 14:47:43	⤷	image: postgres:latest
+2016-05-23 14:47:43	⤷	volumes_from:
+2016-05-23 14:47:43	⤷	- datadb
+2016-05-23 14:47:43	⤷	environment:
+2016-05-23 14:47:43	⤷	- POSTGRES_USER=sonar
+2016-05-23 14:47:43	⤷	- POSTGRES_PASSWORD=sonar
+2016-05-23 14:47:43	⤷	datadb:
+2016-05-23 14:47:43	⤷	image: postgres
+2016-05-23 17:55:38	⤷	Tu as reussi?
+2016-05-23 17:55:55	mael	Non je suis retourné sur un ticket
+2016-05-23 17:55:59	⤷	je continue demain
+2016-05-23 17:56:03	sebastien.charret	ok
+2016-05-23 17:56:07	mael	quand j’aurais un peu de temps
+2016-05-23 17:56:15	⤷	mais je vois pas pourquoi ca marche pas !
+2016-05-23 17:56:41	sebastien.charret	je ne sais pas si sur mac il manque quelque chose
+2016-05-23 17:56:55	⤷	une instruction a rajouter en plus
+2016-05-23 17:57:24	mael	peut-être mais j’ai l’impression que ca vient plus d’un soucis de postgres
+2016-05-23 17:57:30	⤷	je regarde demain :wink:
+2016-05-23 17:57:33	sebastien.charret	Ok
+2016-05-23 17:57:36	⤷	:)
+2016-05-23 18:09:20	mael	https://www.youtube.com/watch?v=NfW-OJRkAHk
+2016-05-23 18:09:20		JoBlo Movie Trailers: 22 Jump Street Official Movie Clip - Undercover (2014) Channing Tatum, Jonah Hill HD (https://www.youtube.com/watch?v=NfW-OJRkAHk)
+2016-05-24 10:01:24	sebastien.charret	\query pati
+2016-05-24 10:01:31	⤷	oups
+2016-05-24 15:37:57	⤷	Host testing_vm
+2016-05-24 15:37:57	⤷	Hostname 10.100.1.78
+2016-05-24 15:37:57	⤷	User lengow
+2016-05-24 15:37:57	⤷	IdentityFile /home/sebastien/.ssh/testing_vm
+2016-05-24 15:37:57	⤷	IdentitiesOnly yes
+2016-05-24 15:37:57	⤷	ServerAliveInterval 60
+2016-05-24 15:38:28	⤷	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw4RiZRXjChOyBjXknbtRmYhzmDz7HRAJFTWbazbf79tPeNErvHJ25fWeid+ocIgEcDD05JghTILrrHL2yy0DZdwGdBAD2WoyB+JEHhpjTTCXp9+ISJnM6aZdWUVjpx01QR5vGlphhrIKfN3Kbw7hAZ0EoIBCafbDQ6bUNvAbVnqWTTMBwr1NJ+jGUWMY2CS35ceMEPy6mgjK7X2vQh0KdPk1XwjTBUR4BAkl6LXrWep70ZZ5yHJEFxeoC9p+ViYT7UDDY6GT7AqtnMm1GYYoPhQcyZgh3KlZWpGSv/bb70Mlb5/Utf7im3d5pzagzuuGErZhgOb8sb6uY/DwZi3wt sebastien@sebastien-desktop
+2016-07-28 11:01:36	⤷	https://lengow.atlassian.net/wiki/display/MKTP/Workflow%3A+Marketplace+V3+implementation?preview=/23592975/32997412/test.png
+2016-09-13 16:59:14	mael	SELECT * 
+2016-09-13 16:59:14		FROM common.account a 
+2016-09-13 16:59:14		WHERE a.settings->>'id_client' IS NULL;

@@ -1,0 +1,1055 @@
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group
+2015-02-26 09:59:51	ludo	ludo has joined the group
+2015-02-26 09:59:51	benoit.beaulieu	benoit.beaulieu has joined the group
+2015-02-26 09:59:51	clement.r	clement.r has joined the group
+2015-02-26 09:59:51	floriane_a	floriane_a has joined the group
+2015-02-26 09:59:51	gstoffer	gstoffer has joined the group
+2015-02-26 09:59:51	jbmartin	jbmartin has joined the group
+2015-02-26 09:59:51	junior	junior has joined the group
+2015-02-26 09:59:51	kevin.gaillard	kevin.gaillard has joined the group
+2015-02-26 09:59:51	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-02-26 09:59:52	mathieusabourin	mathieusabourin has joined the group
+2015-02-26 09:59:52	romainlepolh	romainlepolh has joined the group
+2015-02-26 09:59:52	samirboulil	samirboulil has joined the group
+2015-02-26 09:59:52	odubasque	odubasque has joined the group
+2015-02-26 09:59:52	sylvain	sylvain has joined the group
+2015-02-26 09:59:52	sebastien.charret	sebastien.charret has joined the group
+2015-02-26 09:59:52	vincent	vincent has joined the group
+2015-02-26 09:59:52	thomas.loiret	thomas.loiret has joined the group
+2015-06-19 10:39:06	samirboulil	http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761
+2015-06-19 10:39:06		Why you should almost never use "is" in Python - Lerner Consulting Blog (http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=d8b4c085a0-Python_Weekly_Issue_196_June_18_2015&utm_medium=email&utm_term=0_9e26887fc5-d8b4c085a0-312739761)
+2015-06-19 10:39:06		It’s really tempting, when you first start to use Python, to use “is” rather than “==”.  It’s a bit more readable, and it feels like it should just work, especially when you’re dealing with integers. In a language that uses “or” and “and” instead of “||” and “&&”, it seems logical to use “is” instead … Continue reading Why you should almost never use “is” in Python
+2015-06-23 11:45:26	kevin.gaillard	J'ai un problème d'encodage, peut être que l'un d'entre vous pourra m'aiguiller dessus : J'ai un flux source encoder en UTF-8 qui est propre. Lors de la création du flux sur BigBrother, il a bien été enregistré en tant que flux en UTF-8. Pourtant dès qu'il est passé dans la moulinette de l'indexation, les informations enregistrées en BDD ne sont plus du tout en UTF-8 et les caractères spéciaux sont pétés.
+2015-06-23 11:46:18	⤷	Une idée ?
+2015-06-23 11:47:27	floriane_a	il doit être réencodé en iso avant d’être enregistré en bdd
+2015-06-23 11:47:39	sebastien.charret	Traitement pendant l'indexation?
+2015-06-23 11:48:09	⤷	Genre si c'est du python 2.xx
+2015-06-23 11:48:28	⤷	probleme d'unicode - string?
+2015-06-23 11:51:32	kevin.gaillard	@floriane_a:  c'est ce qui semble se passer effectivement.
+2015-10-02 10:35:49	sarahtouati	sarahtouati has joined the group
+2015-10-29 14:29:10	romainlepolh	romainlepolh has left the group
+2015-11-12 12:08:41	pierrebasile	pierrebasile has joined the group
+2015-12-21 14:42:58	clementvouhe	clementvouhe has joined the group
+2016-06-07 18:08:54	pauline.martel	pauline.martel has joined the group
+2016-06-07 18:09:05	alexandre	alexandre has joined the group

@@ -1,0 +1,122 @@
+2016-04-26 09:40:21	-->	sebastien.charret has joined the channel
+2016-04-26 09:40:21	-->	laeti has joined the channel
+2016-04-26 09:40:21	-->	sebastien.charret has joined the channel
+2016-04-26 09:40:21	-->	laeti has joined the channel
+2016-04-26 09:40:21	-Connector-	Issue https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9) was just linked to this channel.
+2016-04-26 09:57:23	unknown	Coucou
+2016-04-26 09:57:40	unknown	je n'avais pas exactement le meme submission id
+2016-04-26 09:57:44	unknown	51239016916
+2016-04-26 09:57:53	unknown	mais j'ai eu un retour
+2016-04-26 09:58:05	unknown	<?xml version="1.0" encoding="UTF-8"?> <AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"> 	<Header> 		<DocumentVersion>1.02</DocumentVersion> 		<MerchantIdentifier>M_CROCBOOK_79114444</MerchantIdentifier> 	</Header> 	<MessageType>ProcessingReport</MessageType> 	<Message> 		<MessageID>1</MessageID> 		<ProcessingReport> 			<DocumentTransactionID>51239016916</DocumentTransactionID> 			<StatusCode>Complete</StatusCode> 			<ProcessingSummary> 				<MessagesProcessed>5</MessagesProcessed> 				<MessagesSuccessful>0</MessagesSuccessful> 				<MessagesWithError>5</MessagesWithError> 				<MessagesWithWarning>0</MessagesWithWarning> 			</ProcessingSummary> 			<Result> 				<MessageID>1</MessageID> 				<ResultCode>Error</ResultCode> 				<ResultMessageCode>25</ResultMessageCode> 				<ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription> 			</Result> 			<Result> 				<MessageID>2</MessageID> 				<ResultCode>Error</ResultCode> 				<ResultMessageCode>25</ResultMessageCode> 				<ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription> 			</Result> 			<Result> 				<MessageID>3</MessageID> 				<ResultCode>Error</ResultCode> 				<ResultMessageCode>25</ResultMessageCode> 				<ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription> 			</Result> 			<Result> 				<MessageID>4</MessageID> 				<ResultCode>Error</ResultCode> 				<ResultMessageCode>25</ResultMessageCode> 				<ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription> 			</Result> 			<Result> 				<MessageID>5</MessageID> 				<ResultCode>Error</ResultCode> 				<ResultMessageCode>25</ResultMessageCode> 				<ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription> 			</Result> 		</ProcessingReport> 	</Message> </AmazonEnvelope>
+2016-04-26 10:29:44	laeti	Hello ! Pour le client 4811 ?
+2016-04-26 10:31:29	⤷	Ok donc tout est en erreur...
+2016-04-26 10:34:21	unknown	Oui
+2016-04-26 10:34:35	unknown	je viens de mettre en place une modif pour logguer ce que l'on envoi
+2016-04-26 10:34:53	unknown	tu auras les order_id + les donnees
+2016-04-26 10:34:56	laeti	Ok top !
+2016-04-26 10:43:58	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50412 (SUPPMKTP-9)
+2016-04-26 10:49:15	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50415 (SUPPMKTP-9)
+2016-04-27 10:35:02	laeti	Hello !
+2016-04-27 10:35:12	⤷	On a beaucoup de tickets sur la non expédition des commandes AZ
+2016-04-27 10:35:25	⤷	Les CDATA sont acceptés par AZ ?
+2016-04-27 10:48:16	sebastien.charret	De base oui
+2016-04-28 10:24:43	⤷	H\ello. Tu as des retours positifs?
+2016-04-28 10:24:49	laeti	Yes !
+2016-04-28 10:24:54	⤷	Tout a bien fonctionné :simple_smile:
+2016-04-28 10:31:21	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50831 (SUPPMKTP-9)
+2016-04-28 10:34:18	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50833 (SUPPMKTP-9)
+2016-04-28 11:00:39	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50839 (SUPPMKTP-9)
+2016-04-26 09:40:21	-->	sebastien.charret has joined the channel
+2016-04-26 09:40:21	-->	laeti has joined the channel
+2016-04-26 09:40:21	-Connector-	Issue https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9) was just linked to this channel.
+2016-04-26 09:57:22	Slack Connector for JIRA Cloud :]	Coucou
+2016-04-26 09:57:40	Slack Connector for JIRA Cloud :]	je n'avais pas exactement le meme submission id
+2016-04-26 09:57:44	Slack Connector for JIRA Cloud :]	51239016916
+2016-04-26 09:57:52	Slack Connector for JIRA Cloud :]	mais j'ai eu un retour
+2016-04-26 09:58:05	Slack Connector for JIRA Cloud :]	<?xml version="1.0" encoding="UTF-8"?> <AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">     <Header>         <DocumentVersion>1.02</DocumentVersion>         <MerchantIdentifier>M_CROCBOOK_79114444</MerchantIdentifier>     </Header>     <MessageType>ProcessingReport</MessageType>     <Message>         <MessageID>1</MessageID>         <ProcessingReport>             <DocumentTransactionID>51239016916</DocumentTransactionID>             <StatusCode>Complete</StatusCode>             <ProcessingSummary>                 <MessagesProcessed>5</MessagesProcessed>                 <MessagesSuccessful>0</MessagesSuccessful>                 <MessagesWithError>5</MessagesWithError>                 <MessagesWithWarning>0</MessagesWithWarning>             </ProcessingSummary>             <Result>                 <MessageID>1</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>2</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>3</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>4</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>5</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>         </ProcessingReport>     </Message> </AmazonEnvelope>
+2016-04-26 10:29:44	laeti	Hello ! Pour le client 4811 ?
+2016-04-26 10:31:29	⤷	Ok donc tout est en erreur...
+2016-04-26 10:34:20	Slack Connector for JIRA Cloud :]	Oui
+2016-04-26 10:34:35	Slack Connector for JIRA Cloud :]	je viens de mettre en place une modif pour logguer ce que l'on envoi
+2016-04-26 10:34:52	Slack Connector for JIRA Cloud :]	tu auras les order_id + les donnees
+2016-04-26 10:34:56	laeti	Ok top !
+2016-04-26 10:43:58	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50412 (SUPPMKTP-9)
+2016-04-26 10:49:15	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50415 (SUPPMKTP-9)
+2016-04-27 10:35:02	laeti	Hello !
+2016-04-27 10:35:12	⤷	On a beaucoup de tickets sur la non expédition des commandes AZ
+2016-04-27 10:35:25	⤷	Les CDATA sont acceptés par AZ ?
+2016-04-27 10:48:16	sebastien.charret	De base oui
+2016-04-28 10:24:43	⤷	H\ello. Tu as des retours positifs?
+2016-04-28 10:24:49	laeti	Yes !
+2016-04-28 10:24:54	⤷	Tout a bien fonctionné :simple_smile:
+2016-04-28 10:31:21	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50831 (SUPPMKTP-9)
+2016-04-28 10:34:18	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50833 (SUPPMKTP-9)
+2016-04-28 11:00:39	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50839 (SUPPMKTP-9)
+2016-04-29 10:33:08	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50954 (SUPPMKTP-9)
+2016-04-29 10:35:13	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50955 (SUPPMKTP-9)
+2016-04-29 11:21:01	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50969 (SUPPMKTP-9)
+2016-05-04 16:23:38	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=51593 (SUPPMKTP-9: #commande #amazon Expédition non reçue par Amazon)
+2016-05-04 16:23:38		-- This notification was sent from JIRA SUPPMKTP-9 to all linked Zendesk tickets by Sébastien CHARRET.--
+2016-05-04 16:23:38		Hello,
+2016-05-04 16:23:38		Peux tu me dire si la cliente ne rencontre plus de probleme?
+2016-05-04 16:23:38		Pour que je puisse fermer le ticket.
+2016-05-04 16:23:38		@++
+2016-05-04 18:41:16	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=51648 (SUPPMKTP-9: #commande #amazon Expédition non reçue par Amazon)
+2016-05-04 18:41:16		-- Cette notification a été envoyée à partir du ticket Zendesk #52794 à tous les problèmes JIRA liés par Laetitia Grit. --
+2016-05-04 18:41:16		Hello,
+2016-05-04 18:41:16		Tu peux fermer le ticket :)
+2016-05-04 18:41:16		La cliente n'a pas changé son transporteur mais ça fonctionne pour les autres donc pas de souci.
+2016-05-04 18:41:16		Laeti
+2016-05-04 20:16:03	-Connector-	*Clement IDELON* edited an Issue  https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9)
+2016-05-04 20:16:03		#commande #amazon Expédition non reçue par Amazon (https://lengow.atlassian.net/browse/SUPPMKTP-9)
+2016-05-04 20:16:03		Status En attente retour Support → In Progress
+2016-05-04 20:16:15	-Connector-	*Clement IDELON* edited an Issue  https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9)
+2016-05-04 20:16:15		#commande #amazon Expédition non reçue par Amazon (https://lengow.atlassian.net/browse/SUPPMKTP-9)
+2016-05-04 20:16:15		Resolution Done
+2016-05-04 20:16:15		Status In Progress → Done
+2016-04-26 09:40:21	-Connector-	Issue https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9) was just linked to this channel.
+2016-04-26 09:57:22	Slack Connector for JIRA Cloud :]	Coucou
+2016-04-26 09:57:40	Slack Connector for JIRA Cloud :]	je n'avais pas exactement le meme submission id
+2016-04-26 09:57:44	Slack Connector for JIRA Cloud :]	51239016916
+2016-04-26 09:57:52	Slack Connector for JIRA Cloud :]	mais j'ai eu un retour
+2016-04-26 09:58:05	Slack Connector for JIRA Cloud :]	<?xml version="1.0" encoding="UTF-8"?> <AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">     <Header>         <DocumentVersion>1.02</DocumentVersion>         <MerchantIdentifier>M_CROCBOOK_79114444</MerchantIdentifier>     </Header>     <MessageType>ProcessingReport</MessageType>     <Message>         <MessageID>1</MessageID>         <ProcessingReport>             <DocumentTransactionID>51239016916</DocumentTransactionID>             <StatusCode>Complete</StatusCode>             <ProcessingSummary>                 <MessagesProcessed>5</MessagesProcessed>                 <MessagesSuccessful>0</MessagesSuccessful>                 <MessagesWithError>5</MessagesWithError>                 <MessagesWithWarning>0</MessagesWithWarning>             </ProcessingSummary>             <Result>                 <MessageID>1</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>2</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>3</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>4</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>             <Result>                 <MessageID>5</MessageID>                 <ResultCode>Error</ResultCode>                 <ResultMessageCode>25</ResultMessageCode>                 <ResultDescription>We are unable to process the XML feed because one or more items are invalid. Please re-submit the feed.</ResultDescription>             </Result>         </ProcessingReport>     </Message> </AmazonEnvelope>
+2016-04-26 10:29:44	laeti	Hello ! Pour le client 4811 ?
+2016-04-26 10:31:29	⤷	Ok donc tout est en erreur...
+2016-04-26 10:34:20	Slack Connector for JIRA Cloud :]	Oui
+2016-04-26 10:34:35	Slack Connector for JIRA Cloud :]	je viens de mettre en place une modif pour logguer ce que l'on envoi
+2016-04-26 10:34:52	Slack Connector for JIRA Cloud :]	tu auras les order_id + les donnees
+2016-04-26 10:34:56	laeti	Ok top !
+2016-04-26 10:43:58	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50412 (SUPPMKTP-9)
+2016-04-26 10:49:15	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50415 (SUPPMKTP-9)
+2016-04-27 10:35:02	laeti	Hello !
+2016-04-27 10:35:12	⤷	On a beaucoup de tickets sur la non expédition des commandes AZ
+2016-04-27 10:35:25	⤷	Les CDATA sont acceptés par AZ ?
+2016-04-27 10:48:16	sebastien.charret	De base oui
+2016-04-28 10:24:43	⤷	H\ello. Tu as des retours positifs?
+2016-04-28 10:24:49	laeti	Yes !
+2016-04-28 10:24:54	⤷	Tout a bien fonctionné :simple_smile:
+2016-04-28 10:31:21	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50831 (SUPPMKTP-9)
+2016-04-28 10:34:18	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50833 (SUPPMKTP-9)
+2016-04-28 11:00:39	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50839 (SUPPMKTP-9)
+2016-04-29 10:33:08	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50954 (SUPPMKTP-9)
+2016-04-29 10:35:13	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50955 (SUPPMKTP-9)
+2016-04-29 11:21:01	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=50969 (SUPPMKTP-9)
+2016-05-04 16:23:38	-Connector-	sebastien.charret commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=51593 (SUPPMKTP-9: #commande #amazon Expédition non reçue par Amazon)
+2016-05-04 16:23:38		-- This notification was sent from JIRA SUPPMKTP-9 to all linked Zendesk tickets by Sébastien CHARRET.--
+2016-05-04 16:23:38		Hello,
+2016-05-04 16:23:38		Peux tu me dire si la cliente ne rencontre plus de probleme?
+2016-05-04 16:23:38		Pour que je puisse fermer le ticket.
+2016-05-04 16:23:38		@++
+2016-05-04 18:41:16	-Connector-	*Zendesk for JIRA * commented on Issue https://lengow.atlassian.net/browse/SUPPMKTP-9?focusedCommentId=51648 (SUPPMKTP-9: #commande #amazon Expédition non reçue par Amazon)
+2016-05-04 18:41:16		-- Cette notification a été envoyée à partir du ticket Zendesk #52794 à tous les problèmes JIRA liés par Laetitia Grit. --
+2016-05-04 18:41:16		Hello,
+2016-05-04 18:41:16		Tu peux fermer le ticket :)
+2016-05-04 18:41:16		La cliente n'a pas changé son transporteur mais ça fonctionne pour les autres donc pas de souci.
+2016-05-04 18:41:16		Laeti
+2016-05-04 20:16:03	-Connector-	*Clement IDELON* edited an Issue  https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9)
+2016-05-04 20:16:03		#commande #amazon Expédition non reçue par Amazon (https://lengow.atlassian.net/browse/SUPPMKTP-9)
+2016-05-04 20:16:03		Status En attente retour Support → In Progress
+2016-05-04 20:16:15	-Connector-	*Clement IDELON* edited an Issue  https://lengow.atlassian.net/browse/SUPPMKTP-9 (SUPPMKTP-9)
+2016-05-04 20:16:15		#commande #amazon Expédition non reçue par Amazon (https://lengow.atlassian.net/browse/SUPPMKTP-9)
+2016-05-04 20:16:15		Resolution Done
+2016-05-04 20:16:15		Status In Progress → Done

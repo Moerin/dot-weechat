@@ -1,0 +1,232 @@
+2015-08-19 16:26:14	vincent	vincent has joined the group
+2015-08-19 16:26:14	kevinmajor-domo	kevinmajor-domo has joined the group
+2015-08-19 16:26:14	thomas.loiret	thomas.loiret has joined the group
+2015-08-19 16:26:14	ludo	ludo has joined the group
+2015-08-19 16:26:30	vincent	dites moi s’il faut ajouter d’autres personnes
+2015-08-19 16:48:14	nunus	nunus has joined the group
+2015-08-19 17:01:10	vincent	C’est possible d’avoir le lien vers l’api v3 ?
+2015-08-19 17:01:13	⤷	svp
+2015-08-19 17:02:03	kevinmajor-domo	http://10.100.1.242:8082/api/orders/
+2015-08-19 17:02:13	⤷	C'est l'adresse sans passer par le middleware
+2015-08-19 17:02:56	vincent	merci
+2015-08-19 17:07:40	ludo	Je vais intégrer l'api au niveau du middleware
+2015-08-19 17:09:23	vincent	ok
+2015-08-19 17:12:23	gilleslegall	gilleslegall has joined the group
+2015-08-19 21:56:18	jeremie_b	jeremie_b has joined the group
+2015-08-24 12:35:17	vincent	Est ce que pour logitics, on peut prendre en référence la nouvelle API, et le middleware se débrouille tout seul pour retourner les anciens formats au nouveau ?
+2015-08-25 10:47:51	kevinmajor-domo	@vincent: API orders de nouveau UP :simple_smile:
+2015-08-25 10:48:50	vincent	merci, le service est très rapide
+2015-08-25 10:48:53	⤷	:wink:
+2015-08-25 10:49:00	⤷	5 étoiles
+2015-08-25 10:49:10	kevinmajor-domo	:wink:
+2015-08-25 10:50:09	⤷	Par contre on travaille sur l'import de commande en ce moment, donc les données risquent de bouger avec les updates qu'on fait
+2015-08-25 10:50:20	⤷	mais ca ne devrait pas te poser de problème :simple_smile:
+2015-08-25 10:50:45	vincent	pas de souci, la je regarde plus la structure
+2015-08-25 10:50:54	kevinmajor-domo	yep ok
+2015-08-28 14:46:17	⤷	@vincent: je viens de fixer les filtres des dates
+2015-08-28 14:46:31	⤷	La liste des filtres :
+2015-08-28 14:46:33	⤷	fields = ['marketplace_order_id', 'marketplace_status',
+2015-08-28 14:46:33		                  'imported_at', 'imported_from', 'imported_to',
+2015-08-28 14:46:33		                  'updated_at', 'updated_from', 'updated_to']
+2015-08-28 15:49:19	vincent	au niveau de la pagination ça se passe comment ?
+2015-08-28 15:51:02	⤷	au niveau de l'api
+2015-08-28 15:54:14	kevinmajor-domo	?page= l'argument
+2015-08-28 15:54:23	⤷	c bien çà que tu veux ?
+2015-08-28 15:54:55	vincent	ok, mais il y a combien d’orders dans une page ?
+2015-08-28 15:54:55	kevinmajor-domo	Si la page existe pas, tu as une erreur de retournée
+2015-08-28 15:55:22	⤷	dans chaque page tu as :
+2015-08-28 15:55:23	⤷	"count": 14,
+2015-08-28 15:55:23		    "next": null,
+2015-08-28 15:55:23		    "previous": null,
+2015-08-28 15:55:33	⤷	count: nombre d'item total
+2015-08-28 15:55:39	⤷	next = url de la page suivante
+2015-08-28 15:55:49	⤷	previous = url de la page précédente
+2015-08-28 15:56:05	⤷	par défaut on a 100 items
+2015-08-28 15:56:14	⤷	?page_size
+2015-08-28 15:56:19	nunus	@kevinmajor-domo: @vincent Les gars, j’ai encore pas mal de questions sur Logistics … Est-ce que vous avez un peu de temps à me consacrer ? … :frog:
+2015-08-28 15:56:22	kevinmajor-domo	te permet de changer la taille d'une page
+2015-08-28 16:00:29	vincent	@nunus: 16h30 ?
+2015-08-28 16:03:05	nunus	perfecto !
+2015-08-28 16:04:17	ludo	je viendrai aussi si besoin
+2015-08-28 16:04:54	nunus	Base de réflexion (j’ai pas tout mis pour pas embrouiller tout le monde pour le moment - notamment la gestion du multi-colisage)
+2015-08-28 16:04:54	⤷	https://projects.invisionapp.com/share/AX40YWAVB#/screens/98390879
+2015-08-28 16:04:54		Click here to view the project `logistics` (https://projects.invisionapp.com/share/AX40YWAVB#/screens/98390879)
+2015-08-28 16:04:54		Sales Detail Completed 2 Copy 10
+2015-08-28 16:06:51	vincent	c’est beau
+2015-08-28 16:33:24	nunus	chauds la bite?
+2015-08-28 16:34:27	vincent	yes
+2015-08-28 16:35:56	nunus	Viendez à ma place quand vous êtes radis
+2015-08-28 16:37:06	vincent	ok
+2015-08-31 11:33:08	⤷	comment s’appellent les repo git des api ?
+2015-08-31 11:34:11	kevinmajor-domo	lesquels ?
+2015-08-31 11:34:15	⤷	V3 commandes ?
+2015-08-31 11:34:19	vincent	api-marketplace ?
+2015-08-31 11:34:20	⤷	oui
+2015-08-31 11:34:29	kevinmajor-domo	pymarketplaces
+2015-08-31 11:34:33	vincent	merci
+2015-08-31 11:34:43	kevinmajor-domo	c'est sur la branche v3
+2015-08-31 11:34:46	vincent	y a aussui celle des marketplaces dedans ?
+2015-08-31 11:34:48	⤷	ok
+2015-08-31 11:34:53	kevinmajor-domo	yes
+2015-08-31 11:35:19	vincent	cool
+2015-08-31 11:35:20	⤷	merci
+2015-08-31 11:59:51	⤷	est ce que dans les filtres de l’api il y a une notion de tri ?
+2015-08-31 12:00:09	⤷	par exemple par ordre de date ?
+2015-08-31 12:00:18	⤷	ASC ou DESC ? (edited)
+2015-08-31 12:03:35	kevinmajor-domo	essaie avec ?ordering=nom_champs
+2015-08-31 12:03:41	⤷	sinon faudra qu'on l'intègre
+2015-08-31 12:08:39	vincent	faudra l’intégrer :wink:
+2015-08-31 12:08:59	kevinmajor-domo	okip ^^
+2015-08-31 12:10:19	⤷	si tu veux voir comment çà fonctionnera : http://www.django-rest-framework.org/api-guide/filtering/
+2015-08-31 12:10:19		http://www.django-rest-framework.org/api-guide/filtering/
+2015-08-31 12:10:19		Django, API, REST, Filtering
+2015-08-31 16:29:35	nunus	Les gars, deux questions
+2015-08-31 16:29:53	⤷	Un marchand peut cancel un product / commande et ensuite ne pas refund ?
+2015-08-31 16:30:13	⤷	Est-ce que finalement faut pas d’abord refund une commande pour la cancel ? …
+2015-08-31 16:30:45	⤷	Je trouve ça raide naïvement mais je connais pas assez bien le fonctionnement des MTKP
+2015-08-31 16:33:17	kevinmajor-domo	on peut annuler une commande sans la refund ouai
+2015-08-31 16:33:28	⤷	c'est la question ?
+2015-08-31 16:33:50	nunus	oui mais du coup est-ce qu’on laisse la possibilité au marchand de le faire ? … ou alors chaque marketplace à sa propre politique à ce sujet ?
+2015-08-31 16:34:14	⤷	(même si le marchand n’a aucun interet à faire ça on est d’accord)
+2015-08-31 16:38:52	kevinmajor-domo	certaines marketplace ne permettent pas du tout le refund. IL s'agit donc de deux action bien différentes.
+2015-08-31 17:05:32	nunus	Dernière question, est-ce que sur un produit en refund, il peut refund un montant libre ou alors c’est forcèment le montant de l’article ?
+2015-08-31 17:05:52	⤷	montant libre = risque d’erreur accru bien entendu
+2015-08-31 17:06:03	⤷	(pour moi c’est pas à faire)
+2015-08-31 17:06:17	⤷	(c’est comme pour le montant du refund des commandes à mon sens, on doit pas le permettre)
+2015-08-31 17:13:45	vincent	je suis de ton avis
+2015-08-31 17:17:22	kevinmajor-domo	ca dépend des marketplaces :simple_smile:
+2015-08-31 17:17:40	⤷	mais je suis de l'avis d'imposer aux marchands de rembourser le prix exact des produits
+2015-08-31 17:17:46	⤷	même si c libre
+2015-08-31 17:17:49	nunus	ouais on fait ça !
+2015-08-31 17:18:00	⤷	ca change rien pour moi mais dans la logique c’est plus fluide je trouve
+2015-08-31 17:18:17	kevinmajor-domo	yep
+2015-08-31 17:18:30	nunus	nunus uploaded a file: https://lengow.slack.com/files/nunus/F09TJFCMR/sales_detail_completed_2_copy_17.png (sales_detail_completed 2 copy 17.png)
+2015-08-31 17:18:57	⤷	un truc de ce gout là
+2015-08-31 17:19:25	kevinmajor-domo	ca m'a l'air bien :simple_smile:
+2015-08-31 17:19:32	nunus	fl3x :simple_smile:
+2015-08-31 17:19:49	kevinmajor-domo	pour le shipment, tu comptes faire comme le refund ?
+2015-08-31 17:20:00	⤷	ou c'est à part avec l'histoire des colis ?
+2015-08-31 17:20:40	nunus	j’ai pas compris … :smile:
+2015-08-31 17:20:52	⤷	ah le fait de mettre ton code de tracking ?
+2015-08-31 17:20:58	kevinmajor-domo	yep
+2015-08-31 17:21:09	nunus	ca va avec l’histoire du multi-colisage
+2015-08-31 17:21:35	⤷	je pense que je le ferai plus tard (sauf si c’est prioritaire pour vous)
+2015-08-31 17:22:00	⤷	mais je pense pas faire pareil
+2015-08-31 17:22:05	⤷	(a vue de nez)
+2015-08-31 17:22:49	kevinmajor-domo	Ok
+2015-08-31 17:23:07	⤷	non pas méga urgent, ya déjà de quoi faire :simple_smile:
+2015-08-31 17:23:34	nunus	yes, mais promis c’est noté et gardé sous le coude !
+2015-09-02 11:08:38	vincent	@kevinmajor-domo: J’ai besoin d’informations supplémentaires (ou d’avoir un moyen de les récupérer) dans l’api des orders : nom de la marketplace, univers, nom du client final, pays du client, nombre d’items dans la commande
+2015-09-02 11:08:40	⤷	merci
+2015-09-02 11:10:55	kevinmajor-domo	@vincent: Il va y avoir une modification sur la BDD la semaine prochaine. La relation qui nous permettra de t'afficher la marketplace concernée par la commande sera alors disponible. Dès que nous l'avons, nous modifierons l'API au plus vite.
+2015-09-02 11:11:45	⤷	Si tu veux, tu peux mettre en place un google sheets en place avec les champs qu'il manque ?
+2015-09-02 11:12:04	⤷	On aura une liste bien définie comme çà :simple_smile:
+2015-09-02 11:31:43	vincent	je viens de commencer un fichier
+2015-09-02 11:31:43	⤷	https://docs.google.com/a/lengow.com/spreadsheets/d/1IHFoOKEQy9-T2XekqNuXHrkinUk3ojpmOHkGDrGb5WY/edit?usp=sharing
+2015-09-02 11:31:52	⤷	une feuille par api peut etre pas mal
+2015-09-02 11:32:06	⤷	les colonnes peuvent être modifiées
+2015-09-07 16:13:56	kevinmajor-domo	new
+2015-09-07 16:13:56		waiting_acceptance
+2015-09-07 16:13:56		accepted
+2015-09-07 16:13:56		preparing_shipment
+2015-09-07 16:13:56		waiting_shipment
+2015-09-07 16:13:56		shipped
+2015-09-07 16:13:56		refuse
+2015-09-07 16:13:56		canceled
+2015-09-07 16:13:56		refunding
+2015-09-07 16:13:56		refunded
+2015-09-07 16:13:56		Workflow normal :
+2015-09-07 16:13:56		new -> waiting_acceptance -> accepted -> preparing_shipment -> waiting_shipment -> shipped
+2015-09-07 16:13:56		Workflow annulation marchand :
+2015-09-07 16:13:56		new -> refuse -> refunding -> refunded
+2015-09-07 16:13:56		Workflow annulation marketplace :
+2015-09-07 16:13:56		new -> canceled
+2015-09-07 16:14:04	⤷	@nunus: @vincent
+2015-09-07 16:14:16	nunus	:heart:
+2015-09-07 16:14:42	vincent	:thumbsup:
+2015-09-07 16:14:43	kevinmajor-domo	Juste "preparing_shipment" à voir pour renommer
+2015-09-07 16:14:46	ludo	nickel michel
+2015-09-07 18:01:29	nunus	plus ça va plus j’y comprends rien aux états de commande …
+2015-09-07 18:01:32	⤷	on en reparle demain
+2015-09-07 18:04:31	kevinmajor-domo	ok
+2015-09-07 18:04:51	nunus	car pour moi si on veut tout détailler il manque encore des états ...
+2015-09-07 18:07:16	⤷	Merde il m’a crée un snippet le con
+2015-09-07 18:07:30	⤷	New order from Amazon
+2015-09-07 18:07:30		Waiting order by Amazon
+2015-09-07 18:07:30		Waiting your acceptance
+2015-09-07 18:07:30		Accepted by you
+2015-09-07 18:07:30		Waiting acceptation by Amazon
+2015-09-07 18:07:30		Accepted by Amazon
+2015-09-07 18:07:30		Waiting your shipment
+2015-09-07 18:07:30		Accepted shipment by you
+2015-09-07 18:07:30		Waiting shipment by Amazon
+2015-09-07 18:07:30		Accepted by Amazon
+2015-09-07 18:07:30		Shipped
+2015-09-07 18:10:00	⤷	Il faut que les waiting se mutent en accepted une fois terminées
+2015-09-07 18:11:10	⤷	Waiting shipment by amazon devient Shipment Accepted by Amazon qui devient Shipped du coup
+2015-09-07 18:13:30	kevinmajor-domo	Les status accepted et waiting_shipment ont été fait pour les états intérmédiaires durant lesquels les marchands n'ont rien à faire
+2015-09-07 18:14:20	⤷	Je ne pense que ce soit utile dans ajouté des nouveaux sachant que ceux que tu souhaite ajouté seront automatiquement passé à chaque fois au final
+2015-09-07 18:14:34	⤷	Dans :
+2015-09-07 18:14:36	⤷	Waiting acceptation by Amazon
+2015-09-07 18:14:36		Accepted by Amazon
+2015-09-07 18:14:36		Waiting your shipment
+2015-09-07 18:14:47	⤷	Accepted by Amazon et Waiting your shipment  est la même chose
+2015-09-07 18:15:01	nunus	yes, et c’est justement ça qui m'embête
+2015-09-07 18:15:11	⤷	on comprend plus rien entre le workflow marchand et le workflow marketplace :disappointed:
+2015-09-07 18:15:38	kevinmajor-domo	Hum, demain j'essaie de te sortir un exemple concret
+2015-09-07 18:15:44	⤷	ca sera plus simple pour toi
+2015-09-07 18:15:48	nunus	faut que j’essaie de regrouper les états ensemble pour rendre ça digeste pour le marchand
+2015-09-07 18:15:57	⤷	ouais carrèment
+2015-09-07 18:16:02	kevinmajor-domo	je te ferais correspondre status Lengow / status marketplaces avec un workflow à côté
+2015-09-07 18:16:07	nunus	cool :simple_smile:
+2015-09-07 18:16:08	⤷	:heart:
+2015-09-08 10:10:35	kevinmajor-domo	Mise à jours des status lengow :
+2015-09-08 10:10:42	⤷	kevinmajor-domo uploaded a file: https://lengow.slack.com/files/kevinmajor-domo/F0A9QQH6F/-.txt (Untitled)
+2015-09-08 11:06:16	nunus	Bon ben proto alors :simple_smile: Je vous laisse le regarder à tête reposée et on se cale ensuite avec Jerem pour rendre ça beau et rutilan
+2015-09-08 11:06:26	⤷	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0A9SQLUQ/sales_detail_completed_2_copy_23.png (sales_detail_completed 2 copy 23.png)
+2015-09-08 11:19:41	vincent	c’est beau ce que vous faites
+2015-09-08 11:19:58	⤷	des pointillés c’est mieux qu’un fondu ?
+2015-09-08 11:20:14	nunus	aucune idée ! C’est le père Biron qui mettra ça en musique !
+2015-09-08 11:20:19	⤷	connard de graphiste
+2015-09-08 11:21:42	vincent	^^
+2015-09-08 11:40:58	jeremie_b	a voir si c’est possible déjà sans en faire des tartines en js :wink:
+2015-09-08 11:41:38	gilleslegall	pfff t’es le meilleur
+2015-09-08 11:41:48	⤷	un coup de css et c bon
+2015-09-08 11:41:51	jeremie_b	non mais tout est faisable
+2015-09-08 11:42:10	⤷	faut juste pas que ça ralentisse les pages
+2015-09-08 11:42:46	gilleslegall	ah oui c vrai il faut vraiment qu’elles ralentissent :simple_smile:
+2015-09-08 11:43:00	⤷	c serait cool
+2015-09-08 11:43:04	⤷	ux toussa
+2015-09-08 11:43:10	jeremie_b	Le js c’est comme la crème fraiche, c’est bon, tu fais tout avec, mais c’est mieux quand c’est allégé.
+2015-09-08 12:05:15	nunus	Et les deux autres workflows
+2015-09-08 12:05:27	⤷	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0A9VCYSC/sales_detail_completed_2_copy_24.png (sales_detail_completed 2 copy 24.png)
+2015-09-08 12:05:29	⤷	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0A9VMDTQ/sales_detail_completed_2_copy_25.png (sales_detail_completed 2 copy 25.png)
+2015-09-08 12:05:36	⤷	j’ai mis à jour le workflow normal aussi
+2015-09-08 12:05:47	⤷	nunus uploaded a file: https://lengow.slack.com/files/nunus/F0A9VMGPQ/sales_detail_completed_2_copy_23.png (sales_detail_completed 2 copy 23.png)
+2015-09-08 12:20:16	vincent	:heart:
+2015-09-08 12:20:53	kevinmajor-domo	:thumbsup:
+2015-09-08 15:51:12	⤷	http://10.100.1.242:8082/api/marketplaces/
+2015-09-08 15:51:15	⤷	@vincent:
+2015-09-08 15:51:25	⤷	Je te l'ai rendu fonctionnel mais il n'y a pas les données
+2015-09-08 15:53:07	vincent	merci
+2015-09-08 16:54:58	kevinmajor-domo	Voilà tout est en prod
+2015-09-08 16:55:04	⤷	Tu as de quoi faire maintenant :stuck_out_tongue:
+2015-09-08 16:55:13	⤷	n'hésites pas si tu as besoin d'autres info
+2015-09-08 16:56:15	⤷	J'ai mis à jour le doc partagé
+2015-09-16 15:11:58	⤷	@vincent: MEP faite
+2015-09-16 15:12:08	⤷	les filtres devraient etre bon desormais
+2015-09-16 15:12:21	vincent	merci
+2015-09-18 11:49:55	kevinmajor-domo	J'ai ajouté des commandes ebay_fr et amazon dans l'API
+2015-09-18 11:50:07	⤷	elles sont totalement factices (edited)
+2015-09-18 11:50:22	⤷	@ludo:
+2015-09-18 11:50:38	⤷	@vincent: Regarde si ca pète pas de ton côté du coup :simple_smile:
+2015-09-18 11:51:55	ludo	?
+2015-09-18 11:53:16	kevinmajor-domo	Bah tu voulais pas de commandes ebay et amazon ?
+2015-09-18 11:54:59	ludo	Oui mais c'était les ":" sans rien derrière
+2015-09-18 11:56:32	vincent	c’est écrit avec du citron, il faut que tu passes une flamme sur l'écran
+2015-09-18 11:56:54	⤷	Ca pete pas de mon coté c’est bon
+2015-09-30 15:06:28	kevinmajor-domo	Mise en preprod faite ! http://10.100.1.242:8082/api/orders/?account_id=155
+2015-09-30 15:11:52	vincent	merci
+2016-01-21 10:32:21	nunus	CAY NUL !
+2016-01-21 10:44:20	vincent	C toa ké nul
+2016-01-21 10:50:44	nunus	way :smile:

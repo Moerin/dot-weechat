@@ -1,0 +1,317 @@
+2015-03-04 11:07:23	clothilde	https://fr.helpgizmo.com/help/
+2015-03-05 17:39:13	⤷	Hello ! J'ai 2 questions sur Slack : Est-ce qu'on peut faire des channels avec des droits d'écriture restreints à certaines personnes et la possibilité pour tous de lire les messages ?
+2015-03-05 17:39:15	⤷	et
+2015-03-05 17:39:40	⤷	Est-ce qu'on peut ordonner les channels dans des dossiers ?
+2015-03-05 17:54:33	gilleslegall	non pour les 2
+2015-03-05 17:59:36	clothilde	:disappointed:
+2015-03-09 17:24:13	⤷	Est-ce qu'il faut que je passe sur toutes les pages de la solution dans toutes les langues ?
+2015-03-09 17:25:44	gilleslegall	je pense que toutes les langues doivent être identiques à l'anglais
+2015-03-09 17:26:13	⤷	au pire si jamais tu peux vérifier cette hypothèse sur 1 ou 2 langues
+2015-03-09 17:32:33	clothilde	ça ne peux pas renvoyer sur autre chose que de l'anglais de toute façon...
+2015-03-09 17:32:56	⤷	comment est ce que je fais pour renvoyer vers des sous-parties ?
+2015-03-09 17:33:30	⤷	le lien présent dans le sommaire ne "crée" pas une nouvelle url pour aller au paragraphe souhaité
+2015-03-09 17:55:06	⤷	il n'y avait pas eu de pastille avec un point d'interrogation d'ajouté dans l'onglet des Règles autos ?
+2015-03-10 16:45:32	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F03V91Z42/pasted_image_at_2015_03_10_04_45_pm.png (je n'arrive pas à accéder à la base :)
+2015-03-10 16:45:43	⤷	vous avez tout cassé ?
+2015-03-10 16:54:27	gilleslegall	on est repassé sur http://fr.helpgizmo.com (fr.helpgizmo.com) en attendant une solution pour le certificat SSL
+2015-03-10 16:54:46	clothilde	ok
+2015-03-10 16:55:11	⤷	du coup, je t'ai fait la correspondance des pages, mais ne peux pas vérifier si les urls sont ok
+2015-03-10 16:56:26	gilleslegall	ca devrait le faire :simple_smile:
+2015-03-13 10:24:44	⤷	http://kontestapp.com/fr/applications/quiz
+2015-03-13 10:24:44		Kontest - Quiz application for Facebook, websites and mobile devices (http://kontestapp.com/fr/applications/quiz)
+2015-03-13 10:24:44		Reach your marketing target with questions illustrated with videos, photos or songs.
+2015-03-13 10:31:20	clothilde	il semblerait que Google fasse ce que je souhaite
+2015-03-13 10:31:21	⤷	http://www.cloud34.fr/2013/12/creer-un-qcm-avec-correction-automatique-et-envoie-du-resultat.html#prettyPhoto
+2015-03-13 10:31:21		Créer un QCM avec correction automatique et envoie du résultat - Cloud34 (http://www.cloud34.fr/2013/12/creer-un-qcm-avec-correction-automatique-et-envoie-du-resultat.html#prettyPhoto)
+2015-03-13 10:31:21		Réaliser un QCM dans Google Formulaire avec envoie des réponses et correction automatique.
+2015-03-13 10:36:51	⤷	et sinon, j'ai trouvé ça ausssi : http://kwiksurveys.com/documentation/#creatingquiz
+2015-03-13 10:36:51		http://kwiksurveys.com/documentation/#creatingquiz
+2015-03-13 10:36:51		Create, publish and develop free online surveys. Simple and easy to use, with effective results in real time.
+2015-03-23 14:46:04	⤷	Hello ! Est-ce que tu sais où on en est sur HelpGizmo ?
+2015-03-23 14:56:47	gilleslegall	Ba on a quelques styles à refaire depuis leur maj de vendredi et on attend la création du certification SSL
+2015-03-23 14:58:59	clothilde	et tu penses que ce sera bon quand ?
+2015-03-23 14:59:34	gilleslegall	je sais pas pour le certificat, par contre pour les styles je commence tout juste
+2015-03-23 14:59:49	⤷	de mon côté j'espère que ce sera ok demain soir
+2015-03-23 15:00:11	clothilde	ok !
+2015-03-23 15:00:23	⤷	merci !
+2015-03-25 10:53:08	gilleslegall	Yo, tu peux jeter un oeil à http://beta.poney.io (beta.poney.io) pour checker si tout est ok avant de mettre en prod ?
+2015-03-25 10:53:22	⤷	c'est les meme acces que la solution
+2015-03-25 10:53:37	⤷	normalement tous les liens sont déployés
+2015-03-25 11:29:04	clothilde	sur la version EN, il faudrait modifier le titre :
+2015-03-25 11:29:12	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0455RY4P/pasted_image_at_2015_03_25_11_29_am.png (Pasted image at 2015-03-25, 11:29 AM)
+2015-03-25 11:30:01	⤷	Welcome to Lengow's help center!
+2015-03-25 11:30:01		This is a collection of resources for Lengow. Browse the table of contents to the left, search for content, or check out the most popular and recently updated articles below.
+2015-03-25 11:30:29	⤷	j'ai un doute sur le titre, je ne sais jamais quand mettre le 's
+2015-03-25 11:33:23	gilleslegall	Au pire tu le remplaces :simple_smile:
+2015-03-25 11:37:16	clothilde	je viens de tomber sur un tableau qui déconne : https://supportlengow.zendesk.com/hc/en-us/requests/new
+2015-03-25 17:42:53	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F045ESMD1/pasted_image_at_2015_03_25_05_42_pm.png (Pasted image at 2015-03-25, 5:42 PM) and commented: j'ai parfois ce message (pas toujours), tu sais d'où ça vient ?
+2015-03-27 09:53:51	⤷	https://en.helpgizmo.com/help/article/link/orders-v2
+2015-03-27 10:13:01	⤷	ça ne fonctionne pas en la re-créant
+2015-04-10 09:40:36	⤷	pendant que j'y pense, peux-tu donner le même niveau de droits à Xav qu'à Team support stp ?
+2015-04-10 09:53:21	gilleslegall	c’était deja le cas :simple_smile:
+2015-04-10 09:57:18	clothilde	:simple_smile: parfait !
+2015-04-10 09:57:20	⤷	merci !
+2015-04-23 12:07:36	⤷	je n'avais qu'une fenetre d'ouverte :s
+2015-04-23 12:07:49	⤷	c'est bien ctrl F5 pour supprmer les cookies ?
+2015-04-23 12:08:04	gilleslegall	non ca ca supprime que le cache
+2015-04-23 12:08:25	⤷	il faut que tu ailles dans les settings de ton navigateur
+2015-04-23 12:08:45	⤷	ou plus simple une fenetre en navigation privee
+2015-04-23 12:11:04	clothilde	ça fonctionne correctement en navigation privée :simple_smile:
+2015-05-06 10:18:43	⤷	Hello Gilles ! quand je télécharge le pdf de ce tuto sur HG, j'ai des images cassées : https://fr.helpgizmo.com/help/article/link/soldes-mistergooddeal
+2015-05-06 10:19:07	⤷	est-ce que tu as la meme chose de ton coté ? tu sais comment on peut corriger ça ?
+2015-05-26 14:45:20	⤷	Hello :simple_smile: J'aurais besoin de ton avis sur un éléments de Help Gizmo. Est-ce que tu peux me dire quand tu as un moment stp ?
+2015-05-26 16:07:47	gilleslegall	Hello, si c’est pas trop urgent, je dirais milieu de semaine pro
+2015-05-26 16:08:02	⤷	sauf si c rapide :wink:
+2015-05-26 16:10:41	clothilde	c'est rapide :simple_smile:
+2015-05-26 17:10:06	gilleslegall	c bon articles n’apparait plus
+2015-05-26 17:14:01	clothilde	merci !
+2015-05-26 17:14:03	⤷	:simple_smile:
+2015-07-21 10:29:52	⤷	tu devrais avoir reçu le mail
+2015-07-21 10:30:01	gilleslegall	merci
+2015-07-21 10:32:10	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F07UEMBLH/lengow_blanc_hg.png (lengow_blanc_hg.png)
+2015-07-21 10:36:02	clothilde	aaaaah ! C'est beaucoup mieux comme ça !
+2015-07-21 10:36:05	⤷	Merci :simple_smile:
+2015-07-21 10:57:07	gilleslegall	un peu gros mais c’est bcp mieux
+2015-07-21 11:03:53	clothilde	t'as quoi au dessus du i (Help) dans la barre de droite
+2015-07-21 11:03:56	⤷	?
+2015-08-10 12:12:34	⤷	Hello,
+2015-08-10 12:13:54	⤷	est-ce qu'il serait possible d'avoir la définition du champ, quand on rentre dans une règle avancée ? on cherche de plus en plus à y renseigner  les valeurs valides ou des liens vers les listes de valeurs valides. ça pourrait être utile ici
+2015-08-10 12:15:11	⤷	également, dans le matching champs, est-ce qu'il sera possible d'avoir des liens cliquables dans la définition des champs ? on vient de mettre ça en place sur la V2 pour certaines MP, ça serait fort utile de conserver ça sur la V3
+2015-08-10 14:42:04	⤷	la fonction UPPERWORD tu l'écris toute attachée ?
+2015-08-10 14:42:13	⤷	ou comme ça : UPPER_WORD ?
+2015-08-10 14:42:13	gilleslegall	yes
+2015-08-10 14:42:18	clothilde	merci !
+2015-08-10 14:42:24	gilleslegall	tout attaché
+2015-08-10 14:45:24	clothilde	Comment pourra-t-on vider un champ ?
+2015-08-10 14:45:33	⤷	on avait la fonction "devient vide"
+2015-08-10 14:46:01	gilleslegall	on trouvera un equivalent
+2015-08-10 14:46:09	⤷	clear
+2015-08-10 14:46:14	⤷	un truc dans le genre
+2015-08-10 14:48:30	clothilde	ok
+2015-08-10 14:49:13	⤷	je me suis aussi notée la fonction conversion-code_iso2code_iso
+2015-08-10 14:49:27	⤷	je ne la retrouve pas
+2015-08-10 14:49:43	gilleslegall	CONV($prix,usd)
+2015-08-10 14:50:37	clothilde	comment sais-tu à partir de quelle devise faire la conversion ?
+2015-08-10 14:50:44	gilleslegall	ah ah bonne question :simple_smile:
+2015-08-10 14:50:48	clothilde	:simple_smile:
+2015-08-10 14:51:04	gilleslegall	en fait à l’étape du pre matching, on demande le champs prix et juste à côté la devise du catalogue produit
+2015-08-10 14:51:31	⤷	non encore developpé :wink:
+2015-08-10 14:51:57	clothilde	parfait ! Merci !
+2015-08-10 14:52:55	gilleslegall	ca a l’avantage d’enlever un parametre et surtout de pouvoir afficher le bon symbole monétaire dans la page de consultation du catlogue produit (edited)
+2015-08-10 14:53:59	clothilde	bien vu !
+2015-08-10 14:55:36	⤷	est-ce que les fonctions et opérateurs seront traduits ?
+2015-08-10 14:55:48	⤷	ou est ce que ça restera en anglais quelque soit la langue ?
+2015-08-10 14:56:28	gilleslegall	opérateurs oui
+2015-08-10 14:56:35	⤷	fonctions je ne sais pas trop
+2015-08-10 14:56:43	⤷	on peut le faire techniquement
+2015-08-10 14:57:09	clothilde	j'ai spontanément travaillé sur des opérateurs en FR et sur les fonctions en anglais !
+2015-08-10 15:14:33	⤷	a tout hasard : est-ce que vous aviez pensé à faire dans les règles une sorte de IF NOT
+2015-08-10 15:14:48	⤷	si mon produit est X alors Y sinon Z
+2015-08-11 15:31:35	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F08U0Q9F1/pasted_image_at_2015_08_11_03_31_pm.png (Pasted image at 2015-08-11, 3:31 PM)
+2015-08-13 14:53:28	⤷	Hello ! Est-ce que le principe d'auto-save sera appliqué à toutes les pages ?
+2015-08-13 14:54:07	gilleslegall	non, pour l’instant matching simple, sur les règles/exclusions et le matching categorie (edited)
+2015-08-13 14:54:27	⤷	sur les ecrans de profils, comptes, injections il y aura un bouton save
+2015-08-13 15:10:02	clothilde	ok ! merci
+2015-08-13 16:18:00	⤷	Au moment de la migration, est-ce qu'on sait si pour les marchands, tout est dépublié puis republié sur les diffuseurs ou est-ce transparent ?
+2015-08-13 16:19:22	gilleslegall	je ne suis pas sûr mais je pense qu’on va faire une redirection entre les URL pour éviter ca. Comme ca ils n’auront pas à changer leur URL  de flux diffuseur (edited)
+2015-08-13 16:19:58	clothilde	ok !
+2015-08-17 09:45:27	⤷	Hello ! J'ai envoyé un message à Transifex pour avoir plus d'infos sur leurs services par rapport à nos besoins en trad (Help Center et Vidéos). leur commercial me propose un call cette semaine. Est-ce que tu veux y participer ?
+2015-08-17 09:52:56	gilleslegall	Hello, je pense qu’en première intention il n’y aura pas forcement besoin de moi
+2015-08-17 10:33:24	clothilde	ça roule :simple_smile:
+2015-08-17 10:33:32	⤷	des questions à poser néamoins ?
+2015-09-09 14:50:17	gilleslegall	http://aviato.v3.poney.io/app_demo.php (aviato.v3.poney.io/app_demo.php)
+2015-09-17 16:55:04	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0AS68RAT/helplengow_-_fr.png (HelpLengow_-_FR.png) and commented: voila en speed
+2015-09-17 17:01:26	clothilde	Validé ! je cite : " Top top top !"
+2015-09-17 17:01:29	⤷	:simple_smile:
+2015-09-17 17:07:03	gilleslegall	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0AS4KXGC/helplengow_-_fr.png (HelpLengow_-_FR.png)
+2015-09-17 17:12:41	clothilde	j'avais bien envie de mettre un smiley
+2015-09-17 17:16:58	⤷	voilà les textes
+2015-09-17 17:16:59	⤷	Oops!
+2015-09-17 17:16:59		To reach this page, connect you to your Lengow account.
+2015-09-17 17:16:59		If you are not yet one of our client, ask for a demo to discover our offer.
+2015-09-17 17:16:59		See you soon!
+2015-09-17 17:16:59		****
+2015-09-17 17:16:59		Oups!
+2015-09-17 17:16:59		Pour accéder à cette page, connectez-vous à Lengow.
+2015-09-17 17:16:59		Si vous n'êtes pas encore client, demandez une démo pour découvrir notre offre.
+2015-09-17 17:16:59		A tout de suite !
+2015-09-17 17:17:13	⤷	j'ai apporté un tantinet de ponctuation sur la version FR
+2015-09-17 17:27:19	gilleslegall	c’est déployé avec la ponctuation sur en et fr
+2015-09-17 17:31:33	clothilde	nikel !
+2015-09-18 18:17:42	⤷	https://app.knowledgeowl.com/kb/article/id/54e2a8b17cb8291d392e0776/aid/55fbbb7232131c814069452c
+2015-09-22 11:51:59	⤷	Hey ! Je m'étais noté de te reposer cette question : Quand est-ce qu'on ouvre les nouvelles bases de connaissances ?
+2015-09-22 14:27:33	⤷	wizz!
+2015-09-22 14:28:11	gilleslegall	Ba quand tu veux :simple_smile: on est pas a 350€ près
+2015-09-22 14:29:35	clothilde	:)$
+2015-09-23 17:51:18	⤷	Hey ! est-ce que c'est bien d'accord que Mathieu travaillera avec nous (la formation) sur la vidéo "How Lengow works" ?
+2015-09-23 17:52:05	gilleslegall	Oui par contre il y a le market qui pousse aussi pour des integrations sur le site corp donc il va falloir jongler entre tout ça
+2015-09-23 17:52:41	⤷	mais oui j’aimerais qu’il nous apporte son savoir faire la dessus
+2015-09-23 17:53:23	clothilde	Je te laisse gérer ses prios ! Dis moi quand je pourrai lui montrer mon merveilleux script :simple_smile:
+2015-09-23 17:53:59	gilleslegall	ca marche
+2015-09-23 17:54:13	clothilde	merci !
+2015-09-23 17:57:40	⤷	je viens de découvrir que Knowledge Owl a revu sa grille tarifaire
+2015-09-23 17:57:58	⤷	on payera en fonction du nombre de bases ouvertes #goodnews
+2015-09-23 17:58:46	gilleslegall	mais aussi par user
+2015-09-23 18:00:47	clothilde	oui avec un mini de 10 users
+2015-09-24 10:32:32	⤷	Hello :simple_smile: j'ai upgradé notre compte KnowledgeOwl,  j'aurais besoin de voir avec toi pour la création des 2 nouvelles bases. Tu peux me dire quand tu as un moment stp ?
+2015-10-30 14:13:32	gilleslegall	http://www.institut-repere.com/La-Process-Communication/caracteristiques-des-6-types-de-personnalite.html
+2015-10-30 14:13:32		http://www.institut-repere.com/La-Process-Communication/caracteristiques-des-6-types-de-personnalite.html
+2015-10-30 14:13:32		Découvrir le modèle de la Process Communication - 2ème partie : les caractéristiques des six types de personnalité - un article de Jean-Luc MONSEMPES.
+2015-10-30 14:18:06	⤷	http://www.16-types.fr/
+2015-11-16 17:12:15	clothilde	Hello, il semblerait que les mails que j'envoie sur mailto:support.technique@lengow.com (support.technique@lengow.com) ne créent pas automatiquement un ticket jira. Est-ce qu'on peut vérifier ça ensemble stp ?
+2015-11-20 11:22:37	⤷	https://en.helpgizmo.com/help/article/link/prepare-rue-du-commerce-changes
+2015-11-20 12:09:06	⤷	nope ça ne fonctionne pas sur FR :disappointed:
+2015-11-20 17:28:46	⤷	aurais-tu reçu des notifications de Litmos par email ?
+2015-11-20 17:51:26	⤷	aymeric t'a envoyé la copie d'écran et le lien
+2015-11-20 17:51:57	⤷	c'est chelou, pour lui sur Mozilla, on a ça et en passant sur Chrome ça passe bien
+2015-11-20 17:52:06	⤷	Fabien, lui me dit le contraire...
+2015-11-20 17:52:20	⤷	comment ça se fait que c'est incertain comme ça ?
+2015-11-23 15:30:26	gilleslegall	Hey vous êtes à peu près à jour pour les contenus V3 sur le help center ?
+2015-11-23 15:35:43	clothilde	il me semble que oui
+2015-12-07 09:20:50	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0G22QWH4/capture_d___e__cran_2015-12-07_a___09.19.55.png (Capture d’écran 2015-12-07 à 09.19.55.png) and commented: Il y a ça comme message. Peut etre qu'il y a moyen de le faire fonctionner quand meme ?
+2015-12-07 09:27:51	⤷	est-ce que ce que doit faire Sylvain, couvre aussi les lien renseignés dans la solution sur les différentes pages de fonctionnalités ? (au niveau des petites pastilles bleues ?
+2015-12-07 09:28:15	gilleslegall	les liens sont deja cablés
+2015-12-07 09:28:30	⤷	et sur le v2 il va tout changer
+2015-12-07 09:30:24	clothilde	ok , merci :simple_smile:
+2015-12-15 10:45:35	gilleslegall	Hello,
+2015-12-15 10:45:59	⤷	dans litmos tu sais si on peut mettre une iframe pour encapsuler un article du help center ?
+2015-12-15 10:46:48	clothilde	c'est une question de ta part?
+2015-12-15 10:46:51	⤷	:simple_smile:
+2015-12-15 10:47:03	⤷	je crois que tu m'avais dit que ce serait possible
+2015-12-15 10:47:25	gilleslegall	ah ok donc si je suis coherent avec moi-meme c possible :stuck_out_tongue:
+2015-12-15 10:48:03	clothilde	lol :simple_smile:
+2015-12-15 10:48:58	⤷	attend ! non, pas besoin d'encapsuler, ya juste à mettre le lien du help center dans la plateforme lors de la création du module
+2015-12-15 10:49:29	⤷	par contre, on avait parlé d'iframe ou qqc du genre pour masquer la table des matières sur la gauche
+2015-12-15 10:54:25	gilleslegall	au fait c’est le sommaire en haut ou la toc a gauche que tu veux virer ?
+2015-12-15 10:54:52	⤷	ok je viens de relire ton post :simple_smile:
+2015-12-15 10:54:58	⤷	#fatigue
+2015-12-15 10:55:14	clothilde	:simple_smile:
+2015-12-17 15:32:01	⤷	tu pourras me donner accès à rocket et me montrer comment ça fonctionne stp ?
+2015-12-17 15:37:18	gilleslegall	http://rocket.lengow.io (rocket.lengow.io)
+2015-12-17 15:37:25	⤷	romain.leplolh
+2015-12-17 15:37:31	⤷	Lengow%44
+2015-12-17 15:40:46	⤷	Diffuseurs < Default fields
+2015-12-17 15:40:51	⤷	Onglet Matching (edited)
+2015-12-17 15:48:35	clothilde	Merci !
+2015-12-17 17:28:06	⤷	bon ben c'est pareil pour cdiscount et criteo les 3ème et 4eme diffuseurs les plus utilisés chez nous :simple_smile:
+2015-12-17 17:32:47	⤷	c'est normal que lorsque je cherche "Criteo EU" j'obtiens : "EU retargeting" ?
+2015-12-17 17:32:54	⤷	les diffuseurs ont été renommés ?
+2016-01-11 10:36:27	⤷	V3 - Test matching Catégorie
+2016-02-11 14:45:44	⤷	clothilde uploaded a file: https://lengow.slack.com/files/clothilde/F0LUT8YP8/capture_d___e__cran_2016-02-11_a___14.44.13.png (Capture d’écran 2016-02-11 à 14.44.13.png) and commented: Hello Gillou, j'aimerais bien avoir ton avis sur ce type d'article dont on parlait hier. Il s'agit des articles mettant en avant les correspondances entre les fonctionnalités de la V2 et celles de la V3.
+2016-02-11 14:46:10	⤷	Penses-tu qu'on doive/puisse mettre des screenshots avant/après ?
+2016-02-11 16:00:20	gilleslegall	pourquoi pas
+2016-02-17 10:32:12	clothilde	https://fr.knowledgeowl.com/help/article/link/demande-flux
+2016-02-17 10:32:21	⤷	http://go.litmos.com/course/204966/module/992312?moduletoken=XI4~F4s8nNZGDDEXJvrrwvA4S5AKJ-cLySjvprh6qkade9voKt5w8A__&LPId=0
+2016-02-17 10:32:38	⤷	dans litmos c'est le cours "Ajouter un flux dans Lengow"
+2016-02-17 11:27:37	⤷	il y a un autre "null" qui traine ici :
+2016-02-17 11:27:38	⤷	http://go.litmos.com/course/204340/module/1025544?moduletoken=XI4~F4s8nNYoULk-wMiNEdcpy~C8pqw24N06oXqMUI-xXylgGedfJKa7cJrlAHh8&LPId=0
+2016-02-17 11:27:49	⤷	je pense que ça correspond au nettoyage des balises
+2016-02-17 11:28:34	⤷	voir à certaines images
+2016-02-17 11:29:10	⤷	si tu peux jeter un oeil ce serait top, parce que dans ce tuto, le terme est présent à peut prêt partout ^^
+2016-02-18 17:55:05	gilleslegall	To exclude certain traffic from analysis, use IP filters. No new data will be recorded for users with matching IP addresses, though existing data will be unaffected.
+2016-02-19 09:45:46	⤷	https://www.missnumerique.com/interfit-kit-lumiere-continue-f5-2-x-800w-p-30206.html
+2016-02-19 09:45:46		INTERFIT kit lumière continue F5 - 2 x 800W (https://www.missnumerique.com/interfit-kit-lumiere-continue-f5-2-x-800w-p-30206.html)
+2016-02-19 09:45:46		INTERFIT kit lumière continue F5 - 2 x 800W à prix discount chez un spécialiste photo réputé
+2016-02-26 09:50:50	clothilde	http://bigbrother.lengow.com/page_fiche_partenaire.php?id=75&type=affiliation
+2016-02-26 09:51:00	⤷	http://bigbrother.lengow.com/page_fiche_partenaire.php?id=11&type=affiliation
+2016-02-26 09:51:07	⤷	http://bigbrother.lengow.com/page_fiche_partenaire.php?id=55&type=affiliation
+2016-02-26 10:00:15	gilleslegall	merci
+2016-03-03 15:25:13	clothilde	t'es sur la trad FR ? (edited)
+2015-05-21 12:18:57	clothilde	Plusieurs catégories Immochan sont attribuées à vos produits.
+2015-08-05 12:33:14	sebastien.charret	sebastien178
+2015-08-05 12:34:10	clothilde	ajouté !
+2015-08-05 12:34:13	sebastien.charret	Merci
+2015-11-18 16:13:16	clothilde	Hello !
+2015-11-18 16:13:22	sebastien.charret	Salut
+2015-11-18 16:14:00	clothilde	est ce que tu serais dispo demain pour un point Home 24 ?
+2015-11-18 16:14:09	sebastien.charret	Oui
+2015-11-18 16:14:09	clothilde	Fred demande à y voir plus clair
+2015-11-18 16:14:22	sebastien.charret	Ok
+2015-11-18 16:14:30	clothilde	ok je vous envoie une invit
+2015-11-18 17:02:18	⤷	finalement fred n'est pas dispo
+2015-11-18 17:02:26	sebastien.charret	Ok (edited)
+2015-11-18 17:02:28	clothilde	est ce que 12h ce serait ok pour toi ?
+2015-11-18 17:02:38	sebastien.charret	Oui c'est bon
+2015-11-18 17:02:51	clothilde	cool ! merci
+2016-05-26 11:43:52	⤷	Hello,
+2016-05-26 11:44:45	⤷	si jamais tu as souscrit à la mutuelle de Lengow, il y a une prime de naissance à demander (doublée dans le cas de jumeaux :wink: )
+2016-05-26 11:45:07	sebastien.charret	waou merci pour l'info
+2016-05-26 11:45:15	⤷	mais oui je suis mederick
+2016-05-26 11:45:23	clothilde	630€ !
+2016-05-26 11:45:29	sebastien.charret	:)
+2016-05-26 11:45:38	clothilde	fois 2 dans ton cas :wink:
+2016-05-26 11:45:43	⤷	ça peut pas faire de mal
+2016-05-26 11:45:47	sebastien.charret	carrement
+2016-05-26 11:46:23	clothilde	j'en ai parlé à Gautier, qui n'était pas au courant, si tu la demandes est ce que tu pourras nous tenir au courant de la démarche stp ?
+2016-05-26 11:57:07	sebastien.charret	ok
+2016-05-26 11:57:31	clothilde	merci :slightly_smiling_face:
+2015-05-21 12:18:57	clothilde	Plusieurs catégories Immochan sont attribuées à vos produits.
+2015-08-05 12:33:14	sebastien.charret	sebastien178
+2015-08-05 12:34:10	clothilde	ajouté !
+2015-08-05 12:34:13	sebastien.charret	Merci
+2015-11-18 16:13:16	clothilde	Hello !
+2015-11-18 16:13:22	sebastien.charret	Salut
+2015-11-18 16:14:00	clothilde	est ce que tu serais dispo demain pour un point Home 24 ?
+2015-11-18 16:14:09	sebastien.charret	Oui
+2015-11-18 16:14:09	clothilde	Fred demande à y voir plus clair
+2015-11-18 16:14:22	sebastien.charret	Ok
+2015-11-18 16:14:30	clothilde	ok je vous envoie une invit
+2015-11-18 17:02:18	⤷	finalement fred n'est pas dispo
+2015-11-18 17:02:26	sebastien.charret	Ok (edited)
+2015-11-18 17:02:28	clothilde	est ce que 12h ce serait ok pour toi ?
+2015-11-18 17:02:38	sebastien.charret	Oui c'est bon
+2015-11-18 17:02:51	clothilde	cool ! merci
+2016-05-26 11:43:52	⤷	Hello,
+2016-05-26 11:44:45	⤷	si jamais tu as souscrit à la mutuelle de Lengow, il y a une prime de naissance à demander (doublée dans le cas de jumeaux :wink: )
+2016-05-26 11:45:07	sebastien.charret	waou merci pour l'info
+2016-05-26 11:45:15	⤷	mais oui je suis mederick
+2016-05-26 11:45:23	clothilde	630€ !
+2016-05-26 11:45:29	sebastien.charret	:)
+2016-05-26 11:45:38	clothilde	fois 2 dans ton cas :wink:
+2016-05-26 11:45:43	⤷	ça peut pas faire de mal
+2016-05-26 11:45:47	sebastien.charret	carrement
+2016-05-26 11:46:23	clothilde	j'en ai parlé à Gautier, qui n'était pas au courant, si tu la demandes est ce que tu pourras nous tenir au courant de la démarche stp ?
+2016-05-26 11:57:07	sebastien.charret	ok
+2016-05-26 11:57:31	clothilde	merci :slightly_smiling_face:
+2016-07-26 12:19:17	⤷	Hello :slightly_smiling_face:
+2016-07-26 12:19:24	sebastien.charret	Hello
+2016-07-26 12:19:52	clothilde	est-ce que tu pourrais me donner le contact de votre photographe stp :slightly_smiling_face:
+2016-07-26 12:19:58	sebastien.charret	bien sur
+2016-07-26 12:20:10	clothilde	les photos de votre faire-part m'ont beaucoup plu :slightly_smiling_face:
+2016-07-26 12:20:44	sebastien.charret	http://livingcolors-studio.com/Blog/
+2016-07-26 12:20:45	⤷	merci
+2016-07-26 12:20:47	⤷	 :)
+2016-07-26 12:21:47	⤷	https://fr-fr.facebook.com/living.colors.studio/
+2016-07-26 12:21:53	clothilde	Vous avez été satisfaits de la prestation ?
+2016-07-26 12:21:58	sebastien.charret	mes fils sont sur la baniere ;)
+2016-07-26 12:22:02	⤷	oui tres
+2016-07-26 12:22:11	⤷	elle est vraiment pro
+2016-07-26 12:22:18	clothilde	ce sont déjà de vraies stars !! :slightly_smiling_face:
+2016-07-26 12:22:24	sebastien.charret	lol
+2016-07-26 12:22:25	clothilde	tu m'étonnes, ils sont trop mimi !
+2016-07-26 12:23:21	⤷	mon chéri fait de jolies photos, mais je crains qu'on rate le créneau des premiers jours, je ne voudrais pas les laisser passer :slightly_smiling_face:
+2016-07-26 12:24:10	sebastien.charret	ca depend ce que vous recherchez
+2016-07-26 12:24:14	⤷	*de
+2016-07-26 12:24:27	clothilde	de jolies photos des tous premiers jours
+2016-07-26 12:24:40	sebastien.charret	ton compagnon peut tres bien se debrouille une fois chez bous
+2016-07-26 12:25:08	⤷	mais nous on voulait des vrai photos avec un decor
+2016-07-26 12:25:21	⤷	style anne guedes
+2016-07-26 12:25:32	clothilde	oui, mais les tous petits nous semblent bien fragiles, on n'a pas encore l'habitude, et puis cette photogtraphe fait de très belles mises en scène
+2016-07-26 12:25:51	⤷	tout à fait Anne Geddes !!!
+2016-07-26 12:25:54	⤷	:slightly_smiling_face:
+2016-07-26 12:26:12	sebastien.charret	elle peut faire les photos chez toi ou tu vas en studio
+2016-07-26 12:26:22	⤷	le studio est tres bien ammenage
+2016-07-26 12:26:36	clothilde	je serais curieuse d'aller dans un vrai studio :wink:
+2016-07-26 12:26:54	⤷	c'est elle qui avait réalisé votre faire part aussi ?
+2016-07-26 12:26:58	sebastien.charret	non
+2016-07-26 12:27:08	⤷	c'est ma compagne
+2016-07-26 12:27:12	clothilde	ou vous avez récupéré les clichés pour les exploiter librement ?
+2016-07-26 12:27:18	sebastien.charret	oui voila
+2016-07-26 12:27:28	clothilde	je sais que certains photographe font payer en plus les fichiers source
+2016-07-26 12:28:27	sebastien.charret	je demande a ma compagne je me souviens plus
+2016-07-26 12:28:50	clothilde	:slightly_smiling_face: merci !
+2016-07-26 12:29:16	⤷	je vais montrer le site à mon chéri et je pense qu'on va prendre contact rapidement avec la photographe !
+2016-07-26 12:30:16	sebastien.charret	ok
+2016-07-26 12:30:20	⤷	:)
+2016-07-27 16:26:00	⤷	Je t'ai envoye les tarifs de notre photographe
+2016-07-27 17:06:36	clothilde	merci :slightly_smiling_face:

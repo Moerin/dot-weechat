@@ -1,0 +1,59 @@
+2015-12-28 17:23:22	fabiendosse	Pour transifex : mailto:ludovic@lengow.com (ludovic@lengow.com) / 44fexLGW
+2015-12-28 17:23:29	gilleslegall	merci
+2015-12-28 17:38:30	⤷	gilleslegall uploaded a file: https://lengow.slack.com/files/gilleslegall/F0HDXE7L0/link_importation___lengow.png (Link_importation___Lengow.png)
+2015-12-29 10:01:40	fabiendosse	Si tu traduits des choses sur Transifex, dis le moi, je ré-integrerais les traductions dans les sources.
+2015-12-29 10:03:03	gilleslegall	ok merci
+2015-12-29 11:29:30	fabiendosse	Tu me m’expliquer comment arriver à cette erreur AV-1432 ?
+2016-02-09 16:25:35	⤷	Un compte multi-compte : "mailto:fab.len45g@yopmail.com (fab.len45g@yopmail.com) »
+2016-02-09 16:25:41	⤷	lengow44 comme password
+2016-02-09 16:29:25	gilleslegall	merci
+2016-02-16 14:34:29	⤷	http://g.legall.free.fr/flux/eastpack122.csv
+2016-02-16 14:34:33	⤷	http://g.legall.free.fr/flux/eastpack123.csv
+2016-02-16 14:34:37	⤷	http://g.legall.free.fr/flux/eastpack124.csv
+2016-02-16 14:34:41	fabiendosse	Merci
+2016-02-17 10:53:15	⤷	J’ai repoussé les ressources de trad sur Transifex
+2016-02-17 10:55:08	gilleslegall	cool merci
+2016-03-10 16:31:22	⤷	C’est ok pour gb et fr
+2016-03-10 16:31:58	fabiendosse	Ok
+2016-03-24 15:00:23	⤷	L’inté est gulpée
+2016-03-24 15:04:14	gilleslegall	merci
+2016-03-25 14:38:05	fabiendosse	Quelques nouvelles chaines à traduire, tu pourras jeter un oeil ? Merci
+2016-03-25 14:57:01	gilleslegall	yes
+2016-03-25 14:57:17	⤷	d’ailleurs dans le drive on a rajouté des screenshots de cles manquantes
+2016-03-25 14:57:40	fabiendosse	Ok.
+2016-03-25 16:52:00	⤷	C’est gulpé
+2016-03-25 16:52:13	gilleslegall	je check merci
+2016-03-25 16:52:32	fabiendosse	Tu me diras si cela change qq chose
+2016-03-25 17:20:52	gilleslegall	ca n’a rien changé :simple_smile:
+2016-03-25 17:21:00	fabiendosse	Ok.
+2016-03-29 15:55:33	⤷	Tu peux m’en dire plus sur ce ticket : AV-2129 ?
+2016-03-29 15:57:03	⤷	Une réponse 404 semble normale non ?
+2016-03-29 17:50:27	gilleslegall	http://dl-cron.lengow.com/FluxCdiscountTH/Cdiscount_THA_Catalogue_Criteo_Fusion.csv
+2016-03-30 14:11:39	⤷	http://g.legall.free.fr/flux/Sephora11.csv
+2016-03-30 14:12:28	fabiendosse	Thx
+2016-03-31 18:17:43	⤷	Tu penseras à mes 2 petites trad manquantes que je puisse commiter. Merci, désolé de t’ennuyer avec ça
+2016-03-31 18:26:08	gilleslegall	done
+2016-03-31 18:26:18	fabiendosse	Super merci
+2016-09-20 14:37:22	fabiendosse	Env :
+2016-09-20 14:37:22		  - Dev :
+2016-09-20 14:37:22		    - lengow-dev-core : 10.100.1.72
+2016-09-20 14:37:22		    - lengow-dev-marketplaces : 10.100.1.82
+2016-09-20 14:37:22		    - lengow-dev-solution : 10.100.1.78
+2016-09-20 14:37:22		  - Inte :
+2016-09-20 14:37:22		    - lengow-int-core : 10.100.1.71
+2016-09-20 14:37:22		    - lengow-int-marketplaces : 10.100.1.84
+2016-09-20 14:37:22		    - lengow-int-solution : 10.100.1.83
+2016-09-20 14:37:22		    
+2016-09-20 14:37:22		  - Recette :
+2016-09-20 14:37:22		    - lengow-rec-solution : 10.0.4.99
+2016-09-20 14:37:22		  - Preprod : (sur AWS)
+2016-09-20 14:37:22		    - lengow-pp-solution : 10.0.3.122
+2016-09-20 14:37:22		    - lengow-pp-api : 10.0.3.42
+2016-09-20 14:37:22		    - lengow-pp-renderer : 10.0.3.121
+2016-09-20 14:37:22		    - lengow-pp-tracking : 10.0.3.114
+2016-09-20 14:37:22		    - lengow-pp-indexer : 10.0.3.52
+2016-09-20 14:37:22		  Les BDD’s :
+2016-09-20 14:37:22		   - en DEV : Jack : 10.100.1.240
+2016-09-20 14:37:22		   - en INTE : Jason : 10.100.1.242
+2016-09-20 14:37:22		   - en Preprod : lengow-pp-psql-1 : 10.0.3.105
+2016-09-20 14:37:44	sebastien.charret	merci

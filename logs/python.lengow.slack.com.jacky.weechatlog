@@ -1,0 +1,59 @@
+2016-02-01 17:18:04	jacky	Hello, j’ai vu que tu m’avais invité pour un point demain matin, mais sur mon planning je suis censé prendre un café avec mon parrain ! haha
+2016-02-05 11:44:28	⤷	Salut Gilles, dis, ca te dérangerais si lundi soir je pars vers 17h45 d’ici ? le mec pour internet doit passer chez moi pour 18h et j’aimerai ne  pas le rater :confused: je prendrais moins de pause sur mon midi :simple_smile:
+2016-02-05 11:49:08	gilleslegall	Hello, non aucun pb
+2016-02-05 11:49:43	jacky	top, merci :simple_smile:
+2016-02-11 10:35:11	⤷	Hello Gilles, tu veux qu’on reporte mon point individuel à la semaine pro ? :simple_smile:
+2016-02-11 10:41:27	gilleslegall	hello, non desole j’avais un truc a faire ce matin avant, mais des que tu es dispo on peut y aller
+2016-02-11 10:41:42	jacky	dans 5min ?
+2016-02-11 10:41:45	gilleslegall	yes
+2016-02-11 10:46:24	jacky	je suis pret
+2016-02-16 17:55:38	⤷	Hello, y’a moyen d’ajouter le module giphy a slack ?
+2016-02-16 17:55:38		https://lengow.slack.com/apps/new/A0F827J2C-giphy
+2016-02-16 17:55:40	⤷	:simple_smile:
+2016-02-16 17:57:59	⤷	/giphy cats
+2016-02-16 17:57:59		cats (http://giphy.com/gifs/day-cake-W7dBXzbnEpOBG)
+2016-02-19 12:18:00	⤷	Est-ce que tu pense que nous pourrions prendre un abonnement a browserstack ?
+2016-02-19 12:18:00		Je ne sais pas si tu connais, en gros c’est un site qui fournis un paquet de machine virtuelle directement accessible via le navigateur, tu peux tout tester, chrome, windows, iphone, etc,,, 
+2016-02-19 12:18:00		Ca nous serait utile pour tester IE par exemple, et aussi windows.
+2016-02-19 12:18:00		https://www.browserstack.com/
+2016-02-19 12:18:00		Je l’ai déjà testé quelque fois et il est vraiment pratique et connu
+2016-02-19 12:18:00		https://www.browserstack.com/
+2016-02-19 12:18:00		Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
+2016-02-19 14:42:54	gilleslegall	yes je connais, je l’ai deja utilisé quelques fois
+2016-02-19 14:43:11	⤷	bon c pas gagné côté budget
+2016-02-19 14:43:47	jacky	ouais c’est pas donné :confused:
+2016-02-24 14:33:22	⤷	Gilles, tu aurais le tel de Lucile stp ? J’ai des questions sur ces tickets en cours
+2016-02-24 14:34:54	⤷	c’est bon il est sur bamboo
+2016-02-25 14:09:12	⤷	Quand tu auras le temps, pourrais tu rajouter une colonne « PROD » à Jira sur le marketing board ? Ca nous permettrais de savoir les tickets passé en prod, car la colonne Terminé est plus une validation preprod.
+2016-02-25 14:09:12		Tu pense que c’est cohérent ?
+2016-02-25 14:09:12		Merci :simple_smile:
+2016-02-26 10:17:18	gilleslegall	Je peux, tu peux passer me voir quand t’as 2 minutes histoire que je comprenne bien ton besoin
+2016-02-26 10:17:34	⤷	sorry pour le délai de réponse
+2016-02-26 10:18:01	⤷	Mon slack ressemblait à un sapin de Noël hier :stuck_out_tongue: (edited)
+2016-02-26 10:26:31	⤷	Bon j’en ai causé un peu avec Lucile, je pense qu’il faudrait utiliser les versions dans Jira
+2016-02-26 10:26:38	⤷	je te montrerai
+2016-03-03 09:52:56	jacky	Hello Gilles, tu as 2 tickets qui trainent sur notre sprint, tu pourrais me dire si je peux les faire assez facilement afin qu’on clean notre sprint ? :simple_smile:
+2016-03-03 09:52:56		Ticket 115 et 79, merci
+2016-03-03 09:56:23	gilleslegall	je vais essayer de checker ca
+2016-03-07 10:52:31	⤷	Cadeau !!!
+2016-03-07 10:52:48	⤷	mailto:eric.malahieude@lengow.com (eric.malahieude@lengow.com) / Lengow44$
+2016-03-07 10:52:52	⤷	pour le plugin
+2016-03-07 10:53:17	jacky	MERCI !!!
+2016-03-08 15:16:52	⤷	C’est quoi cette présentation d’activité Gilles ? :simple_smile:
+2016-03-08 18:04:45	gilleslegall	C’est pour vous présenter à Raphaëlle qui arrive lundi prochain. Echange informel sur vos projets et sur vous mêmes (edited)
+2016-03-09 09:19:21	jacky	Mais qui est cette personne ? Elle va travailler avec nous ?
+2016-03-09 09:22:22	gilleslegall	yes en tant que product manager
+2016-03-09 09:35:00	jacky	Cool, elle est canon ? haha
+2016-03-09 09:35:12	gilleslegall	:simple_smile:
+2016-03-21 09:56:15	⤷	<script type="text/javascript">
+2016-03-21 09:56:15		!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"http://cdn.segment.com/analytics.js/v1/ (cdn.segment.com/analytics.js/v1/)"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+2016-03-21 09:56:15		analytics.load("P8sff8sjBrIp79vxOyJu31nv2767f3tw");
+2016-03-21 09:56:15		analytics.page()
+2016-03-21 09:56:15		}}();
+2016-03-21 09:56:15		</script>
+2016-03-21 17:43:34	jacky	C’est sur la prod :simple_smile:
+2016-03-21 17:43:43	gilleslegall	merci
+2016-03-30 17:16:32	jacky	Hello,
+2016-03-30 17:16:32		J’ai mis en prod un plugin pour gérer les heat map sur le corp, j’ai utilisé le site « clicky » car c’est un des plus connus et des moins chère, pour l’instant il est gratuit mais si le tracking plaît il faudrait voir à l’avenir, je crois que c’est 9$ par mois.
+2016-03-30 17:16:32		On m’a demandé de le mettre pour les landings pages mais je l’ai mis sur tout le site du coup :simple_smile:
+2016-03-30 17:39:44	gilleslegall	cool

@@ -1,0 +1,424 @@
+2016-03-08 12:13:16	InVision App :]	fred commented on a screen in the project *https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 12:13:16		fred: Page-Guide-V7-1 (https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade)
+2016-03-08 12:13:16		j'aime bcp!
+2016-03-08 12:20:06	InVision App :]	fred commented on a screen in the project *https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 12:20:06		fred: Page-Guide-V7-1 (https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade)
+2016-03-08 12:20:06		sur la page d'accueil il faudra mettre un melange (best of?) des différentes ressources dispos
+2016-03-08 12:23:26	InVision App :]	jacky commented on a screen in the project *https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 12:23:26		jacky: Page-Guide-V7-1 (https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade)
+2016-03-08 12:23:26		Pas de soucis Fred, il faudra donc prévoir un design pour la home et du temps de dev aussi :)
+2016-03-08 12:23:26		Sachant qu'on a la landing page a faire et le led la semaine pro.
+2016-03-08 12:29:24	InVision App :]	audrey commented on a screen in the project *https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 12:29:24		audrey: Page-Guide-V7-1 (https://invis.io/KY6DB59WS/#/?slackActivity=CommentMade)
+2016-03-08 12:29:24		ca me plait bien aussi. Peut-être mettre 'filtrer' dans un bandeau ou autre pour qu'il soit mieux intégré.
+2016-03-08 12:29:24		Pour la partie intégration, on verra dans le sprint de jeudi quels sont les projets prioritaires
+2016-03-08 16:18:34	lucilefromant	Lors de la mise en prod, certains contenu risque de bugger un petit moment. Est ce qu'il est envisageable de mettre un plugin " site en maintenance" le temps que tout redevienne bon?
+2016-03-08 16:22:18	jacky	En gros ce plugin va empecher tout utilisateur d’accéder au site, ils auront une page blanche avec un truc du genre « Site en maintenance, merci de patienter"
+2016-03-08 16:38:58	audreydudal	ok ; c'est mieux qu'une page blanche ou autre
+2016-03-08 16:39:10	⤷	combien de temps le bug risque t-il de durer ?
+2016-03-08 16:41:48	jacky	On a beaucoup de chose à checker et à mettre à jour, je dirais 2h minimum, la matinée quoi, mais ca peut être moins car on va préparer toutes les fiches dès demain.
+2016-03-08 16:43:23	audreydudal	alors ce qui est embêtant c'est qu'un campagne de communication est prévu jeudi sur le livre blanc cross border ainsi que sur le livre blanc google shopping
+2016-03-08 16:43:44	⤷	sinon il faut avancer la mise en prod à demain après-midi
+2016-03-08 16:43:45	jacky	bon dans ce cas on fait sans maintenance
+2016-03-08 16:43:52	⤷	hum
+2016-03-08 16:44:13	⤷	on peut faire ça mais faut checker la preprod au plus vite alors
+2016-03-08 16:44:26	InVision App :]	Lucile commented on a screen in the project *https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 16:44:26		Lucile: Page-Guide-V8-1 (https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade)
+2016-03-08 16:44:26		Nouvelle proposition avec le titre "filtrer" avec un fond, comme sur l'exemple donné par Arnaud.
+2016-03-08 16:44:40	audreydudal	il reste quoi à checker?
+2016-03-08 16:45:22	jacky	Je viens de réparer la home et la page intégrations, ces pages là n’ont pas dû bouger niveau design donc pas de soucis
+2016-03-08 16:45:39	⤷	ces pages ne fonctionneront correctement que en anglais par contre, faire les autres langues prend du temps
+2016-03-08 16:46:26	⤷	sinon y’a la page des guides qui va se recharger maintenant quand tu soumet le formulaire, ca permet de remonter l'écran
+2016-03-08 16:46:49	⤷	et mise à jour des trads aussi
+2016-03-08 16:52:44	InVision App :]	audrey commented on a screen in the project *https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 16:52:44		audrey: Page-Guide-V8-1 (https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade)
+2016-03-08 16:52:44		ok pour moi
+2016-03-08 16:54:57	audreydudal	ces pages ne fonctionneront correctement que en anglais par contre => c'est à dire le fait que l'on puisse ajouter du contenu nous même ?
+2016-03-08 16:56:29	⤷	Sur la home et page intégrations en anglais, je ne vois pas de souci donc je passe en done
+2016-03-08 16:57:02	⤷	les guides ajoutés en prod aujourd'hui le seront bien aussi sur la pré-prod ?
+2016-03-08 16:59:01	jacky	Les pages Home et intégrations seront completement modifiable par n’importe qui oui :simple_smile:
+2016-03-08 16:59:48	⤷	Les guides que l’on passe en prod demain matin, on les mettras à jour en preprod après la MEP oui
+2016-03-08 17:18:31	InVision App :]	fred commented on a screen in the project *https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 17:18:31		fred: Page-Guide-V8-1 (https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade)
+2016-03-08 17:18:31		ça me va aussi
+2016-03-08 17:22:41	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade (Site corp)*
+2016-03-08 17:22:41		arnaud.lesaint: Page-Guide-V8-1 (https://invis.io/UG6DH16RE/#/?slackActivity=CommentMade)
+2016-03-08 17:22:41		Tout pareil
+2016-03-09 16:16:42	audreydudal	ca va pour la MEP?
+2016-03-09 16:17:10	jacky	On viens juste de la finir, les guides ont tous peter pendant au moins 2h, la home etc aussi, mais c’est stable maintenant
+2016-03-09 16:17:52	lucilefromant	la syncope est terminée
+2016-03-09 16:19:22	audreydudal	OK, je vais pouvoir lâcher Fred sur le site alors :wink:
+2016-03-09 16:25:44	⤷	http://www.lengow.com/fr/equipe/... vous avez fait sauté leurs têtes
+2016-03-09 16:25:44		Lengow : l'équipe (http://www.lengow.com/fr/equipe/)
+2016-03-09 16:25:44		Rencontrez les équipes de Lengow et ses dirigeants.
+2016-03-09 16:26:28	lucilefromant	:joy:
+2016-03-09 18:03:43	audreydudal	pour l page team, pouvez vous remettre mickaelk au milieu à la place d'elodie ?
+2016-03-09 18:03:56	⤷	et le titre de Mathieu doit être Head of client relation
+2016-03-10 09:25:14	jacky	C’est fait :simple_smile:
+2016-03-10 09:45:59	⤷	Il me semble que la modif a bougé pas mal de têtes
+2016-03-10 09:50:06	audreydudal	c'est bon, il y a un mix d'hommes et de femmes sur chaque ligne
+2016-03-10 09:50:10	⤷	de chaque service
+2016-03-10 09:51:40	lucilefromant	:simple_smile:
+2016-03-10 09:51:43	⤷	cool
+2016-03-10 12:27:49	InVision App :]	Lucile commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 12:27:49		Lucile: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 12:27:49		Maquette Guide version mobile: 
+2016-03-10 12:27:49		Meme système que sur la version mobile de la Fnac.
+2016-03-10 12:27:49		Le bouton "Trier" permet de faire apparaitre les filtres
+2016-03-10 12:29:18	InVision App :]	Lucile commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 12:29:18		Lucile: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 12:29:18		Maquette Guide version mobile: 
+2016-03-10 12:29:18		Meme système que sur la version mobile de la Fnac.
+2016-03-10 12:29:18		Premier niveau de filtre.
+2016-03-10 12:29:18		Au clique sur un des items, les checkbox apparaissent
+2016-03-10 12:29:18		Si on reclique sur "Trier" le menu disparait
+2016-03-10 12:30:13	InVision App :]	Lucile commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 12:30:13		Lucile: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 12:30:13		Maquette Guide version mobile: 
+2016-03-10 12:30:13		Meme système que sur la version mobile de la Fnac.
+2016-03-10 12:30:13		Deuxieme niveau de filtre.
+2016-03-10 12:30:13		Possibilité de selectionner plusieurs sous-items
+2016-03-10 12:30:13		Pour valider le tri, on clique sur "filtrer".
+2016-03-10 12:31:59	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 12:31:59		arnaud.lesaint: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 12:31:59		Cool ! Tu pourras nous travailler le rendu avec un ou deux filtre(s) activé(s) ?
+2016-03-10 12:37:45	InVision App :]	fred commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 12:37:45		fred: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 12:37:45		un truc qui me gène : quid du bas de la page? On pourrait pas remettre le menu ou autre?
+2016-03-10 16:46:20	InVision App :]	Lucile commented on a screen in the project *https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 16:46:20		Lucile: Page-Guide-Mobile-V1 (https://invis.io/9Q6EU92J7/#/?slackActivity=CommentMade)
+2016-03-10 16:46:20		Tu veux dire le menu des filtres? 
+2016-03-10 16:46:20		Ce qui pourrait etre envisageable c'est d'avoir le menu des filtres en mode fixe c'est à dire que celui-ci serait comme le menu de navigation, toujours affiché, meme lorsqu'on scroll.
+2016-03-10 17:22:44	audreydudal	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0RSZ2W20/pasted_image_at_2016_03_10_05_23_pm.png (Pasted image at 2016-03-10, 5:23 PM) and commented: tendance sur les 6 derniers mois
+2016-03-10 17:23:14	⤷	audreydudal uploaded a file: https://lengow.slack.com/files/audreydudal/F0RSZ75RS/pasted_image_at_2016_03_10_05_24_pm.png (Pasted image at 2016-03-10, 5:24 PM)
+2016-03-10 17:23:23	jacky	un peu plus de 1000 doncs
+2016-03-10 17:23:29	⤷	je pense que c’est trop pour les oublier
+2016-03-10 17:33:10	InVision App :]	Lucile commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:33:10		Lucile: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-10 17:33:10		Selection de plusieurs sous-items
+2016-03-10 17:33:10		Lorsqu'un utilisateur a selectionné 1 sous-item, on a l'indication dans la parenthèse à côté de l'item.
+2016-03-10 17:34:16	InVision App :]	Lucile commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:34:16		Lucile: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-10 17:34:16		Après avoir cliqué sur le bouton "Filtrer", on retrouve les sous-items coché, sous forme de tag. Ceux-ci peuvent être supprimé en cliquant dessus.
+2016-03-10 17:37:21	InVision App :]	Lucile commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:37:21		Lucile: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-10 17:37:21		Le systeme de filtre est fixé au menu de navigation lorsqu'on scroll vers le bas. L'utilisateur pourra ainsi avoir toujours la possibilité de filtrer sa recherche.
+2016-03-10 17:37:21		Le filet rouge est la zone de flotaison d'un iphone 5. Cela donne une idée de la taille que prendra les différents menu sur l'ecran du téléphone.
+2016-03-10 17:40:57	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:40:57		arnaud.lesaint: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-10 17:40:57		\O/
+2016-03-10 17:52:49	InVision App :]	Lucile commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:52:49		Lucile: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 17:52:49		Changement du bouton "Affiner" en "Filtrer".
+2016-03-10 17:52:49		La recherche se fera automatiquement en fonction des checkbox cliqués, comme en version Desktop.
+2016-03-10 17:52:49		L'utilisateur peut enlever l'affichage du menu des filtres en recliquant sur le bouton "filtrer".
+2016-03-10 17:56:34	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:56:34		arnaud.lesaint: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 17:56:34		Ok, juste un doute sur l'intuitivité du truc. L'utilisateur comprend-il qu'il doit appuyer sur le bouton "filtrer" pour faire disparaitre la liste des filtres ?
+2016-03-10 17:57:55	InVision App :]	audrey commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:57:55		audrey: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 17:57:55		j'ai émis le même doute aussi ; la FNAC fonctionne comme cela mais je ne sais pas si il faudrait pas rajouter une croix ?
+2016-03-10 17:58:44	InVision App :]	Lucile commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 17:58:44		Lucile: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 17:58:44		Fnac a fait ce systeme.
+2016-03-10 17:58:44		Le bouton change de couleur au moment de l'action.
+2016-03-10 17:58:44		Peut etre mettre un petit icone type "fleche vers le bas"?
+2016-03-10 18:02:19	InVision App :]	jacky commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 18:02:19		jacky: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 18:02:19		Sur rueducommerce le filtre prend toute la page et affiche une croix en haut, comme un menu mobile en fait. Pour ma part j’ai un doute sur le filtrage auto au click sur une checkbox, sur desktop pas de soucis car on voit bien le changement car les résultats sont sur le côté, mais sur mobile les résultats sont ombrés et en dessous, j’ai peur que l’utilisateur ne sache pas qu’il doit fermer le filtre après avoir coché ce qu’il voulait…
+2016-03-10 18:02:19		Sinon la généralité des sites n’ont pas de filtre qui suit l’écran, il reste en haut et on doit scroller tout en haut pour refiltrer
+2016-03-10 18:02:19		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-10 18:02:19		    
+2016-03-10 18:02:19		Jacky Michy
+2016-03-10 18:02:19		Wordpress Developer
+2016-03-10 18:02:19		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-10 18:02:19		mailto:jacky.michy@lengow.com (jacky.michy@lengow.com)   @jacman501
+2016-03-10 18:02:19		6 rue René Viviani, 44200 Nantes, France
+2016-03-10 18:02:19		http://lengow.com (lengow.com)  | blog  | twitter
+2016-03-10 18:04:39	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-10 18:04:39		arnaud.lesaint: Page-Guide-Mobile-V3 (https://invis.io/T76F2O5W4/#/?slackActivity=CommentMade)
+2016-03-10 18:04:39		Le soucis de la croix c'est que c'est aussi synonyme de fermer, mais aussi de supprimer. Donc l'utilisateur peut craindre qu'en appuyant sur la croix, ses choix de filtres soient effacés.
+2016-03-10 18:04:39		L'idée de la flèche est intéressante en revanche. Pourrait-on envisager une alternative où le bouton filtrer disparait pour un titre "Filtres" et à côté un bouton flèche vers le bas, pour afficher la liste, et qui devient "flèche vers le haut" lorsque la liste détaillée est déroulée ?
+2016-03-10 18:04:39		C'est peut-être une suggestion à la con et pas plus intuitif :)
+2016-03-11 09:45:46	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 09:45:46		arnaud.lesaint: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-11 09:45:46		Ok, je trouve ça intéressant quand les items sont sélectionnés, en revanche, le (0) quand rien n'est sélectionné porte à confusion, surtout à l'étape précédente, on peut croire qu'il n'y aucun filtre correspondant, ou bien aucun résultat disponible pour ce filtre.
+2016-03-11 09:45:46		Ce qui m'amène à une seconde remarque. Pourrait-on mettre un texte dynamique indiquant le nombre de résultats disponibles en fonction des filtres sélectionnés. Sous le bloc "filtres actifs" par exemple, un texte "XX documents (ou guides ou autre) correspondant.
+2016-03-11 09:49:54	InVision App :]	jacky commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 09:49:54		jacky: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-11 09:49:54		Oui on peut mettre cette information mais cela ne va pas de pair avec le changement auto des résultats quand on coche un filtre, ce n'est pas logique car ce type d'info est utile quand le changement n'a pas encore été fait.
+2016-03-11 09:49:54		Donc je suis pour cette info seulement si on met un bouton "filtrer" pour faire l'affinage (par ailleurs je préfère de loin cette solution au filtre auto, sur mobile en tout cas)
+2016-03-11 09:54:34	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 09:54:34		arnaud.lesaint: Page-Guide-Mobile-V2 (https://invis.io/EB6F1ZDAJ/#/?slackActivity=CommentMade)
+2016-03-11 09:54:34		Oui pardon, j'avais vu ton message sur le filtrage auto a éviter sur mobile et du coup je croyais que c'était acté. Cela dit, ça me semblait intéressant quoi qu'il arrive pour le cas où j'ai sélectionné un cumul de filtre qui donne 0 résultat. Si je vois juste un écran vide sans plus de précision, je peux croire qu'il s'agit d'un bug d'affichage ? Si on me précise qu'aucun résultat ne correspond, alors je comprend que c'est ma recherche qui ne donne rien. (Oui je me sens bien à l'aise dans le rôle de l'utilisateur débile qui ne comprend pas ce qui se passe :) )
+2016-03-11 16:00:10	InVision App :]	Lucile commented on a screen in the project *https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 16:00:10		Lucile: Page-Guide-Mobile-V4 (https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade)
+2016-03-11 16:00:10		Suite à notre point de ce matin : 
+2016-03-11 16:00:10		- Ajout d'un picto pour informer l'utilisateur que le menu est cliquable
+2016-03-11 16:00:10		- Ajout d'un bouton "valider" pour confirmer le filtre
+2016-03-11 16:00:10		- Affichage du nombre de resultat
+2016-03-11 16:06:43	InVision App :]	arnaud.lesaint commented on a screen in the project *https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 16:06:43		arnaud.lesaint: Page-Guide-Mobile-V4 (https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade)
+2016-03-11 16:06:43		\o/ (juste une remarque, sinon c'est pas drôle, sur la taille / lisibilité du texte "57 résultats", mais ça pourra s'ajuster ultérieurement.
+2016-03-11 16:19:08	InVision App :]	Lucile commented on a screen in the project *https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 16:19:08		Lucile: Page-Guide-Mobile-V4 (https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade)
+2016-03-11 16:19:08		Oui c'est modifiable :)
+2016-03-11 16:38:28	InVision App :]	audrey commented on a screen in the project *https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade (Site corp)*
+2016-03-11 16:38:28		audrey: Page-Guide-Mobile-V4 (https://invis.io/4M6FPGLJV/#/?slackActivity=CommentMade)
+2016-03-11 16:38:28		ok !!
+2016-03-24 09:42:20	jacky	On commence la MEP du corp
+2016-03-24 09:44:58	audreydudal	:hammer_and_wrench:
+2016-03-29 14:56:56	InVision App :]	Lucile commented on a screen in the project *https://invis.io/G86OYIAR4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-29 14:56:56		Lucile: Page-Guide-Dediee-V4-2 (https://invis.io/G86OYIAR4/#/?slackActivity=CommentMade)
+2016-03-29 14:56:56		Comme convenu avec Maxime, voici la page ressource avec une checkbox pré-cochée ( la meme que sur la page contact), pour que les commerciaux puisse rappeler les personnes qui ont  téléchargé le guide.
+2016-03-29 15:04:45	InVision App :]	Anonymous User resolved a conversation in project *https://invis.io/G86OYIAR4/#/?slackActivity=ConversationResolved (Site corp)*
+2016-03-29 15:04:45		Anonymous User: Page-Guide-Dediee-V4-2 (https://invis.io/G86OYIAR4/#/?slackActivity=ConversationResolved)
+2016-03-29 15:13:19	InVision App :]	maxime.wynsberghe commented on a screen in the project *https://invis.io/G86OYIAR4/#/?slackActivity=CommentMade (Site corp)*
+2016-03-29 15:13:19		maxime.wynsberghe: Page-Guide-Dediee-V4-2 (https://invis.io/G86OYIAR4/#/?slackActivity=CommentMade)
+2016-03-29 15:13:19		Le côté rond plein en pré coché n'est pas hyper lisible à mon avis.
+2016-03-29 15:13:19		On ne pourrait pas avoir une check box à la place?
+2016-03-29 15:13:19		Et au lieu de être recontacté par lengow, mettre : je souhaite être contacté par Lengow
+2016-03-29 15:13:19		Thxs
+2016-03-29 15:23:06	InVision App :]	Lucile commented on a screen in the project *https://invis.io/WX6OZ8PVA/#/?slackActivity=CommentMade (Site corp)*
+2016-03-29 15:23:06		Lucile: Page-Guide-Dediee-V4-3 (https://invis.io/WX6OZ8PVA/#/?slackActivity=CommentMade)
+2016-03-29 15:23:06		Nouvelle version avec une checkbox et la mise à jour du texte
+2016-03-29 15:37:52	InVision App :]	maxime.wynsberghe commented on a screen in the project *https://invis.io/WX6OZ8PVA/#/?slackActivity=CommentMade (Site corp)*
+2016-03-29 15:37:52		maxime.wynsberghe: Page-Guide-Dediee-V4-3 (https://invis.io/WX6OZ8PVA/#/?slackActivity=CommentMade)
+2016-03-29 15:37:52		Pour moi c'est ok
+2016-03-30 18:11:29	InVision App :]	Lucile commented on a screen in the project *https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade (Site corp)*
+2016-03-30 18:11:29		Lucile: Page-Guide-Dediee-V4-After-1 (https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade)
+2016-03-30 18:11:29		Proposition pour l'affichage des guides similaires après avoir remplit le formulaire pour recevoir le un des guides.
+2016-03-30 18:11:29		- Meme affichage que pour la page guide globale mais avec 4 colonnes donc 4 fiches affichées
+2016-03-30 18:11:29		- Meme design que sur la page guide globale
+2016-03-30 19:01:46	InVision App :]	fred commented on a screen in the project *https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade (Site corp)*
+2016-03-30 19:01:46		fred: Page-Guide-Dediee-V4-After-1 (https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade)
+2016-03-30 19:01:46		C'est bien mais je pense qu'il faudrait bien différencier la zone "merci … " de la zone "nous vous recommandons aussi" car là tout est un peu mélangé
+2016-03-30 19:01:46		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:01:46		Frédéric CLEMENT
+2016-03-30 19:01:46		Chief Marketing Officer
+2016-03-30 19:01:46		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:01:46		: +33 1 84 79 03 93
+2016-03-30 19:01:46		: mailto:frederic@lengow.com (frederic@lengow.com)
+2016-03-30 19:01:46		: frede_clement
+2016-03-30 19:01:46		20 Rue Treilhard, 75008 Paris, France
+2016-03-30 19:01:46		blog | twitter
+2016-03-30 19:01:46		Le 30 mars 2016 à 18:11, "Lucile (InVision)"  a écrit :
+2016-03-30 19:03:04	InVision App :]	fred commented on a screen in the project *https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade (Site corp)*
+2016-03-30 19:03:04		fred: Page-Guide-Dediee-V4-After-1 (https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade)
+2016-03-30 19:03:04		C'est bien mais je pense qu'il faudrait bien différencier la zone "merci … " de la zone "nous vous recommandons aussi" car là tout est un peu mélangé
+2016-03-30 19:03:04		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:03:04		Frédéric CLEMENT
+2016-03-30 19:03:04		Chief Marketing Officer
+2016-03-30 19:03:04		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:03:04		: +33 1 84 79 03 93
+2016-03-30 19:03:04		: mailto:frederic@lengow.com (frederic@lengow.com)
+2016-03-30 19:03:04		: frede_clement
+2016-03-30 19:03:04		20 Rue Treilhard, 75008 Paris, France
+2016-03-30 19:03:04		blog | twitter
+2016-03-30 19:03:04		Le 30 mars 2016 à 18:11, "Lucile (InVision)"  a écrit :
+2016-03-30 19:08:24	InVision App :]	fred commented on a screen in the project *https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade (Site corp)*
+2016-03-30 19:08:24		fred: Page-Guide-Dediee-V4-After-1 (https://invis.io/MK6PWBRPW/#/?slackActivity=CommentMade)
+2016-03-30 19:08:24		C'est bien mais je pense qu'il faudrait bien différencier la zone "merci … " de la zone "nous vous recommandons aussi" car là tout est un peu mélangé
+2016-03-30 19:08:24		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:08:24		Frédéric CLEMENT
+2016-03-30 19:08:24		Chief Marketing Officer
+2016-03-30 19:08:24		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016-03-30 19:08:24		: +33 1 84 79 03 93
+2016-03-30 19:08:24		: mailto:frederic@lengow.com (frederic@lengow.com)
+2016-03-30 19:08:24		: frede_clement
+2016-03-30 19:08:24		20 Rue Treilhard, 75008 Paris, France
+2016-03-30 19:08:24		blog | twitter
+2016-03-30 19:08:24		Le 30 mars 2016 à 18:11, "Lucile (InVision)"  a écrit :
+2016-03-31 11:54:59	InVision App :]	Lucile commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-03-31 11:54:59		Lucile: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-03-31 11:54:59		Nouvelle version avec une meilleure distinction des 2 type de contenu ( formulaire + fiches similaires)
+2016-03-31 12:54:44	InVision App :]	fred commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-03-31 12:54:44		fred: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-03-31 12:54:44		tres bien!
+2016-03-31 12:54:44		peut être remplacer la fleche en dessous par un bouton / lien "tous les guides", ça sera pus simple
+2016-03-31 14:08:40	InVision App :]	Lucile commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-03-31 14:08:40		Lucile: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-03-31 14:08:40		Je vais retirer la fleche de bas.
+2016-03-31 14:08:40		Est-ce vraiment utile de remettre un bouton "retour aux guides" en bas de la page sachant que ce bouton existe deja en haut à gauche et que la page ne sera jamais tres grande en hauteur?
+2016-03-31 14:15:11	InVision App :]	fred commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-03-31 14:15:11		fred: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-03-31 14:15:11		C'est optionnel, mais il est pas super visible en haut
+2016-03-31 14:15:11		Le jeudi 31 mars 2016, Lucile (InVision)  a
+2016-03-31 14:15:11		écrit :
+2016-04-04 12:16:22	InVision App :]	audrey commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-04-04 12:16:22		audrey: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-04-04 12:16:22		ok pour moi dans l'ensemble. Pour " retour aux guides' en effet il n'est plus trop visible, c'est possible de le mettre en dessous de la phrase '... nouveaux contenus' à gauche ?
+2016-04-04 12:16:22		Pour le titre est-ce que tu peux mettre 'D'autres guides à découvrir' avec une police un peu plus grande ?
+2016-04-04 12:20:38	InVision App :]	Lucile commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-04-04 12:20:38		Lucile: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-04-04 12:20:38		Ca ne risque pas d'etre bizarre d'avoir un bouton retour en milieu de page?
+2016-04-04 12:20:38		La solution ne serait pas de grossir le bouton retour et également le titre "guide similaire"?
+2016-04-04 12:22:29	InVision App :]	audrey commented on a screen in the project *https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade (Site corp)*
+2016-04-04 12:22:29		audrey: Page-Guide-Dediee-V4-After-2 (https://invis.io/GP6QEIZYK/#/?slackActivity=CommentMade)
+2016-04-04 12:22:29		ok ; a tester en les grossisant alors. Merci
+2016-04-04 16:22:04	audreydudal	vous penserez à pré-coché le champ 'être contacté' sur les guides en prod :wink:
+2016-04-05 09:55:11	lucilefromant	Pour infos, Maxime m’a demandé de mettre tous les indicateurs de langues en minuscules sur tous les formulaires ( ressources, demo, contact). Je lui ai expliqué que nous avions besoin des majuscules pour les guides ressources, je lui propose donc de toute mettre en majuscule. 
+2016-04-05 09:55:11		J’ai aussi rappelé à Maxime que @audreydudal tu étais de retour et qu’il peux repasser vers toi pour tout type de demande  :wink:
+2016-04-05 11:12:51	audreydudal	:wink: j'ai un point avec lui et Fred justement cet aprem ; je vais lui dire de grouper ces demandes car on ne va pas repasser sur les formulaires tous les jours
+2016-04-05 11:14:08	jacky	Surtout que ca devrait passer dans le sprint ces choses là et pas directement par mail :simple_smile:
+2016-04-05 11:14:33	audreydudal	c'est quoi les indicateurs de langue ?
+2016-04-05 11:14:42	⤷	CEUX DE L4OBJET,
+2016-04-05 11:14:43	⤷	?
+2016-04-05 11:14:58	⤷	tu as crée un ticket du coup Lucile ?
+2016-04-05 11:15:28	lucilefromant	ceux de l’objet oui
+2016-04-05 11:15:34	⤷	« UK/FR/IT » etc..
+2016-04-05 11:15:38	⤷	Je l’ai fait direct en prod
+2016-04-05 11:41:46	audreydudal	est-ce que l'un de vous deux pourrait enlever la photo de Joe sur cette page : http://www.lengow.com/ask-for-a-demo/ ? Il a quitté la société hier....
+2016-04-05 11:41:46		Demonstration of Lengow solution (http://www.lengow.com/ask-for-a-demo/)
+2016-04-05 11:41:46		Request a free demo to discover how Lengow can help you improve your ecommerce performance.
+2016-04-05 11:54:10	lucilefromant	oh :confused:
+2016-04-05 11:54:13	⤷	Je m’en occupe
+2016-04-05 11:55:07	⤷	ET pour les adresses emails sur les formulaires j’imagine qu’on enleve son adresse?
+2016-04-05 11:57:09	audreydudal	je l'ai déjà fait :wink:
+2016-04-05 11:57:15	lucilefromant	super :simple_smile:
+2016-04-05 11:57:25	audreydudal	merci pour l'image
+2016-04-05 11:57:33	lucilefromant	je viens de le faire
+2016-04-05 11:57:35	⤷	:simple_smile:
+2016-04-06 18:08:27	⤷	J’ai mis le PDF pour la gestion des pages plugin sur le serveur
+2016-04-06 18:09:03	⤷	Marketing / Market_com/CORP/page plugin / formation-plugin.pdf
+2016-04-06 18:23:14	audreydudal	:+1:
+2016-04-07 09:54:15	jacky	MEP fini
+2016-04-07 09:57:23	audreydudal	:upside_down_face:
+2016-04-07 09:57:25	⤷	cool
+2016-04-07 09:57:29	⤷	le lsite a l'air ok
+2016-04-07 09:57:38	⤷	la landing est passée en prod aussi?
+2016-04-07 09:58:09	lucilefromant	:smile:
+2016-04-07 09:58:16	jacky	oui, il faut juste la créé dans le back Office
+2016-04-07 09:58:38	aymericmathieu	:upside_down_face:
+2016-04-07 09:58:54	lucilefromant	NB : le petit beug sur les pages plugin n’a pas encore été résolu.
+2016-04-07 10:00:18	audreydudal	Ok ; à la prochaine MEP ou avant?
+2016-04-07 10:01:14	lucilefromant	Je m’en occupe ce jour donc on va pouvoir la mettre en prod
+2016-04-07 10:01:41	jacky	Mais c’est exceptionnel parce que c’est un bug :wink:
+2016-04-07 10:04:02	aymericmathieu	:upside_down_face:
+2016-04-07 10:04:21	⤷	(merci Audrey :upside_down_face: je connaissais pas ! )
+2016-04-07 10:09:33	audreydudal	j'ai une passion pour les smileys
+2016-04-07 11:11:00	⤷	http://www.lengow.com/integrations/
+2016-04-07 11:11:00		Connect to ecommerce with Lengow (http://www.lengow.com/integrations/)
+2016-04-07 11:11:00		Marketing channels, analytical tools, ecommerce platforms… Lengow integrates with a multitude of services.
+2016-04-07 11:11:10	⤷	le lien vers le blog est cassé
+2016-04-07 11:11:11	⤷	http://blog.lengow.dev/
+2016-04-07 11:13:37	jacky	En effet
+2016-04-07 11:16:12	⤷	c’est bon
+2016-04-07 11:17:34	audreydudal	merci
+2016-04-07 11:22:00	InVision App :]	Lucile commented on a screen in the project *https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 11:22:00		Lucile: Page-Guide-Dediee-V4-After-3 (https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade)
+2016-04-07 11:22:00		Nouvelle version de la page des recommandations: Changement du style de titre "nouveaux contenus", plus d'aeration sur la 2 ème partie de page.
+2016-04-07 11:22:00		Est ce que le bouton " retour au guides" est toujours trop discret?
+2016-04-07 11:38:02	audreydudal	http://www.lengow.com/fr/guides/
+2016-04-07 11:38:02		Guides gratuits dédiés à l'eCommerce (comparateurs, places de marché....) (http://www.lengow.com/fr/guides/)
+2016-04-07 11:38:02		Retrouvez des guides thématiques pour développer votre site ecommerce grâce à une stratégie marketing optimale.
+2016-04-07 11:38:09	⤷	le bouton 'download' est an anglais
+2016-04-07 11:38:11	⤷	*en
+2016-04-07 11:38:32	⤷	idem sur toutes les langues
+2016-04-07 11:45:20	jacky	je n’ai pas toutes les langues par contre, me manque l’allemand, le portugais et le suédois
+2016-04-07 11:46:30	⤷	ok y’a eu un gros soucis lors de la mise a jour de WPML (le plugin de trad) j’ai l’impression que beaucoup de chose on sauté
+2016-04-07 11:50:59	⤷	J’ai remis les anciennes versions des plugins, même s’il y’a des alertes merci de ne pas updater ces plugins :simple_smile: tout remarche là
+2016-04-07 11:57:28	audreydudal	Pour les langues manquantes, tout doit être dans le drive
+2016-04-07 11:57:31	⤷	ca existait avant
+2016-04-07 12:02:59	InVision App :]	audrey commented on a screen in the project *https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:02:59		audrey: Page-Guide-Dediee-V4-After-3 (https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade)
+2016-04-07 12:02:59		oui, on ne le voit pas beaucoup
+2016-04-07 12:04:50	lucilefromant	Le soucis des plugin est good sur preprod
+2016-04-07 12:04:54	⤷	j’envoi sur la prod
+2016-04-07 12:07:35	InVision App :]	Lucile commented on a screen in the project *https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:07:35		Lucile: Page-Guide-Dediee-V4-After-3 (https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade)
+2016-04-07 12:07:35		ok donc je met le bouton " Retour aux guides" dans la deuxieme partie de page, au dessus du titre "Nouveaux contenus" ?
+2016-04-07 12:07:39	jacky	J’ai trouvé les trads mais c’est vraiment pas pratique un excel pour ça ^^bref, il manque quand même le suedois mais bon ca passe
+2016-04-07 12:09:12	audreydudal	je sai mais ce n'est pas moi qui est mis cela en place... c'est pour ça qu'il y a une tâche dans le backlog qui consiste à d'étudier le raccordement à l'outil de traduction Transifex
+2016-04-07 12:09:54	jacky	ok dac :simple_smile: c’était juste pour dire hein
+2016-04-07 12:10:02	audreydudal	c'est quoi l'URL de la landing page GS en prod?
+2016-04-07 12:10:24	jacky	elle n’existe pas, faut les créés :simple_smile:
+2016-04-07 12:10:34	audreydudal	ah oui tu me l'as déjà dit
+2016-04-07 12:10:46	⤷	pour les demandes rémi concernant le tracking je crée un nouveau ticket ?
+2016-04-07 12:10:52	jacky	on peut en faire une ensemble si tu veux, le temps que la doc soit faites
+2016-04-07 12:10:56	⤷	oui stp
+2016-04-07 12:11:16	audreydudal	en fait tu ne peux pas passer celle en pré-prod en prod?
+2016-04-07 12:11:35	jacky	c’est mieux de faire au propre avec une vraie URL
+2016-04-07 12:11:45	⤷	puis c’est bien que tu vois comment en faire aussi haha
+2016-04-07 12:12:35	audreydudal	ok ; cet aprem si j'ai du temps
+2016-04-07 12:14:53	lucilefromant	Soucis sur pages plugin  —> résolu
+2016-04-07 12:17:07	InVision App :]	audrey commented on a screen in the project *https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:17:07		audrey: Page-Guide-Dediee-V4-After-3 (https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade)
+2016-04-07 12:17:07		pour le titre c'est 'D'autres guides à découvrir' qu'il faut mettre ; je pense qu'il faudra diminuer la police car comme c'est long cela va faire très gros.
+2016-04-07 12:17:07		'retour aux guides' toujours dans la première partie de la page mais au lieu d'être en haut, en bas , après la phrase 'a très vite...'
+2016-04-07 12:17:53	InVision App :]	Lucile commented on a screen in the project *https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:17:53		Lucile: Page-Guide-Dediee-V4-After-3 (https://invis.io/Y86UALJZS/#/?slackActivity=CommentMade)
+2016-04-07 12:17:53		C'est noté ! :)
+2016-04-07 12:25:12	InVision App :]	Lucile commented on a screen in the project *https://invis.io/4S6UBWMQK/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:25:12		Lucile: Page-Guide-Dediee-V4-After-4 (https://invis.io/4S6UBWMQK/#/?slackActivity=CommentMade)
+2016-04-07 12:25:12		- Bouton retour en bas de la premiere partie de page
+2016-04-07 12:25:12		- Reduction de la taille du titre " D'autres guides à découvrir"
+2016-04-07 12:27:40	InVision App :]	audrey commented on a screen in the project *https://invis.io/4S6UBWMQK/#/?slackActivity=CommentMade (Site corp)*
+2016-04-07 12:27:40		audrey: Page-Guide-Dediee-V4-After-4 (https://invis.io/4S6UBWMQK/#/?slackActivity=CommentMade)
+2016-04-07 12:27:40		GO !
+2016-04-08 14:28:22	audreydudal	je nous ai mis une rdv pour la landing sinon je vais pas prendre le temps de le faire :wink:
+2016-04-08 14:32:30	lucilefromant	Tres bien :smile:
+2016-04-08 14:36:26	audreydudal	Je fais pas mal de test sur nos formulaires pour tester et bien synchroniser tous nos champs avec Nutshell, et j’ai maintenant un message qui m’indique :
+2016-04-08 14:36:26		 
+2016-04-08 14:36:26		Sorry, you have reached the submission limit for this form.
+2016-04-08 14:36:26		* 
+2016-04-08 14:36:26		Serait il possible facilement d’isoler mon IP ou dois je vider mes cookies régulièrement ?
+2016-04-08 14:36:31	⤷	une idée ?
+2016-04-08 14:46:17	⤷	une demande de maxime / peut être qu'il y a des limites sur gravity form?
+2016-04-08 14:56:55	jacky	Y’a toujours eu 5 limites par formulaire oui
+2016-04-08 14:57:19	⤷	et non on ne peut pas faire d’exception par IP, on peut supprimer la limite par contre
+2016-04-08 14:57:45	⤷	Lucile me dit qu’on peut supprimer les entries du formulaire pour reset la limite
+2016-04-08 14:57:57	⤷	les entries de sont mails seulement bien entendu
+2016-04-08 14:58:04	audreydudal	je pense qu'il faut garder une limite pour éviter les spams
+2016-04-08 14:58:28	⤷	ok ; et ca il a ccès pour le faire tout seul?
+2016-04-08 14:58:49	jacky	oui
+2016-04-08 15:02:57	audreydudal	ok !
+2016-04-08 15:03:32	lucilefromant	C’est good j’ai expliqué à Maxime :wink:
+2016-04-08 15:19:41	audreydudal	:+1:
+2016-04-11 10:42:38	⤷	j'ai un réu là qui commence avec du retard; peut être que je ne serai pas pile poil dispo à 11h30 tout à l'heure
+2016-04-11 10:43:37	lucilefromant	C’est noté
+2016-04-11 10:43:40	⤷	A toute!
+2016-04-11 17:34:10	InVision App :]	Lucile commented on a screen in the project *https://invis.io/TK6W8VVJY/#/?slackActivity=CommentMade (Site corp)*
+2016-04-11 17:34:10		Lucile: Home V1 (https://invis.io/TK6W8VVJY/#/?slackActivity=CommentMade)
+2016-04-11 17:34:10		Proposition pour la mise en avant de la demande de demo sur la page d'accueil :
+2016-04-11 17:34:10		A gauche : titre et sous titre 
+2016-04-11 17:34:10		A droite : Petit texte (idem Landing page? )
+2016-04-11 17:34:10		En dessous : Bouton "Demande de demo" qui amène vers le formulaire de demande de demo.
+2016-04-11 17:55:12	InVision App :]	audrey commented on a screen in the project *https://invis.io/TK6W8VVJY/#/?slackActivity=CommentMade (Site corp)*
+2016-04-11 17:55:12		audrey: Home V1 (https://invis.io/TK6W8VVJY/#/?slackActivity=CommentMade)
+2016-04-11 17:55:12		ok ; pour le texte :
+2016-04-11 17:55:12		- Demandez votre démo gratuite  dès aujourd'hui
+2016-04-11 17:55:12		pas besoin de sous-titre
+2016-04-11 17:55:12		- Nous vous recontactons sous 24 heures pour planifier votre démo 
+2016-04-11 17:55:12		- Nous évaluons vos besoins
+2016-04-11 17:55:12		- Vous voilà prêt à vendre dans le monde entier
+2016-04-11 18:04:43	InVision App :]	Lucile commented on a screen in the project *https://invis.io/6A6W9U2C3/#/?slackActivity=CommentMade (Site corp)*
+2016-04-11 18:04:43		Lucile: Home V1-2 (https://invis.io/6A6W9U2C3/#/?slackActivity=CommentMade)
+2016-04-11 18:04:43		Nouvelle proposition : 
+2016-04-11 18:04:43		- Sans sous-titre
+2016-04-11 18:04:43		- Avec texte
+2016-04-12 11:08:06	InVision App :]	Lucile resolved a conversation in project *https://invis.io/6A6W9U2C3/#/?slackActivity=ConversationResolved (Site corp)*
+2016-04-12 11:08:06		Lucile: Home V1-2 (https://invis.io/6A6W9U2C3/#/?slackActivity=ConversationResolved)
+2016-04-12 11:08:52	InVision App :]	audrey commented on a screen in the project *https://invis.io/6A6W9U2C3/#/?slackActivity=CommentMade (Site corp)*
+2016-04-12 11:08:52		audrey: Home V1-2 (https://invis.io/6A6W9U2C3/#/?slackActivity=CommentMade)
+2016-04-12 11:08:52		j'aurai bien mis 1,2,3 comme sur la landing. sinon cela me va
+2016-04-12 11:33:26	InVision App :]	Lucile commented on a screen in the project *https://invis.io/BR6WRYWW4/#/?slackActivity=CommentMade (Site corp)*
+2016-04-12 11:33:26		Lucile: Home V1-3 (https://invis.io/BR6WRYWW4/#/?slackActivity=CommentMade)
+2016-04-12 11:33:26		Nouvelle proposition avec une liste numérotée.
+2016-04-12 11:33:26		@fred @audrey @jacky
+2016-04-12 12:01:22	InVision App :]	audrey commented on a screen in the project *https://invis.io/BR6WRYWW4/#/?slackActivity=CommentMade (Site corp)*
+2016-04-12 12:01:22		audrey: Home V1-3 (https://invis.io/BR6WRYWW4/#/?slackActivity=CommentMade)
+2016-04-12 12:01:22		ok !
+2016-04-12 17:27:55	jacky	Pour info, en preprod et bientôt en prod (jeudi), quand vous ferez des tests sur tout les formulaires, vous ne recevrez plus de mails si vous êtes connecté au wordpress. 
+2016-04-12 17:27:55		On a mis une condition qui évite d’envoyer des mails à tout le monde si on est connecté en admin, ca évite qu’ils reçoivent trop de mails :wink: [:+1:2]
+2016-04-12 17:40:47	audreydudal	mais par exemple Maxime qui fait ses tests recevra bien le mail de notification ?
+2016-04-12 17:41:05	lucilefromant	Tout depend s’il est connecté à l'admin
+2016-04-12 17:41:23	⤷	Enfaite si on est connecté à l’admin, les emails sont envoyés à Jacky et moi
+2016-04-12 17:42:51	⤷	Pour recevoir les notif, il suffit que Maxime se deconnecte de son compte
+2016-04-12 17:45:55	audreydudal	par contre les commerciaux restent quand même spammés par ces multiples tests :wink:
+2016-04-12 17:46:05	⤷	ok, vous tenez max et rém au courant?
+2016-04-12 17:47:33	lucilefromant	Les commerciaux ne seront plus spammés par nos tests si on est connectéà l’admin justement
+2016-04-12 17:49:09	audreydudal	OK Je viens de comprendre....
+2016-04-12 18:02:39	lucilefromant	Mail envoyé :simple_smile:
+2016-04-12 18:04:34	audreydudal	on regarde les ticket mkt 260 et 262 ensemble demain matin
+2016-04-13 09:31:58	lucilefromant	ok
